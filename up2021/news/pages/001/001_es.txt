@@ -1,0 +1,34 @@
+{ 1 Última Patagonia 2021 }
+{ 2 Publicado el 07-03-2020 }
+{ 5
+¡Decidido: volvemos a Patagonia!
+La noticia es, desde hoy, oficial: iniciamos la preparación de un nuevo proyecto de expedición geográfica y espeleológica para los meses de enero y febrero de 2021.
+El 8 y 9 de febrero, los miembros de Centre Terre se reunieron en Limogne-en-Quercy, Francia, para trazar, en equipo, las grandes líneas de este proyecto.
+}
+{ 7
+[001.png/@]
+}
+{ 12
+Esta vez tenemos previsto centrar nuestras exploraciones en 3 puntos:
+}
+{ 6
+[003.png/@Sectores Sur (Barros Luco) y Norte (Huevo) de Madre de Dios]
+}
+{ 6
+- Glaciares de Campos de Hielo Sur: esta extensión de hielo es la más grande después de la Antártica y Groenlandia. El objetivo de 2021 se concentrará en la zona de las lenguas glaciares Andrew, Calvo y Guiraldi, las cuales presentan un gran potencial para la espeleología subglacial.
+- La zona norte de Madre de Dios por el seno Egg: se trata de la parte más septentrional de la isla que, si bien ha sido objeto de algunos reconocimientos por parte de grupos espeleológicos polacos, italianos e ingleses, no ha sido explorada en profundidad hasta nuestros días.
+- Las bahías del Barros Luco: explorada por Centre Terre en 2017 y 2019, esta zona no ha acabado de desvelar todos sus secretos. En 2021 nos centraremos en proseguir con la exploración de la sima Jackpot (-265 m) y de la cueva de las Tres Entradas Más Una (3 km de desarrollo).
+}
+{ 12
+A la fecha, son cuarenta y cinco los participantes involucrados en los preparativos de esta expedición, que presenta un nuevo desafío a nivel humano y logístico en estos inhóspitos territorios de los canales patagónicos. De hecho, habrá que lidiar con las condiciones meteorológicas extremas que azotan esta parte del globo, aunque también con los imprevistos de la navegación, ya sea para transportar a los exploradores como el material con destino a los tres puntos.
+}
+{ 12
+[002.png/@Reunión en Limogne-en-Quercy, el 8 y 9 de febrero en Francia]
+}
+{ 12
+Unos diez científicos completan el equipo. Estudiarán los aspectos relacionados al clima, la geología, la geomorfología, la botánica y la zoología de la isla. Siguiendo con los trabajos iniciados en 2019, se prevé dar continuidad al estudio de la biología marina. Con vistas a la decisión del Ministerio de Bienes Nacionales de Chile de inscribir el Bien Nacional Protegido Archipiélago Madre de Dios en la lista tentativa de lugares propuestos a Patrimonio Mundial de la UNESCO, el apartado científico, que ha ido reforzándose de año en año, seguirá completando el elenco de elementos que contribuirán a la puesta en valor del lugar.
+Siete buzos se turnarán en los dos meses de exploración para continuar con las exploraciones de simas y galerías inundadas, tanto en los glaciares como en el archipiélago Madre de Dios. Asistirán en los trabajos científicos en la toma de muestras, de imágenes y otras observaciones en medio acuático.
+En el ámbito escolar, está a punto de lanzarse un nuevo proyecto educativo. Al amparo del reconocimiento recibido, las actividades de Centre Terre se inscriben dentro de los programas del Ministerio de Educación francés. Gracias a esta colaboración, liderada por el Rectorat de Toulouse, todas las circunscripciones educativas de la Francia continental y de ultramar serán en breve invitadas a sumarse, una vez más, a este proyecto de gran calado, con el objetivo de que las clases de todos sus establecimientos educativos puedan participar en el seguimiento del proyecto de 2021 de la mano de exploradores y científicos. Además, las clases participantes también podrán presentar a concurso su proyecto relacionado con la expedición. Como resultado de este concurso, las clases galardonadas podrán disfrutar de una jornada de iniciación a la espeleología en compañía de miembros de Centre Terre.
+Pero antes de partir, quedan aún muchos interrogantes abiertos, sobre todo en relación con los medios logísticos que serán necesarios para transportar a los participantes y los materiales. Además, queda pendiente validar los posibles puntos de implantación para la construcción de un refugio en la zona del seno Egg y la ubicación del campamento temporal en la zona de los glaciares. Por ello, el 10 de marzo de 2020 se dará inicio a una misión de reconocimiento. Cuatro miembros de Centre Terre se desplazarán a Chile con el objetivo de reforzar la cooperación y las colaboraciones establecidas tras veinte años de presencia en la zona. También pondrán rumbo a Puerto Edén. Tendrán quince días para reuniones, precisar los detalles logísticos y verificar los posibles puntos de implantación de los campamentos.
+El proyecto Última Patagonia 2021 no es un proyecto aislado, sino que es fruto de un trabajo en equipo que viene de largo, apoyado por numerosos partners y colaboradores que nos brindan su apoyo y una ayuda esencial para hacer realidad nuestros proyectos. Para esta nueva edición, esperamos poder volver a contar con su patrocinio.
+}

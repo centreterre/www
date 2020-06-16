@@ -1,0 +1,80 @@
+{ 1 Los descubrimientos, ¡por fin! }
+{ 2 Publicado el 24-01-2017 }
+{ 3 Jueves 19 de enero }
+{ 12
+La base logística, la base logística, la base logística... es lo que centra todas nuestras preocupaciones. A pesar de que nuestro equipo técnico trabaja a destajo, que no deja las herramientas hasta pasadas las 21h y tras una jornada laboral bajo una lluvia que no ha cesado desde nuestra llegada, los avances no están a la altura de nuestra impaciencia. Sin embargo, hoy se han terminado las fundaciones. Es una etapa importante, ya que ahora se podrá empezar con el suelo, sobre el que marcharemos sin problemas y sobre el que podremos poner una escalera de mano sin hacer malabarismos para afirmarla. Sobre esta plataforma indispensable se podrán ir montando los marcos de madera que conforman las estructuras de los muros y todo tomará una mayor velocidad.
+}
+{ 12
+[Base-Structure.jpg/Structure de la base logistique]
+}
+{ 12
+Los seis instalados en el campamento avanzado, llamado «campamento Sumidero», nos informan por radio sobre sus avances. Se han organizado en dos pequeños grupos de tres que han explorado y topografiado sendas cavidades: el sumidero n°1 (que ya habíamos localizado en 2008 durante una incursión que partió de la base minera de Guarello) y el sumidero n°2. Ambas cavidades terminan en un sifón. Una llega a una profundidad de – 50 m (bautizada como Ojo de la Madre) y la otra, a -120 (Ombligo de la Madre). Bajo tierra se sigue el camino del agua con todo el riesgo que ello conlleva pero, como el río está ya en crecida, no hay peligro de que nos sorprenda un brutal aumento de caudal. Este riesgo aumentaría significativamente tras un día sin lluvia, aunque sin duda alguna una posible crecida se reabsorbería muy rápido, porque las zonas drenadas por los torrentes que se pierden bajo tierra no son muy extensas. En caso de duda, la regla intangible es actuar con grandes dosis de prudencia.
+}
+{ 12
+[Camp-Avance-1.jpg/Camp avancé]
+}
+{ 12
+El campamento Sumidero está conformado por dos carpas y una lona de protección extendida entre dos árboles, lo que crea un espacio de vida protegido de la lluvia. Se ha montado sobre una zona abombada al fondo de una depresión. Buena elección: está protegido del viento por los árboles sin las ciénagas que se crean en cada hondonada del terreno. La hierba de alrededor sigue siendo verde, no como en el campamento base, donde, vistas las condiciones reinantes, Bernard requisa una parte de la carpa rusa destinada al equipo de cine: la estufa de leña para la futura cabaña se pone en marcha. Pronto, este espacio se convierte en una gigantesca zona de secado sobrecargada con ropa que gotea por doquier y que uno espera que esté menos helada al día siguiente por la mañana cuando haya que volvérsela a poner.
+}
+{ 12
+[Entree-1.jpg/Entrée de perte]
+}
+{ 12
+Franck y Carlos han salido a hacer un reconocimiento en buceo del fondo del seno. Hay relativamente poca fauna: estrellas de mar naranjas y azules y algunos peces que circulan entre las anchas hojas de las laminarias que ondulan entre dos aguas. La profundidad aumenta lentamente hasta alcanzar los treinta metros en la desembocadura del seno en el Barros Luco. En ese punto, un oscuro abismo es indicativo de una enorme profundidad.
+}
+{ 3 Viernes 20 de enero }
+{ 12
+Los cineastas están súper emocionados. Hoy por fin llegan sus 42 maletas de material con el don Arturo, que se ha fletado expresamente. La embarcación también nos trae un material de gran importancia: la famosa antena satelital Explorer GX5075, puesta a disposición de Última Patagonia 2017 por el operador Marlink, uno de los principales colaboradores de la expedición.
+}
+{ 12
+[Marlink-2.jpg/Antenne satellite Explorer GX5075]
+}
+{ 6
+El barco echa las amarras a mediodía y la noria de la tirolina se pone en funcionamiento. Marcelo y Francisco han organizado este viaje y han venido en persona (teniendo que soportar los inconvenientes de cuatro días de navegación) para asegurar que la operación se desarrolla correctamente. Pasan unas pocas horas con nosotros y se embarcan nuevamente. Una vez desembalada y conectada, la antena capta automáticamente la señal óptima emitida por el satélite. ¡Suerte que está impermeabilizada! Impávida bajo la lluvia ajusta su orientación en dos planos perpendiculares con movimientos cada vez más y más pequeños hasta inmovilizarse al conectarse con el satélite. Laurent, el encargado de las conexiones en tierra, se apronta a encontrar los cables correctos, el convertidor, el router, el teléfono especial, el computador... Tras varios tanteos inevitables, tras varias pérdidas súbitas de conexión y de los sudores fríos propios de la tensión, todo acaba funcionando perfectamente a pesar de un entorno particularmente complicado para un equipo de tecnología de punta. El grifo de informaciones empieza a brotar a plena potencia. Es el final de nuestra isla perdida; volvemos a estar conectados con el mundo. Nos enteramos que Francia tirita bajo la nieve y que Chile batalla con los incendios, mientras que nosotros nos empapamos bajo la lluvia.
+}
+{ 6
+[Marlink-3.jpg/Antenne satellite Explorer GX5075]
+}
+{ 12
+Esta tarde dos equipos de reconocimiento han salido en botes Bombard. Uno atraviesa el Barros Luco rumbo a la Gran Barrera. Encuentra una pequeña cala muy protegida del oleaje desde la que se puede abrir un camino cómodo hacia lo alto de este impresionante macizo de caliza. Se extiende, blanco y desnudo, por unos 15 km de longitud, bordeando el seno por el lado sur hasta su desembocadura en el Pacífico. Al frente, en la ribera norte del Barros Luco, otro equipo busca un acceso al karst que se levanta de ese lado y que culmina en el Cerro Vertical (650 m). Pasando por el campamento Sumidero se tardaría mucho más en llegar. Se encuentra un punto de acceso subiendo por el lateral del vasto circo que lo bordea, atravesando un área de bosque magallánico con troncos cubiertos de musgo. Como en el caso de la Gran Barrera, en este vasto lapiaz habrá que instalar un campamento avanzado para poder explorarlo.
+}
+{ 12
+[Lapiaz-1.jpg/Lapiaz]
+}
+{ 12
+Resiguiendo en Bombard el borde costero, el equipo descubre una gran exurgencia submarina. El agua dulce llega con gran fuerza formando un abombamiento, una especie de champiñón que se eleva bajo el nivel del mar. Se trata de una antigua salida de agua aérea que quedó inundada por la transgresión marina que siguió al final del último periodo glaciar, hace 12.000 años. Franck ya se imagina buceándolo... El regreso al campamento transcurre con el oleaje por la espalda. Un lobo de mar y dos delfines asoman la nariz. Una vez pasados los fragmentados
+islotes, a nuestro paso alzan el vuelo un petrel y cormoranes. Unos pingüinos se sumergen, al tiempo que los albatros, majestuosos, vuelan a ras de las olas con increíble facilidad.
+}
+{ 12
+En el campamento Sumidero, se explora la gran depresión impermeable situada al norte de las carpas. Sabemos que en ese punto se abre la única cavidad conocida del norte de Madre de Dios. Se trata del Útero de la Madre, explorada en 2007 por Roger Rovira y Cristián Donoso durante una navegación en kayak de 2000 km por Patagonia. ¡Toda una proeza! Por ello, cuando el equipo encuentra cerca del campamento una amplia entrada (de 20 m x 20 m) por la que se filtra el agua, Vincent, José y Stéphane creen encontrarse en el Útero y no insisten. Encuentran un segundo
+sumidero que exploran fácilmente y sin siquiera ponerse el equipo de espéleo. De golpe, sorpresa: ¡una marca y un guante! ¡Así que este es el Útero! Bajan hasta el fondo sin material, a unos 700 m de la entrada y a unos -150. Por encima del sifón terminal dos pequeños conductos, a los que habría que acceder en escalada, permitirían quizás evitar el sifón y encontrar la continuación, aunque habrá que regresar con el equipo adecuado.
+}
+{ 12
+[Entree-3.jpg/Entrée de cavité]
+}
+{ 12
+Durante este tiempo, los otros tres miembros del equipo, Arnauld, Joël y Cédric, se encuentran en otro sumidero que bautizan con el nombre de Lágrimas de la Madre. Progresan hasta la cota -120 y se detienen a 230 m de la entrada por falta de material. Es una galería fósil meandriforme que se encuentra en lo alto de un resalte de tres metros por el que sube el ruido del río. ¡Queda claro que se trata de una zona que promete!
+}
+{ 12
+Por la noche se calma el tiempo. Un punto azul se abre entre las nubes, algo que no habíamos visto aún desde nuestra llegada. Los que esa noche se atreven a sacar la nariz de sus carpas confirman haber visto estrellas...
+}
+{ 3 Sábado 21 de enero }
+{ 12
+Era de esperar... vuelve a llover. En la carpa-cantina los informáticos se apropian de una mesa. A la hora de las comidas, el hacinamiento es total y gestionar el espacio se convierte en una misión imposible. Durante la conexión, nos contactamos por Skype con el CCMM (Centro de consultación médico marítimo), que sigue la expedición, y probamos la maleta Parsys de diagnóstico médico. Bernard compra tranquilamente minutos de telefonía Skype con la tarjeta de crédito de Centre Terre. Realmente, estamos en otra época. Tal y como reza el eslogan de Marlink: «Connect smarter. Anywhere» (Conéctate de forma inteligente. En cualquier parte).
+}
+{ 12
+Los dos equipos que habían salido para continuar con las incursiones de reconocimiento de ayer desde el campamento base se encuentran con que hoy el oleaje no les deja pasar. No hay mal que por bien no venga: uno de los dos C5 Bombard hace una escala en una pequeña cala donde descubren una cavidad. Se trata de una galería que cien metros que da a un sifón. Se abren varios accesos a la napa de agua. Sin duda, es la desembocadura de uno de los colectores del sector. A los buzos no les van a faltar objetivos.
+}
+{ 12
+[Entree-2.jpg/Entrée de perte]
+}
+{ 6
+A las 19:30 llega a la base el equipo del campamento Sumidero, exultantes por sus descubrimientos. Se encuentran con los avances de las obras de la base logística: se han puestos las planchas inferiores del tejado (por lo que estamos casi al resguardo del agua) y se han iniciado las instalaciones interiores. Un embrión de cuadro eléctrico fijado a la pared espera el cableado. Mejor aún: un magnífico plato de ducha nos hace revivir las esperanzas de una ducha caliente al día siguiente... Es el reto que se han planteado Cecilia y Bernard hace tres días y en el que casi nadie confía.
+En estas difíciles condiciones impuestas por el medio, las exigencias de confort –a menudo extravagantes- a las que el ser humano se ha acostumbrado acaban reduciéndose hasta convertirse en una verdadera necesidad... ¿No es, quizás, hora de revisar nuestras supuestas «necesidades», de iniciar el camino hacia una mayor frugalidad? Aquí reina la Naturaleza. Estamos en su territorio, a su merced. Es un pequeño recordatorio, a modo de saludo, de la fragilidad de nuestra condición.
+}
+{ 6
+[Conduite.jpg/Galerie active]
+}
+{ 12
+[Riviere-2.jpg/Rivière souterraine]
+}

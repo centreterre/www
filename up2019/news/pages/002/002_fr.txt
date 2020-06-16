@@ -1,0 +1,68 @@
+{ 1 Mise à jour de mars 2018 }
+{ 2 Publié le 31-03-2018 }
+{ 12
+<b>Le rapport complet sur l'expédition Ultima 2017 est paru</b>
+}
+{ 4
+[rapport-up2017.jpg/@]
+}
+{ 8
+L'expédition Ultima 2017 a rapporté une moisson de résultats, à la hauteur de la logistique mise en œuvre et de l'investissement de chacun des membres d'une équipe dont la motivation, loin de fléchir, semble s'accroître à chaque nouvelle campagne patagonne.
+Forcément, mettre en forme l'ensemble de ces résultats prend du temps ! L'exploitation de toutes les données scientifiques n'est d'ailleurs pas encore finalisée. Mais il était temps de produire le document récapitulatif que nous réalisons après chaque expédition. Celui qui concerne Ultima 2017 vient donc de sortir des presses. 
+C'est un gros pavé de 128 pages quadri qui aborde tous les aspects de l'expédition : organisation et logistique, relations avec les autorités chiliennes, déroulé des deux mois sur place, description des cavités explorées, projet éducatif, premiers résultats scientifiques, enfin focus sur l'alimentation, la couverture médicale et le film.
+}
+{ 12
+Nous avons dédié cet ouvrage à la mémoire de notre ami José Mulot dont ce fut la dernière expédition avant que le mal implacable qui le rongeait ne l'emporte.
+Le rapport de l'expédition Ultima 2017 est d'ores et déjà en vente dans la boutique de notre site. En vous le procurant, vous partagerez nos émotions et nos découvertes, et vous participerez au succès de l'expédition 2019 en préparation. 
+}
+{ 12
+<a href="https://www.etsy.com/fr/listing/738457025/rapport-de-lexpedition-2017" target="_blank">Lien vers la boutique Centre Terre</a>
+}
+{ 12
+<b>Cambouis et compagnie</b>
+Nos expéditions exigent l'emploi de moteurs (groupes électrogènes, motorisation de nos Bombard…) qui sont soumis à rude épreuve dans le climat patagon, et subissent en outre de longs séjours en mer dans notre conteneur.
+}
+{ 12
+[we-meca-manuscopique.jpg/@]
+}
+{ 6
+Ces conditions exigent une maintenance scrupuleuse qui vient d'être réalisée le week-end des 24 et 25 mars.
+Vu l'ampleur de la tâche, Florian, notre chef mécanicien, s'était entouré de Denis, Georges, Jean-Philippe, Sébastien, Sylvain et Yannick. Cette équipe de choc a déposé, contrôlé, vidangé, graissé, changé ce qui devait l'être, sans oublier d'anticiper la suite ; le tout dans la bonne humeur qui sied à toute réunion Centre Terre.
+Merci à eux pour ce travail technique, certes un peu rébarbatif, mais oh combien utile !
+}
+{ 6
+[we-meca-florian.jpg/@]
+}
+{ 12
+<b>Le film de l'expédition 2017 vient d'être de nouveau primé</b>
+}
+{ 2
+[festival-affiche.jpg/@]
+}
+{ 6
+Et de cinq ! 
+Après les prix obtenus à Nice, Dijon, La Ciotat et Montpellier, L'île oubliée de Patagonie a obtenu le 3 février dernier le prix du film d'exploration au 49ème Festival International du film maritime, d'exploration et d'environnement.
+}
+{ 4
+[festival-palme.png/@]
+}
+{ 12
+<b>L'expédition de reconnaissance en vue de 2019 se prépare</b>
+}
+{ 4
+[carte-glacier.jpg/@]
+}
+{ 8
+L'expédition Ultima Patagonia qui se déroulera en janvier et février 2019 s'est donnée deux zones d'action très différentes :
+- un secteur encore inconnu du nord de l'île Madre de Dios ;
+- mais aussi, pour la première fois, un glacier du Hielo Patagonico Sur, la plus grande calotte glaciaire de la planète hors les pôles, afin d'en reconnaître et explorer les moulins (gouffres) s'ouvrant à sa surface, donc en pleine glace.
+}
+{ 6
+Pour ce second objectif, une reconnaissance est indispensable afin de préciser les meilleurs objectifs et les possibilités d'implantation d'un camp.
+Cette reconnaissance partira le 3 avril prochain pour une durée de 20 jours et sera composée de cinq personnes : Natalia et Marcelo viendront de Santiago, tandis que Michel, Denis et Bernard s'envoleront de France.
+La prochaine mise à jour rendra compte de cette opération. 
+}
+{ 6
+[photo-mdd.jpg/@]
+}
+

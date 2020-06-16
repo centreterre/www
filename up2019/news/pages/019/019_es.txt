@@ -1,0 +1,13 @@
+{ 1 Ultima Patagonia }
+{ 12
+<iframe src="https://player.vimeo.com/video/361486056" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+Desde 1995, la asociación Centre Terre se dedica a explorar cuatro islas de los canales patagónicos. Se trata de afloramientos de caliza… los afloramientos karstificados en medio insular más australes de la Tierra.
+Tras varias expediciones se han encontrado formaciones naturales de superficie únicas en el mundo. Son los llamados “cometas de roca”, “glaciares de mármol”, “champiñones de roca”…. Además, se ha dado con una cueva con pinturas rupestres y un cementerio de ballenas.
+La película “Última Patagonia” cuenta la aventura vivida en enero-febrero de 2019 por 43 hombres y mujeres que han explorado, en plena autonomía, una amplia zona aun desconocida de la isla Madre de Dios y una parte del glaciar Témpanos, situado en Campo de Hielo Patagónico Sur.
+La expedición parte con la instalación de varios campamentos avanzados bajo la lluvia, el viento y tras aproximaciones delicadas. El objetivo es ampliar la exploración a sectores nuevos. A ello se suman las incursiones rápidas y misiones científicas en zonas con potencial para, luego, proceder a la exploración sistemática de los sectores más interesantes. El resultado son más de 6 km de sistemas subterráneos fósiles e inundados explorados y el levantamiento de muestras que están siendo analizadas.
+La película muestra de forma bella y didáctica el día a día de los equipos en terreno, así como el trabajo científico. Una excepcional aventura que contribuirá a conocer mejor este excepcional territorio.
+Una película de 93 minutos realizada par Gilles Santantonio
+}
+{ 12
+[up2019-ultima-patagonia.jpg/]
+}

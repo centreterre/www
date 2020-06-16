@@ -1,0 +1,14 @@
+{ 1 Ultima Patagonia }
+{ 12
+<iframe src="https://player.vimeo.com/video/359715372" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+Depuis 1995, l’association Centre Terre se consacre à l’exploration de quatre îles désertes de l’archipel de la Patagonie chilienne, où affleurent les zones calcaires les plus australes de notre Terre.
+Au fil des expéditions, les explorateurs ont découvert des formations naturelles uniques sur la planète : les « comètes de roche », les « glaciers de marbre », les « champignons rocheux », sans oublier une grotte préhistorique à peintures et un cimetière de baleines.
+Le film « Ultima Patagonia » raconte l’aventure vécue en janvier-février 2019 par les quarante trois participants qui ont exploré, en autonomie complète, une ample zone encore inconnue de l’île Madre de Dios ainsi qu’une partie du Glacier Tempano situé lui, sur le Campo De Hielo Sur (troisième calotte glaciaire au monde).
+L’expédition a commencé par le déploiement de multiples camps avancés, sous la pluie, le vent et avec de longues approches parfois délicates, en vu pouvoir conduire l’exploration de ces secteurs nouveaux.
+Elle s’est poursuivie par une série de raids et de missions scientifiques, sur les grands objectifs des différentes zones, puis par l’exploration systématique des secteurs les plus intéressants. Ces recherches ont permis la découverte de plus de six kilomètres de réseaux souterrains noyés ou exondés et le prélèvement de nombreux échantillons qui sont maintenant en cours d’analyse.
+Le film s’attache tout autant à peindre le quotidien des équipes qui ont partagé cette grande aventure humaine, qu’à présenter de façon vivante les travaux scientifiques entrepris pour mieux connaître ce milieu exceptionnel.
+Un film de 93 minutes réalisé par Gilles Santantonio
+}
+{ 12
+[up2019-ultima-patagonia.jpg/]
+}

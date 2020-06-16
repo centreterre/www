@@ -1,0 +1,69 @@
+{ 1 Actualizació - Marzo 2018 }
+{ 2 Publicado el 31-03-2018 }
+{ 12
+<b>Se acaba de publicar el informe completo de la expedición Última Patagonia 2017</b>
+}
+{ 4
+[rapport-up2017.jpg/@]
+}
+{ 8
+La expedición Última Patagonia 2017 ha aportado una gran cantidad de resultados, a la altura de la logística puesta en marcha y del esfuerzo de de los miembros de un equipo cuya motivación, lejos de disminuir, parece aumentar con cada campaña patagónica.
+Dar forma a todos estos resultados, necesariamente, toma tiempo. Aunque la explotación de todos los datos científicos no ha finalizado aún, era hora ya de elaborar el documento recapitulativo que realizamos tras cada expedición. De modo que el informe de Última Patagonia 2017 acaba de salir de imprenta. 
+Se trata de una publicación bilingüe de 128 páginas en color que aborda todos los aspectos de la expedición: desde la organización y logística, relaciones con las autoridades chilenas, desarrollo de los dos meses en terreno; pasando por la descripción de las cavidades exploradas, el proyecto educativo, primeros resultados científicos; hasta la alimentación, la cobertura médica y la película.
+}
+{ 12
+Hemos dedicado este trabajo a la memoria de nuestro amigo José Mulot, ya que esta fue su última expedición antes de que la implacable enfermedad que le carcomía se lo llevara.
+El informe de la expedición Última Patagonia 2017 ya está a la venta en nuestra tienda on-line. Adquiriéndolo podrán no sólo compartir nuestras emociones y nuestros descubrimientos, sino también participar del éxito de la expedición 2019 que estamos preparando. 
+}
+{ 12
+<a href="https://www.etsy.com/fr/listing/738457025/rapport-de-lexpedition-2017" target="_blank">Lien vers la boutique Centre Terre</a>
+}
+{ 12
+<b>De aceites quemados y otros</b>
+Nuestras expediciones exigen el empleo de motores (grupos electrógenos, motorización de nuestros Bombard, etc.) que soportan la dura prueba del clima patagónico y sufren, además, el largo trayecto por mar en nuestro contenedor.
+}
+{ 12
+[we-meca-manuscopique.jpg/@]
+}
+{ 6
+Estas condiciones exigen un mantenimiento escrupuloso, que acaba de realizarse el fin de semana del 24 y 25 de marzo.
+Vista la magnitud de la tarea, Florian, nuestro mecánico en jefe, ha estado acompañado por Denis, Georges, Jean-Philippe, Sébastien, Sylvain y Yannick. Este equipo de shock ha sacado, controlado, vaciado, engrasado, cambiado lo que era necesario cambiar, sin olvidar de anticipar lo que viene, y todo ello con el buen humor que impera en cualquier reunión de Centre Terre.
+¡Gracias a este equipo por el trabajo técnico, una tarea nada grata, pero imprescindible!
+}
+{ 6
+[we-meca-florian.jpg/@]
+}
+{ 12
+<b>El film de la expedición 2017 acaba de recibir un nuevo premio</b>
+}
+{ 2
+[festival-affiche.jpg/@]
+}
+{ 6
+¡Y ya van cinco! 
+Tras los premios obtenidos Niza, Dijon, La Ciotat y Montpellier, el pasado 3 de febrero, L’île oubliée de Patagonie obtuvo su último galardón en territorio francés en el 49ºFestival International du Film Maritime, d’Exploration et d’Environnement (festival internacional del film marítimo, de exploración y medioambiente)
+}
+{ 4
+[festival-palme.png/@]
+}
+{ 12
+<b>La expedición de reconocimiento con la mirada puesta en el 2019 se prepara</b>
+}
+{ 4
+[carte-glacier.jpg/@]
+}
+{ 8
+La expedición Última Patagonia 2019, que se llevará a cabo en enero y febrero de 2019, se centrará en dos zonas de acción bien diferentes:
+- en un sector aún desconocido del norte del Archipiélago Madre de Dios;
+- y, por primera vez, en un glaciar de Campos de Hielo Sur (la extensión de hielos continentales más grande del planeta después de los polos) con el objetivo de reconocer y explorar los molinos (simas) que se abren en superficie, es decir, en medio del hielo.
+}
+{ 6
+Para este segundo objetivo es indispensable realizar un reconocimiento previo con el fin de precisar mejor los objetivos y la implantación del campamento.
+Este viaje de reconocimiento, que empezará el próximo 3 de abril y durará 20 días, lo realizarán cinco personas: Natalia y Marcelo, que vendrán de Santiago, y Michel, Denis y Bernard que llegarán desde Francia.
+En la próxima actualización les contaremos cómo ha ido en esta operación.
+}
+{ 6
+[photo-mdd.jpg/@]
+}
+
+

@@ -1,0 +1,14 @@
+{ 1 L’ile oubliée de Patagonie }
+{ 2 Publié le 30-11-2017 }
+{ 12
+Depuis plus de vingt ans, l’association Centre Terre se consacre à l’exploration de quatre îles désertes de l’archipel de la Patagonie chilienne, où affleurent les zones calcaires les plus australes de notre Terre.
+Au fil des expéditions, les explorateurs ont découvert des formations naturelles uniques sur la planète : les « comètes de roche », les « glaciers de marbre », les « champignons rocheux », sans oublier une grotte préhistorique à peintures et un cimetière de baleines.
+Le film « l’île oubliée de Patagonie » raconte l’aventure vécue en janvier-février 2017 par les quarante participants qui ont exploré, en autonomie complète, une zone encore inconnue de l’île Madre de Dios.
+L’expédition a commencé par la construction de toutes pièces, sous la pluie et le vent constants, d’une base destinée à protéger les participants et leur matériel scientifique des fureurs des Cinquantièmes Hurlants.
+Elle s’est poursuivie par une série de raids sur les grands objectifs de la zone, puis par l’exploration systématique des secteurs les plus intéressants. Ces recherches ont permis la découverte de plus de dix kilomètres de réseaux souterrains et de plusieurs sites archéologiques.
+Le film s’attache tout autant à peindre le quotidien des équipes qui ont partagé cette grande aventure humaine, qu’à présenter de façon vivante les travaux scientifiques entrepris pour mieux connaître ce milieu exceptionnel.
+Un film de 90 minutes réalisé par Gilles Santantonio
+}
+{ 12
+[up2017-film-ile-oubliee-de-patagonie.jpg/]
+}

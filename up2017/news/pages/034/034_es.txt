@@ -1,0 +1,14 @@
+{ 1 Patagonia: la isla olvidada }
+{ 2 Publicado el 30-11-2017 }
+{ 12
+Hace más de veinte años que la asociación Centre Terre se dedica a explorar cuatro islas deshabitadas de los archipiélagos de la Patagonia, en la región de Magallanes y Antártica chilena.
+En el transcurso de las expediciones, los exploradores han descubierto formaciones naturales únicas en el planeta: los «cometas de roca», los «glaciares de mármol», los «champiñones de roca», así como una cueva prehistórica con pinturas y un cementerio de ballenas.
+La película «Patagonia: la isla olvidada» relata la aventura vivida en enero y febrero de 2017 por los cuarenta participantes que han explorado, en un régimen de total autonomía, una zona aún desconocida del archipiélago Madre de Dios.
+La expedición empieza con la construcción, desde cero y bajo una lluvia y viento constantes, de una base destinada a proteger a los participantes y al material científico de la furia de los Cincuenta Aulladores.
+Continúa con las incursiones en los grandes objetivos de la zona y, luego, con la exploración sistemática de los sectores más interesantes. Estas investigaciones han permitido descubrir más de diez kilómetros de sistemas subterráneos y varios sitios arqueológicos.
+La película muestra el día a día de los equipos que han compartido esta gran aventura y presenta, de manera muy entretenida, los trabajos científicos desarrollados para conocer mejor este excepcional territorio.
+Un film de 90 minutos realizado por Gilles Santantonio.
+}
+{ 12
+[up2017-film-ile-oubliee-de-patagonie.jpg/]
+}

@@ -1,0 +1,8 @@
+{ 1 Céline Cousteau dans sillage de son grand-père }
+{ 2 Publicado el 02-12-2018 }
+{ 3 Lundi 3 décembre à 21h sur France 3 }
+{ 12
+	Céline Cousteau se rend en Patagonie, au royaume des baleines, l'animal fétiche de son grand-père, et découvre comment ce territoire a évolué (avec la participation d'une équipe de Centre Terre).
+	<a href="http://www.programme-television.org/jwplayer/diff/194376483/interne" target="_blank"><img class="img-responsive" src="up2019/news/pages/005/cousteau.png" alt=""></a>
+}
+
