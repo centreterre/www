@@ -1,6 +1,17 @@
 <div class="well">
     <div class="row">
         <div class="col-md-12">
+            <h2>Evénements</h2>
+            <i class="fa fa-calendar"></i>
+            Conférence annuelle de l'association spéléologique autrichienne à Werfenweng les 26 et 27 septembre.
+            Charlotte Honiat, membre de l'expédition UP2019, y tiendra une conférence sur la Patagonie (en anglais).
+            <br><a href="https://hoehle.org/tagung2020" target="_blank">Lien vers le programme</a>
+        </div>
+    </div>
+</div>
+<div class="well">
+    <div class="row">
+        <div class="col-md-12">
             <h2>Projet scolaire UP2021</h2>
             <i class="fa fa-file-text-o"></i>
             <a href="projet-scolaire-up2021-presentation.php">
