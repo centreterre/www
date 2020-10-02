@@ -1,0 +1,21 @@
+{ 1 Puesta a punto de la flotilla Centre Terre }
+{ 2 Publicado el 02-10-2020 }
+{ 12
+A principios de junio, apenas se decretó el fin del confinamiento en Francia, algunos miembros de Centre Terre se reunieron en el departamento francés de Le Lot para pasar un fin de semana reparando y acondicionando nuestras embarcaciones (cinco Bombard C5, un Typhoon y un Aerotec) para la futura expedición. Se trata de una operación absolutamente ineludible porque nuestras embarcaciones son sometidas a duras pruebas durante los dos meses de expedición que pasamos en terreno.
+En paralelo, gracias a las gestiones realizadas por Bernard, se ha acordado una colaboración con el grupo Suzuki Marine, lo que permitirá renovar la parte del parque de motores más antigua, que ya ha cumplido prácticamente veinte años de servicio. En cuanto al resto de motores, además de las operaciones de mantenimiento regulares, las piezas usadas o inservibles se desmontaron con el objetivo de pedir los recambios antes de la fecha prevista para cargar todo el material en el contenedor, es decir, el 3-4 de octubre de 2021.
+Pero en tiempos del COVID los plazos son imprevisibles. Las últimas piezas pedidas no llegarán hasta el 8 de septiembre. ¡No hay tiempo que perder! Hay que organizar una nueva “sesión de mecánica” para finalizar la puesta a punto. Florian, Lionel, Bernard, Carlos, Clément, Nicolas y Sébastien vuelven a reunirse en Le Lot los días 12 y 13 de septiembre. Gracias al apoyo de Suzuki Marine, ahora contamos con cuatro motores nuevos de última generación (un motor 30 CV, dos motores 25 CV y uno más de 9,9 CV). Completarán la flotilla junto a nuestros dos motores Suzuki 50 CV, que acaban de cumplir 10 años.
+}
+{ 12
+[003-1.png/@Todos los motores han sido objeto de un minucioso mantenimiento]
+}
+{ 12
+En realidad, no es mucho el tiempo de que disponen. Además de las tareas de mantenimiento (turbinas, bomba de agua, manguitos, engrase, etc.), la puesta en agua y la fabricación de cajas de almacenamiento y transporte, hay que revisar dos antiguos motores para poder ponerlos a la venta.
+También hay que pensar en los botes neumáticos y cómo reforzar los dos C5 Bombard que se usarán en la parte “glaciar” de la expedición. De hecho, con la experiencia de 2019 y tras el reconocimiento de los distintos puntos, cabe esperar que la operación de acercamiento hacia las zonas glaciares sea especialmente complicada por la gran cantidad de témpanos puntiagudos y cortantes que flotan a la deriva a merced de la marea y las corrientes. Los C5 Bombard no deberían usarse para el acercamiento a la lengua de hielo. Esta operación se hará con embarcaciones rígidas con fondo plano que conseguiremos en Puerto Edén o por la zona. No obstante, en caso de necesidad o de avería, habrá que enviar, por fuerza, los C5 Bombard, pero sin que se dañen.
+}
+{ 12
+[003-2.png/@Nicolas y Carlos finalizando la confección de las cajas de almacenamiento de los nuevos motores]
+}
+{ 12
+La próxima etapa de la preparación de la expedición será la carga del material en el contenedor los días 3 y 4 de octubre. El equipo está completamente motivado y ya se han realizado numerosos preparativos, ya sea a nivel de material de exploración (espeleología, buceo, etc.), de construcción para el refugio del seno Egg, de material científico, etc.
+Pero todos somos conscientes de las dificultades propias de la situación sanitaria, que no parece tener visos de mejorar en los siguientes meses. En este contexto, cada día que pasa, la opción de aplazar la expedición unos meses o incluso un año es cada vez más probable.
+}
