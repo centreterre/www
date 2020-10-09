@@ -1,11 +1,21 @@
+
+
+
+
+
 <div class="well">
     <div class="row">
         <div class="col-md-12">
             <h2>Evénements</h2>
             <i class="fa fa-calendar"></i>
-            Conférence annuelle de l'association spéléologique autrichienne à Werfenweng les 26 et 27 septembre.
-            Charlotte Honiat, membre de l'expédition UP2019, y tiendra une conférence sur la Patagonie (en anglais).
-            <br><a href="https://hoehle.org/tagung2020" target="_blank">Lien vers le programme</a>
+            Mardi 20 octobre 2020, 16h, projection du film «&nbsp;Le Mystère de la Balein&nbsp;» au Musée des Confluences, Lyon, en présence de Luc Henri Fage. Entrée libre mais réservation obligatoire.
+            <br><a href="https://www.museedesconfluences.fr/fr/evenements/les-mondes-souterrains" target="_blank">Plus d’informations</a><br><br>
+            <i class="fa fa-calendar"></i>
+            Du 23 au 28 octobre 2020, projection du film «&nbsp;Ultima Patagonia 2019&nbsp;» au festival international du film scientifique Pariscience
+            <br><a href="https://pariscience.fr/" target="_blank">Lien vers le site Paris Science</a><br><br>
+            <i class="fa fa-calendar"></i>
+            Du 13 au 22 novembre 2020, projection du film « Ultima Patagonia 2019 » dans le cadre du 38ème festival du film de montagne de Torelló (Cantabriques, Espagne).
+            <br><a href="https://torellomountainfilm.cat" target="_blank">Plus d’informations</a>
         </div>
     </div>
 </div>

@@ -29,10 +29,10 @@ Utils::init_lang ();
 	content="website" />
 <meta
 	property="og:description"
-	content="Un voyage de reconnaissance impacté par la crise du coronavirus" />
+	content="Remise en état de la flotte Centre Terre" />
 <meta
 	property="og:image"
-	content="http://<?=$_SERVER['SERVER_NAME']?>/up2021/news/pages/002/030.jpg" />
+	content="http://<?=$_SERVER['SERVER_NAME']?>/up2021/news/pages/003/003-1.jpg" />
 <link
 	type="image/png"
 	rel="shortcut icon"
