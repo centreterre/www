@@ -29,10 +29,10 @@ Utils::init_lang ();
 	content="website" />
 <meta
 	property="og:description"
-	content="Remise en état de la flotte Centre Terre" />
+	content="Le projet d’expédition 2021 devient Ultima Patagonia 2022" />
 <meta
 	property="og:image"
-	content="http://<?=$_SERVER['SERVER_NAME']?>/up2021/news/pages/003/003-1.jpg" />
+	content="http://<?=$_SERVER['SERVER_NAME']?>/up2021/news/pages/004/003.png" />
 <link
 	type="image/png"
 	rel="shortcut icon"
