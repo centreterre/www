@@ -1,73 +1,72 @@
-{ 1 Le projet d’expédition 2021 devient « Ultima Patagonia 2022 » ! }
+{ 1 El proyecto de expedición 2021 se convierte en «Última Patagonia 2022» }
 { 2 Publié le 26-10-2020 }
 { 12
-Ces temps de crise sanitaire mondiale sont bien difficiles, et Centre Terre n’échappe pas à la règle.
-Depuis septembre, de nombreuses incertitudes pesaient déjà sur la faisabilité du projet 2021, notamment sur le déroulé logistique déjà complexe en temps normal, car quels que soient les scénarios, le succès n’est jamais garanti. Cette année, plusieurs conditions devaient être impérativement réunies avant le 15 septembre, date butoir marquant le début de nos engagements financiers : acheminement du container, fret aérien, réservation des billets d’avion et des bateaux, etc…
-Force est de constater que ces conditions ne sont pas remplies.
-Même si c’est une décision difficile à prendre, au vu des conséquences sur nos activités et notre budget, Centre Terre a décidé de repousser le projet à 2022. Ce report s’est fait en concertation notamment avec Monsieur Ronald Dubertrand, ambassadeur de France au Chili, et le Ministère des Biens Nationaux, partenaire institutionnel chilien conventionné avec Centre Terre et avec l’Asociación Espeleológica de Patagonia depuis 2019.
-En attendant de préciser les dates et les détails de l’organisation de ce nouveau projet UP-2022, les équipes de Centre Terre ne se démobilisent pas pour autant. Les divers travaux entrepris cette année vont être poursuivis en 2021.
+En estos tiempos de crisis mundial, que nos afecta a todos, Centre Terre no es la excepción.
+Desde septiembre se han ido acumulando las dudas sobre si podría llevarse a cabo el proyecto de 2021, sobre todo, en lo referente al engranaje logístico, ya de por sí complicado en tiempos normales. Sea cual sea el escenario, los riesgos de que la operación se complique o incluso acabe en fracaso son grandes. De hecho, para el 15 de septiembre debían darse varias condiciones que, evidentemente, no se daban. Esta fecha tope marcaba el inicio de compromisos financieros para Centre Terre (envío del contenedor desde Francia a Chile, fletes aéreos, reserva de vuelos y embarcaciones, etc.).
+Se trata de una decisión difícil, no exenta de consecuencias para nuestras actividades y presupuesto. No obstante, tras consultar al embajador de Francia en Chile, Ronald Dubertrand, e informar al Ministerio de Bienes Nacionales, partner institucional con quien Centre Terre y la Asociación Espeleológica de Patagonia mantienen un convenio de colaboración desde 2019, Centre Terre ha decidido posponer su expedición al 2022.
+Sin embargo, mientras se precisan las fechas y detalles de la organización de este nuevo proyecto, que pasa a llamarse «Última Patagonia 2022», en Centre Terre no nos quedamos de brazos cruzados. A varios trabajos en curso iniciados este año, se suman otros para este final de 2020 y para todo el 2021.
 }
 { 12
-[001.png/@En 2021 nous communiquerons sur notre travail et continuerons à renforcer nos coopérations tant en France qu'au Chili. Ultima Patagonia 2022 nous attend ! — Photo Florian Chenu]
+[001.png/@2021 será un año para comunicar sobre nuestro trabajo y seguir afianzando nuestros lazos de cooperación tanto en Francia como en Chile. ¡Última Patagonia 2022 nos espera ! – Foto Florian Chenu]
 }
-{ 3 Partenariats }
+{ 3 Colaboraciones }
 { 12
-La recherche de nouveaux partenaires et de soutiens financiers est une de nos priorités. Le budget prévisionnel initialement prévu pour UP-2021, et maintenant en cours de réajustement pour UP-2022, n’est toujours pas bouclé. À ce propos, nous souhaitons rappeler que toute personne privée, toute entité institutionnelle ou commerciale peut soutenir nos projets. Les fonds seront affectés directement au projet UP-2022. Ces dons donnent lieu à une attestation Cerfa permettant une réduction d’impôt à hauteur de 66% pour des particuliers et de 60% pour des entreprises. Différentes contreparties leur sont associées.
-}
-{ 12
-[002.png/@Lieu d’implantation du futur camp de base du seno Egg, sur la côte nord de Madre de Dios, repéré lors de la mission de reconnaissance de mars 2020 — Photo Bernard Tourte]
+Una de las prioridades es la búsqueda de nuevos colaboradores y apoyos financieros. Se sigue trabajando en el presupuesto provisional, inicialmente previsto para 2021 y que, ahora, se está reajustando para la expedición Última Patagonia 2022. Al respecto, nos permitimos recordar que todos (ya sean instituciones o empresas) pueden apoyarnos. Los fondos recibidos se asignarán directamente al proyecto Última Patagonia 2022. En Francia, estas donaciones dan derecho a una deducción fiscal del 66% para los privados y del 60% para las empresas, además de una serie de contrapartidas asociadas a cada contribución.
 }
 { 12
-En restant dans le registre des partenariats, nous tenons aujourd’hui à remercier publiquement Suzuki Marine France qui nous a permis de renouveler les moteurs de nos embarcations. C’est une belle preuve de confiance témoignée à notre équipe et à son projet.
-D’autres partenaires ont rejoint l’aventure ou sont en passe de le faire. Nous leur adressons nos vifs remerciements, au nom de toute l’équipe de Centre Terre.
+[002.png/@Viaje de reconocimiento – marzo 2020 : lugar de implantación del futuro campamento base en el seno Egg (Archipiélago Madre de Dios) – Foto Bernard Tourte]
 }
 { 12
-[003.png/@Une des exurgences qui sont au programme d’Ultima Patagonia 2022 — Photo Bernard Tourte]
-}
-{ 3 Les actions en cours }
-{ 12
-Dans les mois qui viennent, Centre Terre prévoit une série d’actions en lien avec le projet Ultima Patagonia 2022.
-Pour commencer, une réunion préparatoire aura lieu début 2021 avec les membres impliqués dans le projet. Elle sera l’occasion de faire un premier point sur le matériel et les préparatifs.
-Dès le mois de mars, les démarches seront entreprises avec le rectorat de Toulouse pour le lancement officiel du programme scolaire sur le thème de l’expédition ; démarches qui devront ensuite s’élargir vers d’autres académies.
-En parallèle, Centre Terre prévoit de participer activement au prochain Congrès International de Spéléologie UIS 2021 (https://uis2021.speleos.fr/) qui se tiendra en France en juillet de l’an prochain. Dans ce cadre, plusieurs communications sous forme orale ou de posters seront présentées. Elles couvrent les thématiques suivantes :
-- synthèse de vingt années d’expéditions spéléologiques sur les îles Madre de Dios et Diego de Almagro ;
-- exploration des cavités sous-glaciaires du glacier Témpanos (Campo de Hielo Sur) ;
-- bilan des programmes scolaires 2010-2019 ;
-- patrimoine géomorphologique de l’île Madre de Dios.
-Ce Congrès sera aussi l’occasion pour Centre Terre de présenter son dernier ouvrage : un recueil de photographiques légendées qui retracera les principales découvertes et moments forts des expéditions Ultima Patagonia menées depuis 2000. Cet ouvrage sera mis en vente sur le stand Centre Terre du congrès.
-Un projet de mise en place d’une base de données géographiques et karstiques (cavités, géotopes, etc…) concernant les îles Madre de Dios et Diego de Almagro est en cours de réflexion. Il sera déployé courant 2021. L’idée est de pouvoir fournir des informations à des tiers pour consultation, en particulier via le géoportail du Ministère des Biens Nationaux dédié au patrimoine national chilien.
+De entre nuestros colaboradores, hay uno al que nos gustaría expresar nuestro agradecimiento públicamente por la confianza puesta en nuestro equipo y proyecto: Suzuki Marine France. Gracias a este patrocinio, hemos podido renovar los motores de nuestros botes neumáticos.
+Pero hay más espónsores que se han sumado a esta aventura o bien están a punto de hacerlo. A todos, les hacemos llegar nuestro más profundo agradecimiento en nombre de todo el equipo de Centre Terre.
 }
 { 12
-[004.png/@Vue aérienne de fractures constituant des accès potentiels au monde souterrain, et que nous explorerons en 2022 — Photo Bernard Tourte]
+[003.png/@Una de las resurgencias que exploraremos en la expedición Última Patagonia 2022 – Foto Bernard Tourte]
+}
+{ 3 Actividades en curso }
+{ 12
+Para los próximos meses, Centre Terre prevé llevar a cabo una serie de actividades relacionadas al proyecto Última Patagonia.
+Para empezar, a principios del 2021 se celebrará una reunión de preparación a la que se convocará a todos los participantes de la expedición Última Patagonia 2022. Esta reunión, que se hará en el lugar donde tenemos nuestro contenedor, será el momento para hacer un primer inventario del material e iniciar preparativos.
+A partir de marzo se iniciarán los contactos con la circunscripción educativa de Toulouse para lanzar oficialmente el programa escolar y el proceso de inscripción de las clases de Francia que quieran seguir la expedición Última Patagonia 2022. Estos trámites informativos y de inscripción en línea se harán extensivos también al resto de circunscripciones educativas de Francia.
+En paralelo, Centre Terre se prepara para una activa participación en el próximo Congreso Internacional de Espeleología UIS 2021 (https://uis2021.speleos.fr/), que se celebrará en Francia en el mes de julio de 2021. En el marco de este evento de alcance internacional, presentaremos distintas comunicaciones de tipo oral o en forma de posters. Cubriremos las siguientes temáticas:
+- Síntesis de 20 años de expedición espeleológica en las islas Madre de Dios y Diego de Almagro.
+- Exploración de cavidades subglaciales del glaciar Témpanos (Campos de Hielo Sur)
+- Balance de los programas educativos 2010-2019
+- Patrimonio geomorfológico del archipiélago Madre de Dios
+Este congreso también será la ocasión para presentar el último trabajo editorial de Centre Terre en curso: un libro que recopilará imágenes con leyendas de los principales hallazgos y grandes momentos de las expediciones Última Patagonia desde el año 2000. Esta obra se pondrá a la venta en el stand de Centre Terre.
+Por otro lado, estamos trabajando en la creación de una base de datos geográficos y kársticos (cavidades, geotopos, etc.) del archipiélago Madre de Dios y de la isla Diego de Almagro. Este proyecto, que ahora está en fase de concepción, se prevé desarrollarlo durante 2021. La idea de esta base de datos es la de poder ofrecer informaciones a terceros para realizar consultas, por ejemplo, a través del geoportal del Ministerio de Bienes Nacionales dedicado a los Bienes Nacionales Protegidos de Chile.
 }
 { 12
-Plusieurs projections du film « Ultima Patagonia 2019 » sont également prévues à l’automne 2021, souvent suivies de débats avec un ou plusieurs des participants à nos expéditions. À noter notamment le festival Pariscience où le film « Ultima Patagonia » sera mis à l’honneur (https://pariscience.fr/).
-Enfin, un bel article sur les expéditions Ultima Patagonia va paraître courant novembre dans la revue « Terre Sauvage ».
-}
-{ 3 Coté ChiliEN, la pandémie ne stoppe pas NON PLUS les initiatives }
-{ 12
-2020 est une année particulière au Chili comme en France. Les incertitudes importantes qui pèsent sur le montage des expéditions n’ont toutefois pas freiné les projets en cours sur le moyen et le long terme, principalement sur les plans de l’éducation et de la promotion. Dorénavant, des efforts redoublés vont porter coté chilien sur le développement de collaborations institutionnelles ou privées dédiées à l’expédition UP-2022.
-}
-{ 3 La collaboration avec le Ministère des Biens Nationaux }
-{ 12
-En ce qui concerne la collaboration avec le Ministère des Biens Nationaux, nous rappelons que l’objectif principal de la convention de partenariat signée est d’œuvrer pour le classement de l’archipel de Madre de Dios au patrimoine mondial de l’UNESCO. En pratique, les travaux se réalisent en  plusieurs étapes. Tout d’abord, il faut saluer la participation de l’Unidad de Gestión Territorial y Patrimonio del Ministerio à l’écriture du rapport d’expédition 2019 (pages 96-101). Dans la même idée, signalons le matériel graphique mis à disposition par Centre Terre pour illustrer le portail du Ministère des Biens Nationaux dédié au bien national protégé de l’archipel de Madre de Dios (<a target="_blank" href="http://patrimonio.bienes.cl/patrimonio/archipielago-madre-de-dios">lien vers le site</a>).
-Le rapport de l’expédition 2019 y est d’ailleurs disponible en téléchargement (<a target="_blank" href="http://patrimonio.bienes.cl/wp-content/uploads/2020/05/Rapport-UP2019-OK-Vfin-1.pdf">lien vers le fichier au format PDF</a>). Nous espérons que les démarches d’inscription définitive de l’archipel sur la liste indicative UNESCO aboutiront dans le courant de l’année 2021, afin de commencer à travailler sur le dossier de candidature lui-même.
+[004.png/@Vista aérea de grietas y fracturas en la caliza, accesos potenciales que se explorarán en 2022. – Foto Bernard Tourte]
 }
 { 12
-[005.png/@Vue de la partie nord encore inconnue de l’île Madre de Dios, que les équipes d’Ultima Patagonia 2022 exploreront systématiquement afin de compléter la connaissance géographique et spéléologique de l’archipel — Photo Bernard Tourte]
+Para los últimos meses de 2021, también se prevén proyecciones de la película «Ultima Patagonia» que, en ocasiones, serán seguidas de debates y/o conferencias con uno o varios participantes de la expedición. Una de ellas es el festival Pariscience, celebrado recientemente y en el que «Ultima Patagonia» ha recibido una mención especial del jurado de biodiversidad (https://pariscience.fr/).
+Y, para finalizar, en el mes de noviembre se publicará un bello reportaje de las expediciones Última Patagonia en la revista francesa «Terre Sauvage».
 }
-{ 3 Des liens qui se renforcent avec la Corporation Nationale des Forêts}
+{ 3 en chile la pandemia tampoco frena las iniciativas }
 { 12
-La Corporación Nacional Forestal (CONAF) est un organisme qui administre les « Áreas protegidas » (aires protégées) du Chili. Il s’agit d’une institution avec laquelle nous renforçons nos liens, particulièrement à la suite des expéditions sur l’île Diego de Almagro (Parc National Kawésqar) en 2014 et sur les glaciers du Campo de Hielo Sur (Parc National Bernardo O’Higgins) en 2019. En effet, ces deux territoires sont placés sous gestion directe de la CONAF. 2021 s’inscrira dans cette continuité, avec l’objectif de mettre en valeur le patrimoine souterrain et sous-glaciaire de la région de Magallanes, étonnamment peu connu, même à l’échelon local.
+2020 es un año especial tanto en Chile como en Francia. Sin embargo, las enormes incertezas que pesan sobre el montaje de las expediciones no han frenado los proyectos paralelos en curso de mediano y largo plazo, sobre todo, a nivel educativo y de difusión. A partir de ahora, se redoblarán los esfuerzos para conseguir, del lado de Chile, aumentar la colaboración pública y privada que permita garantizar el éxito de la expedición Última Patagonia 2022.
 }
+{ 3 La colaboración con el Ministerio de Bienes Nacionales de Chile }
 { 12
-[006.png/@Glacier situé dans la zone du seno Peel, un de nos objectifs pour 2022 — Photo Bernard Tourte]
-}
-{ 3 Les activités éducatives de l’association spéléologique de Patagonie }
-{ 12
-Par le biais de l'Asociación Espeleológica de Patagonia, Centre Terre s’est fixé comme objectif de renforcer les projets éducatifs en milieu scolaire, notamment avec l’école Miguel Montecinos de Puerto Eden. Après une première expérience éducative menée en 2019, puis lors de l’expédition de reconnaissance du mois de mars 2020, des liens ont été créés avec la population sur place. Rappelons que Puerto Eden est un village de pécheurs très éloigné du continent mais proche de l’archipel de Madre de Dios. Notre désir est de renforcer ces liens de collaboration et d’échange de connaissances avec les enfants et les adultes, en lien avec le patrimoine naturel et culturel de l’archipel. Nous travaillons donc sur un ambitieux programme éducatif pour 2021 qui, nous l'espérons, bénéficiera du soutien indispensable à son bon déroulement.
-Nous espérons en 2021 renforcer aussi les liens avec les établissements de recherche, notamment les universités ou les centres de recherche privés intéressés par l’étude du patrimoine de l’archipel, qu’il soit naturel (géologie, glaciologie, faune, flore, biologie marine, etc.) ou culturel (archéologie, ethnologie, etc…).
+En lo referente a la colaboración con el Ministerio de Bienes Nacionales, cabe recordar que el convenio firmado tiene como objetivo principal realizar las acciones necesarias para que el archipiélago Madre de Dios sea inscrito en el Patrimonio Mundial de la UNESCO. Fruto de esta colaboración son, por ejemplo, la valiosa participación de la Unidad de Gestión Territorial y Patrimonio del Ministerio en el informe de la expedición (páginas 96-101) y, en la misma línea inclusiva, el uso del material gráfico proporcionado por Centre Terre para ilustrar el portal del Ministerio de Bienes Nacionales dedicado al Bien Nacional Protegido Archipiélago Madre de Dios (http://patrimonio.bienes.cl/patrimonio/archipielago-madre-de-dios/). En esta página es también posible descargar el informe de la expedición Última Patagonia 2019 (http://patrimonio.bienes.cl/wp-content/uploads/2020/05/Rapport-UP2019-OK-Vfin-1.pdf.
+2021 es un año en que esperamos se pueda avanzar en la inclusión definitiva del archipiélago Madre de Dios en la Lista Tentativa de la UNESCO y empezar a trabajar en el expediente de postulación.
 }
 { 12
-[007.png/@Reconnaisance de mars 2020 : prospection côtière du seno Egg (archipel de Madre de Dios) — Photo Natalia Morata]
+[005.png/@Vista sobre la parte norte del Archipiélago Madre de Dios, zona que los equipos de Última Patagonia 2022 explorarán sistemáticamente para completar el registro geográfico-espeleológico del Archipiélago Madre de Dios – Foto Bernard Tourte]
+}
+{ 3 Estrechando los lazos con CONAF}
+{ 12
+La Corporación Nacional Forestal (CONAF) en un organismo de administración de las áreas protegidas de Chile con el que Centre Terre ha logrado ir estrechando lazos de colaboración tras las expediciones a la isla Diego de Almagro (Parque Nacional Kawésqar) y los glaciares de Campos de Hielo Sur (Parque Nacional Bernardo O’Higgins), zonas bajo su gestión. 2021 será igualmente un año en el que esperamos poder seguir colaborando con CONAF con el fin de poner de relieve el increíble patrimonio subterráneo de la región de Magallanes, sorprendentemente poco conocido incluso a nivel local.
+}
+{ 12
+[006.png/@Glaciar en la zona del seno Peel, uno de nuestros de exploración y estudio para la expedición Última Patagonia 2022 – foto Bernard Tourte]
+}
+{ 3 Las actividades educativas de la Asociación Espeleológica de Patagonia }
+{ 12
+A través de la Asociación Espeleológica de Patagonia, en 2021 Centre Terre se ha fijado como objetivo afianzar el proyecto educativo en Chile, en especial, con la escuela Miguel Montecinos de Puerto Edén. Gracias a la primera experiencia educativa de 2019 y al viaje de reconocimiento de 2020, se han creado fuertes vínculos con los habitantes de esta apartada localidad de pescadores, que es, además, la más cercana al archipiélago Madre de Dios. Nuestro deseo es seguir creando lazos de colaboración e intercambio de conocimiento con niños y adultos con relación a Madre de Dios. Por ello, se está trabajando en un bonito y ambicioso proyecto educativo para 2021 que, esperamos, cuente con los apoyos necesarios para que sea todo un éxito.
+Finalmente, esperamos que el 2021 nos permita fortalecer la colaboración con universidades, centros de investigación y organismos públicos y privados en Chile que deseen seguir ahondando en el conocimiento del patrimonio del archipiélago Madre de Dios, tanto natural (geología, glaciología, fauna, flora, biología marina, etc.) como cultural (arqueología, etnología, etc.).
+}
+{ 12
+[007.png/@Viaje de reconocimiento – marzo 2020: prospección del borde costero del seno Egg (Archipiélago Madre de Dios) – Foto Natalia Morata]
 }
