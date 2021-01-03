@@ -17,7 +17,7 @@ Utils::init_lang ();
 	content="Centre Terre - Découvrir Explorer Partager">
 <meta
 	property="og:title"
-	content="Ultima Patagonia 2021" />
+	content="Ultima Patagonia 2022" />
 <meta
 	property="og:site_name"
 	content="Centre Terre" />
@@ -29,10 +29,10 @@ Utils::init_lang ();
 	content="website" />
 <meta
 	property="og:description"
-	content="Le projet d’expédition 2021 devient Ultima Patagonia 2022" />
+	content="Meilleurs voeux de santé de toute l'équipe Centre Terre" />
 <meta
 	property="og:image"
-	content="http://<?=$_SERVER['SERVER_NAME']?>/up2021/news/pages/004/003.png" />
+	content="https://resource.centre-terre.fr/up2021/images/centre-terre-voeux-2021.jpg" />
 <link
 	type="image/png"
 	rel="shortcut icon"

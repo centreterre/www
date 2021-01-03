@@ -1,0 +1,3 @@
+<a class="fancybox" rel="group" href="https://resource.centre-terre.fr/up2021/images/centre-terre-voeux-2021.jpg">
+    <img class="img-responsive" src="https://resource.centre-terre.fr/up2021/images/centre-terre-voeux-2021.jpg"/>
+</a>
