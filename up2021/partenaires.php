@@ -1,4 +1,4 @@
-<h1><?=Utils::i19n ( array ('fr' => 'Devenez partenaire d\'Ultima Patagonia 2021','es' => 'Colabore con Última Patagonia 2021' ) )?></h1>
+<h1><?=Utils::i19n ( array ('fr' => 'Devenez partenaire d\'Ultima Patagonia 2022','es' => 'Colabore con Última Patagonia 2022' ) )?></h1>
 <div class="row">
 	<div class="col-md-12">
 		<?php if (Utils::is_lang('fr')) {?>

@@ -1,0 +1,3 @@
+The Grizzly Labs
+http://www.thegrizzlylabs.com
+The Grizzly Labs est un éditeur d'applications mobiles pour Android et iOS dans le domaine de la bureautique. Son application phare est Genius Scan, qui permet de numériser des documents papier en PDF et de les organiser. Elle développe aussi Genius Fax, pour faxer des documents directement depuis son smartphone, et Genius Sign, permettant l'annotation et la signature de documents PDF.
