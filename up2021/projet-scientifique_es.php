@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Proyecto científico UP2021</h1>
+<h1 style="text-align: center;">Proyecto científico UP2022</h1>
 <hr>
 <div style="text-align: center;font-weight: bold">
     Coordinación científica: Richard Maire & Charlotte Honiat<br>
@@ -18,7 +18,7 @@
     global de siglo XXI.
 </p>
 <p>
-    El proyecto científico UP2021 tiene como objetivo ahondar nuestro conocimiento de este espacio
+    El proyecto científico UP2022 tiene como objetivo ahondar nuestro conocimiento de este espacio
     único, los glaciares de mármol, a partir de un equipo pluridisciplinario que aúna prospección, exploración,
     trabajo de campo y de laboratorio. A ello se suma el trabajo de reconocimiento de las grandes lenguas
     glaciares del Hielo Patagónico Sur y, principalmente, de las cavidades intra y subglaciales, indicadores del

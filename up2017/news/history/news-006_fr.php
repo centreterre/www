@@ -54,7 +54,7 @@
 </ul>
 <p>Il s’agit donc d’un objectif fondamental pour lequel aucune improvisation n’est possible. D’autant moins que le classement de
 	l’île en tant que Réserve naturelle impose que l’impact sur l’environnement d’une telle construction soit le plus proche possible de zéro. L'équipe
-	UP-2017 s'est donc entourée de compétences spécifiques: Natalia a sollicité deux amies proches, Cécilia Vera, architecte indépendante et Christina
+	UP2017 s'est donc entourée de compétences spécifiques: Natalia a sollicité deux amies proches, Cécilia Vera, architecte indépendante et Christina
 	Ibars, experte en marketing du Cabinet d'architecture, IWAL Ltda. installé à Santiago. Toutes deux, ont été mandatées de la part de Centre Terre pour
 	définir, en fonction d’un cahier des charges précis, les caractéristiques de la base scientifique, ainsi qu’un concept d’assemblage rapide et sûr
 	pour son montage. Elle doit rechercher également les fournisseurs de matériaux capables d’assurer sa préfabrication puis sa gamme d'assemblage.
@@ -97,7 +97,7 @@
 	Ils devront tous être au top de leur forme pour leur mise en container courant septembre. Autour de Stéphane, une équipe établit et rassemble les
 	documents cartographiques dont nous aurons besoin sur le terrain. Richard coordonne de son côté la mise sur pied d'un projet scientifique
 	multidisciplinaire. Une autre équipe œuvre sur la couverture secours et médicale de l'expédition. D'autres membres ont mis en place les outils
-	indispensables au suivi de la comptabilité de ce projet UP-2017, complexe du fait de la diversité des domaines qu’il touche. David et Olivier ont
+	indispensables au suivi de la comptabilité de ce projet UP2017, complexe du fait de la diversité des domaines qu’il touche. David et Olivier ont
 	revu de fond en comble notre site internet. Thomas et Arnauld planchent sur un projet de financement coopératif… Bien entendu, les besoins
 	spécifiques des camps avancés, des explorations souterraines, de la spéléo-plongée, ne sont pas oubliés: plusieurs équipiers ont la charge de
 	quantifier les besoins logistiques et organisationnels propres à ces domaines.</p>

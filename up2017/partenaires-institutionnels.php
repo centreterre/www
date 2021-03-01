@@ -239,7 +239,7 @@
 			id="cap"
 			class="collapse">
 			<?php if (Utils::is_lang('fr')) {?>
-			<p>Pour UP-2017, l'engagement de la compagnie se traduit par un soutien précieux pour le transport de tout le matériel nécessaire au projet depuis
+			<p>Pour UP2017, l'engagement de la compagnie se traduit par un soutien précieux pour le transport de tout le matériel nécessaire au projet depuis
 				le port de Huachipato à la base de Guarello, ainsi que par une importante dotation de matériaux nécessaires à la construction de la base
 				scientifique.</p>
 			<?php }?>

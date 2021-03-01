@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Projet scientifique UP2021</h1>
+<h1 style="text-align: center;">Projet scientifique UP2022</h1>
 <hr>
 <div style="text-align: center;font-weight: bold">
     Coordination scientifique : Richard Maire & Charlotte Honiat<br>
@@ -19,7 +19,7 @@
     globale du 21 ième siècle.
 </p>
 <p>
-    Le projet scientifique UP2021 a pour but d’accroître notre connaissance de cet espace unique —
+    Le projet scientifique UP2022 a pour but d’accroître notre connaissance de cet espace unique —
     les « glaciers de marbre » — à partir d’une équipe transdisciplinaire mêlant prospection, exploration,
     recherches de terrain et de laboratoire. A cela s’ajoute une étude de reconnaissance sur les grands glaciers
     du Hielo Patagonico Sur et notamment sur les cavités intra- et sous-glaciaires indicateurs de la fonte

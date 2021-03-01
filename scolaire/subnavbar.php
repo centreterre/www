@@ -8,7 +8,7 @@
                         href="#"
                         class="dropdown-toggle"
                         data-toggle="dropdown">
-                    <?= Utils::i19n(array('fr' => 'UP2021', 'es' => 'UP2021')) ?><b class="caret"></b>
+                    <?= Utils::i19n(array('fr' => 'UP2022', 'es' => 'UP2022')) ?><b class="caret"></b>
                 </a>
                 <ul class="dropdown-menu">
                     <li class="<?= Utils::get_menu_class('/projet-scolaire-up2021-presentation') ?>">

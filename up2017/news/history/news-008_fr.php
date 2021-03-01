@@ -6,7 +6,7 @@
 	Nationaux. Un grand pas pour nos rapprochement, mais surtout une grande enjambée envers notre objectif commun qui n'est autre que de faire ensemble
 	notre possible afin d'hisser au classement au Patrimoine Mondial de l'Humanité, ces exceptionnelles iles calcaires de Patagonie que Centre Terre
 	explore maintenant depuis plus de 20 années.</p>
-<p>Concernant la base scientifique, l'une des piles fondatrice du projet UP-2017, les avancées sont notables. La toute dernière en date, est la
+<p>Concernant la base scientifique, l'une des piles fondatrice du projet UP2017, les avancées sont notables. La toute dernière en date, est la
 	dotation gracieuse de près de 1200 kg de bois qui constituaient l'assise d'une œuvre architecturale que nous allons pouvoir utiliser pour la
 	construction de la base scientifique. Cet apport a toutefois obligée à Cecilia Vera de IWAL, du cabinet d'architecture qui collabore bénévolement sur
 	ce projet, de revoir les plans de notre base scientifique.</p>
@@ -26,7 +26,7 @@
 	établi par l'équipe Centre Terre, tenant compte des conditions climatiques, des impératifs logistiques et techniques, mais avec bien évidement toute
 	la latitude possible pour eux en matière de concept, de développement et d'innovations. Soit près de 3h d'échanges qui furent au final extrêmement
 	constructives pour tous avec des projets tous aussi exceptionnels les uns que les autres.</p>
-<p>Ce mois de mai, c'est également le projet scientifique de l'équipe UP-2017, qui a vu le jour. Un projet que nous avons voulu clair et ambitieux,
+<p>Ce mois de mai, c'est également le projet scientifique de l'équipe UP2017, qui a vu le jour. Un projet que nous avons voulu clair et ambitieux,
 	qui sera bientôt consultable ici.</p>
 <p>Bien entendu, hors de question de faiblir sur la communication et le partage, deux savoirs faires moteurs au sein de Centre Terre notamment en
 	cette période ou il convient de trouver et rassembler tous les partenaires et financeurs incontournables au bon déroulement de ce projet.</p>

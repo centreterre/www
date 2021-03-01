@@ -18,7 +18,7 @@
 <div class="well">
     <div class="row">
         <div class="col-md-12">
-            <h2>Projet scolaire UP2021</h2>
+            <h2>Projet scolaire UP2022</h2>
             <i class="fa fa-file-text-o"></i>
             <a href="projet-scolaire-up2021-presentation.php">
                 <?= Utils::i19n(array('fr' => 'Présentation', 'es' => 'Présentation')) ?>

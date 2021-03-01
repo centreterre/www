@@ -4,7 +4,7 @@
             class="container navbar navbar-default">
         <ul class="nav navbar-nav">
             <li class="<?php echo Utils::get_menu_class('/up2021-blog'); ?>">
-                <a href="up2021-blog.php"><?= Utils::i19n(array('fr' => 'UP2021', 'es' => 'UP2021')) ?></a>
+                <a href="up2021-blog.php"><?= Utils::i19n(array('fr' => 'UP2022', 'es' => 'UP2022')) ?></a>
             </li>
             <li class="<?php echo Utils::get_menu_class('/up2021-equipe'); ?>">
                 <a href="up2021-equipe.php"><?= Utils::i19n(array('fr' => 'Equipe', 'es' => 'Equipo')) ?></a>

@@ -97,7 +97,7 @@
 	<div class="col-md-8">
 		<p>Ce mois de juin, José, Benjamin et Bernard ont eu une réunion au rectorat de Toulouse avec Brigitte (déléguée académique à l'éducation artistique
 			et culturelle), Delphine (son adjointe) et Vincent (chargé de mission auprès du CARDI - recherche et expérimentation). Cette réunion productive a
-			permise le lancement du projet scolaire UP-2017 au travers des sites de la DAC et de Centre Terre, où tout un pannel d'éléments sont d'ores et déjà
+			permise le lancement du projet scolaire UP2017 au travers des sites de la DAC et de Centre Terre, où tout un pannel d'éléments sont d'ores et déjà
 			disponibles, dont la possibilité d'inscrire une classe en ligne.</p>
 	</div>
 </div>
