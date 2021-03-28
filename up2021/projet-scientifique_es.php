@@ -33,7 +33,7 @@
 </p>
 <div class="row">
     <div class="col-md-12">
-        <img class="img-responsive" src="https://resource.centre-terre.fr/up2021/commun/up2021-carte.jpg">
+        <img class="img-responsive" src="https://resource.centre-terre.fr/up2022/commun/up2022-carte.jpg">
     </div>
 </div>
 <h2>1. Ciencias de la Tierra: glaciología, geología, geomorfología y paleoclimatología</h2>
@@ -72,13 +72,13 @@
 </ul>
 <div class="row">
     <div class="col-md-6">
-        <img class="img-responsive" src="https://resource.centre-terre.fr/up2021/projet-scientifique/up2021-projet-scientifique-001.png"
+        <img class="img-responsive" src="https://resource.centre-terre.fr/up2022/projet-scientifique/up2022-projet-scientifique-001.png"
              alt="Roches rabotées par les glaciers">
         <div class="caption">Roches rabotées par les glaciers</div>
     </div>
     <div class="col-md-6">
         <img class="img-responsive"
-             src="https://resource.centre-terre.fr/up2021/projet-scientifique/up2021-projet-scientifique-002.png"
+             src="https://resource.centre-terre.fr/up2022/projet-scientifique/up2022-projet-scientifique-002.png"
              alt="Un dyke au nord de Madre de Dios, dont la vitesse d’érosion est bien inférieure à celle des calcaires">
         <div class="caption">Un dyke au nord de Madre de Dios, dont la vitesse d’érosion est bien inférieure à celle des
             calcaires
@@ -107,13 +107,13 @@
 </ul>
 <div class="row">
     <div class="col-md-6">
-        <img class="img-responsive" src="https://resource.centre-terre.fr/up2021/projet-scientifique/up2021-projet-scientifique-003.png"
+        <img class="img-responsive" src="https://resource.centre-terre.fr/up2022/projet-scientifique/up2022-projet-scientifique-003.png"
              alt="Jeune chouette dans la forêt magellanique">
         <div class="caption">Jeune chouette dans la forêt magellanique</div>
     </div>
     <div class="col-md-6">
         <img class="img-responsive"
-             src="https://resource.centre-terre.fr/up2021/projet-scientifique/up2021-projet-scientifique-004.png"
+             src="https://resource.centre-terre.fr/up2022/projet-scientifique/up2022-projet-scientifique-004.png"
              alt="Observation à la loupe d'une hépatique">
         <div class="caption">Observation à la loupe d'une hépatique</div>
     </div>
@@ -139,7 +139,7 @@
 </p>
 <div class="row">
     <div class="col-md-12">
-        <img class="img-responsive" src="https://resource.centre-terre.fr/up2021/projet-scientifique/up2021-projet-scientifique-005.png"
+        <img class="img-responsive" src="https://resource.centre-terre.fr/up2022/projet-scientifique/up2022-projet-scientifique-005.png"
              alt="Cartographie détaillée d’un site d’occupation Kaweskar">
         <div class="caption">Cartographie détaillée d’un site d’occupation Kaweskar</div>
     </div>

@@ -32,7 +32,7 @@ Utils::init_lang ();
 	content="Meilleurs voeux de santé de toute l'équipe Centre Terre" />
 <meta
 	property="og:image"
-	content="https://resource.centre-terre.fr/up2021/images/centre-terre-voeux-2021.jpg" />
+	content="https://resource.centre-terre.fr/up2022/images/centre-terre-voeux-2021.jpg" />
 <link
 	type="image/png"
 	rel="shortcut icon"
