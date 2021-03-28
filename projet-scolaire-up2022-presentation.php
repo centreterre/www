@@ -7,14 +7,19 @@
 	<?php include 'common/analytics.php';?>
 	<?php include 'common/navbar.php';?>
 	<?php include 'common/banner.php';?>
-	<?php include 'up2021/subnavbar.php';?>
+	<?php include 'scolaire/subnavbar.php';?>
 	<div class="content container">
 		<div class="row">
-			<?php include 'up2021/plaquette.php';?>
+			<div class="col-md-8">
+				<?php include 'scolaire/up2022/presentation.php';?>
+			</div>
+			<div class="col-md-4">
+                <?php include 'scolaire/sidebar.php';?>
+				<?php include 'sidebar/sidebar-expe.php';?>
+			</div>
 		</div>
-	</div>
+	</div>	
 	<?php include 'common/footer.php';?>
 	<?php include 'common/js-core.php';?>
-	<?php include 'common/js-lazy.php';?>
 </body>
 </html>

@@ -27,6 +27,6 @@
 <br>
 <?php
 include 'classes/SponsorsManager.php';
-$bm = new SponsorsManager ('up2021');
+$bm = new SponsorsManager ('up2022');
 $bm->renderPages ( );
 ?>

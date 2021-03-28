@@ -23,7 +23,7 @@ Utils::init_lang ();
 		<h1>Ultima Patagonia 2021</h1>
 		<div class="row">
 			<div class="col-md-8">
-				<?php include 'up2021/print.php';?>
+				<?php include 'up2022/print.php';?>
 			</div>
 			<div class="col-md-4"></div>
 		</div>

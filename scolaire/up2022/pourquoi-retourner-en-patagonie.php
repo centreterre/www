@@ -1,4 +1,4 @@
-<h1>L’intérêt d’une nouvelle expédition en Patagonie en 2021 ?</h1>
+<h1>L’intérêt d’une nouvelle expédition en Patagonie en 2022 ?</h1>
 <h2>Petit préambule</h2>
 <p>Si aujourd’hui la totalité de la planète semble avoir été explorée, en réalité ce n’est pas tout à fait vrai.
     Heureusement subsiste des lieux où personne ne s’est encore aventuré. Certes ces endroits sont devenus rares, et
@@ -65,7 +65,7 @@
     Il en est de même pour les espèces animales. Les grottes vont-elles servir de refuges ? Les stalagmites vont-elles
     se développer ou pas ?</p>
 <h2>L’union fait la force, pas la concurrence</h2>
-<p>En fait Centre Terre avec l’expédition Ultima Patagonia 2021 a pour ambition de partager avec celles et ceux qui ne
+<p>En fait Centre Terre avec l’expédition Ultima Patagonia 2022 a pour ambition de partager avec celles et ceux qui ne
     peuvent être sur place, une démarche de recherche en lien directe avec les observations de terrain faites au cœur
     d’une exploration. Il s’agit de construire une démarche déductive avec des outils d’analyse scientifiques. La
     performance technique et sportive est ainsi mise au service de la science. C’est en ce sens une véritable démarche

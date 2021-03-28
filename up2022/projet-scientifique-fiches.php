@@ -77,7 +77,7 @@
                 alt="" src="images/common/es.png"/></a>
     <span>&nbsp;</span> <a
             href="https://resource.centre-terre.fr/up2022/projet-scientifique/up2022-projet-scientifique-geologia-huerta-velsquez-es.pdf"
-            target="_blank">Recopilación de antecedentes geológicos durante la expedición 2021 en la Isla Madre de Dios</a>
+            target="_blank">Recopilación de antecedentes geológicos durante la expedición 2022 en la Isla Madre de Dios</a>
 </p>
 <p>
     <a class="flag"

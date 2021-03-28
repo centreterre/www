@@ -7,11 +7,11 @@
 	<?php include 'common/analytics.php';?>
 	<?php include 'common/navbar.php';?>
 	<?php include 'common/banner.php';?>
-    <?php include 'up2021/subnavbar.php';?>
+    <?php include 'up2022/subnavbar.php';?>
 	<div class="content container">
 		<div class="row">
 			<div class="col-md-8">
-				<?php include 'up2021/partenaires.php';?>
+				<?php include 'up2022/partenaires.php';?>
 			</div>
 			<div class="col-md-4">
 				<?php include 'sidebar/sidebar-expe.php';?>

@@ -11,7 +11,7 @@
 	<div class="content container">
 		<div class="row">
 			<div class="col-md-8">
-				<?php include 'scolaire/up2021/pourquoi-retourner-en-patagonie.php';?>
+				<?php include 'scolaire/up2022/modalites-suivi.php';?>
 			</div>
 			<div class="col-md-4">
 				<?php include 'scolaire/sidebar.php';?>

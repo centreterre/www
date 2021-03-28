@@ -8,11 +8,11 @@
     <?php include 'common/analytics.php';?>
     <?php include 'common/navbar.php';?>
     <?php include 'common/banner.php';?>
-    <?php include 'up2021/subnavbar.php';?>
+    <?php include 'up2022/subnavbar.php';?>
     <div class="content container">
         <div class="row">
             <div class="col-md-8">
-                <?php include 'up2021/news/news.php';?>
+                <?php include 'up2022/news/news.php';?>
             </div>
             <div class="col-md-4">
                 <?php include 'sidebar/sidebar-latest.php';?>

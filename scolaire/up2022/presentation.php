@@ -1,6 +1,6 @@
-<h1>Suivre l’expédition Ultima Patagonia 2021 avec vos élèves</h1>
+<h1>Suivre l’expédition Ultima Patagonia 2022 avec vos élèves</h1>
 <p>Forte des découvertes des expéditions précédentes, l’équipe de Centre Terre retourne à Madre de Dios en janvier et
-    février 2021 pour poursuivre ses explorations.</p>
+    février 2022 pour poursuivre ses explorations.</p>
 <p>Vous avez été nombreux à suivre le projet scolaire en 2019, et pour vous permettre d’aller encore plus loin, nous
     vous proposons de réitérer l’expérience, ou tout simplement de nous rejoindre pour la première fois dans cette
     nouvelle aventure.</p>
@@ -39,7 +39,7 @@
     réel par l’intermédiaire d’une production originale. Cette production peut se faire sous différentes formes mais
     devra être en lien avec les contenus abordés avant, pendant et après l’expédition. Les classes lauréates se verront
     récompensées par une sortie spéléologie.</p>
-<h1>Avant l’expédition : (septembre 2020 à janvier 2021)</h1>
+<h1>Avant l’expédition : (septembre 2021 à janvier 2022)</h1>
 <p>Dès la rentrée de septembre les classes intéressées peuvent s’affilier au projet en s’inscrivant sur le site du
     rectorat de l’Académie de Toulouse. Elles pourront, via le site de Centre Terre, suivre tous les préparatifs de
     l’expédition. De même, à cette période sera activé le forum de discussions sur lequel de nombreux échanges pourront

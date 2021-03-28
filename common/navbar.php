@@ -44,17 +44,17 @@
 				<li class="<?=Utils::get_menu_class('/centre-terre')?>">
 					<a href="centre-terre-asso.php"><?=Utils::i19n ( array ('fr' => 'Centre Terre','es' => 'Centre Terre' ) )?></a>
 				</li>
-				<li class="<?=Utils::get_menu_class('/up2021-blog')?>">
-					<a href="up2021-blog.php"><?=Utils::i19n ( array ('fr' => 'UP2022','es' => 'UP2022' ) )?></a>
+				<li class="<?=Utils::get_menu_class('/up2022-blog')?>">
+					<a href="up2022-blog.php"><?=Utils::i19n ( array ('fr' => 'UP2022','es' => 'UP2022' ) )?></a>
 				</li>
 				<li class="<?=Utils::get_menu_class('/gallery')?>">
 					<a href="gallery-up2010.php"><?=Utils::i19n ( array ('fr' => 'Galerie photos','es' => 'Galería de fotos' ) )?></a>
 				</li>
-				<li class="<?=Utils::get_menu_class('/up2021-partenaires')?>">
-					<a href="up2021-partenaires.php"><?=Utils::i19n ( array ('fr' => 'Partenaires','es' => 'Colaboradores' ) )?></a>
+				<li class="<?=Utils::get_menu_class('/up2022-partenaires')?>">
+					<a href="up2022-partenaires.php"><?=Utils::i19n ( array ('fr' => 'Partenaires','es' => 'Colaboradores' ) )?></a>
 				</li>
 				<li class="<?=Utils::get_menu_class('/projet-scolaire')?>">
-					<a href="projet-scolaire-up2021-presentation.php"><?=Utils::i19n ( array ('fr' => 'Espace scolaire','es' => 'Espacio escolar' ) )?></a>
+					<a href="projet-scolaire-up2022-presentation.php"><?=Utils::i19n ( array ('fr' => 'Espace scolaire','es' => 'Espacio escolar' ) )?></a>
 				</li>
 				<li class="<?=Utils::get_menu_class('/shop')?>">
 					<a href="shop.php"><?=Utils::i19n ( array ('fr' => 'Boutique','es' => 'Tienda on-line' ) )?></a>

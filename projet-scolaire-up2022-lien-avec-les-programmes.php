@@ -11,10 +11,10 @@
 	<div class="content container">
 		<div class="row">
 			<div class="col-md-8">
-				<?php include 'scolaire/up2021/presentation.php';?>
+				<?php include 'scolaire/up2022/lien-avec-les-programmes.php';?>
 			</div>
 			<div class="col-md-4">
-                <?php include 'scolaire/sidebar.php';?>
+				<?php include 'scolaire/sidebar.php';?>
 				<?php include 'sidebar/sidebar-expe.php';?>
 			</div>
 		</div>
