@@ -29,10 +29,10 @@ Utils::init_lang ();
 	content="website" />
 <meta
 	property="og:description"
-	content="Meilleurs voeux de santé de toute l'équipe Centre Terre" />
+	content="UP-2022  la machine est lancée !" />
 <meta
 	property="og:image"
-	content="https://resource.centre-terre.fr/up2022/images/centre-terre-voeux-2021.jpg" />
+	content="up2022/news/pages/006/atelier-corde-chili.jpg" />
 <link
 	type="image/png"
 	rel="shortcut icon"
