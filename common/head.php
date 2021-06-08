@@ -29,10 +29,10 @@ Utils::init_lang ();
 	content="website" />
 <meta
 	property="og:description"
-	content="UP-2022  la machine est lancée !" />
+	content="L'opération scolaire UP2022 est lancée" />
 <meta
 	property="og:image"
-	content="up2022/news/pages/006/atelier-corde-chili.jpg" />
+	content="up2022/news/pages/007/picture5.jpg" />
 <link
 	type="image/png"
 	rel="shortcut icon"
