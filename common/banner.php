@@ -20,7 +20,7 @@
 			<div class="vip-top">
 				<img
 					class="img-responsive"
-					src="up2019/images/logo-up2019-150x150.png"
+					src="up2022/images/logo-up2022-150x150.png"
 					alt="">
 			</div>
 			<div class="vip-bottom">
