@@ -8,7 +8,7 @@ Dès les prémices de l'organisation de l'expédition Ultima Patagonia 2022, il 
 }
 { 3 Lancement des inscriptions }
 { 12
-Le projet est ouvert à toutes les classes de France, qu'elles relèvent du premier degré, du secondaire ou d'établissements spécialisés. Les établissements peuvent s'inscrire via le lien suivant du Rectorat de l'Académie de Toulouse https://disciplines.ac-toulouse.fr/daac/ultima-patagonia.
+Le projet est ouvert à toutes les classes de France, qu'elles relèvent du premier degré, du secondaire ou d'établissements spécialisés. Les établissements peuvent s'inscrire via le lien suivant du Rectorat de l'Académie de Toulouse <a href="https://disciplines.ac-toulouse.fr/daac/ultima-patagonia" target="_blank">https://disciplines.ac-toulouse.fr/daac/ultima-patagonia</a>.
 }
 { 3 Espace scolaire, fiches pédagogiques et journal de bord }
 { 12

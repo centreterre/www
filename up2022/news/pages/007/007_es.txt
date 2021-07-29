@@ -8,7 +8,7 @@ Al momento de plantearnos el proyecto de expedición Última Patagonia 2022 ten�
 }
 { 3 Apertura de inscripciones }
 { 12
-El proyecto está abierto a todas las clases de Francia de educación primaria, secundaria y a establecimientos especiales. Los centros educativos pueden inscribirse a través del siguiente enlace del Rectorat de la Académie de Toulouse: https://disciplines.ac-toulouse.fr/daac/ultima-patagonia.
+El proyecto está abierto a todas las clases de Francia de educación primaria, secundaria y a establecimientos especiales. Los centros educativos pueden inscribirse a través del siguiente enlace del Rectorat de la Académie de Toulouse: <a href="https://disciplines.ac-toulouse.fr/daac/ultima-patagonia" target="_blank">https://disciplines.ac-toulouse.fr/daac/ultima-patagonia</a>.
 }
 { 3 Espacio escolar, fichas pedagógicas y cuaderno de bitácora }
 { 12
