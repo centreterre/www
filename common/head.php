@@ -29,10 +29,10 @@ Utils::init_lang ();
 	content="website" />
 <meta
 	property="og:description"
-	content="L'opération scolaire UP2022 est lancée" />
+	content="Une décision prise à contre-coeur" />
 <meta
 	property="og:image"
-	content="up2022/news/pages/007/picture5.jpg" />
+	content="up2022/news/pages/008/picture1.jpg" />
 <link
 	type="image/png"
 	rel="shortcut icon"
