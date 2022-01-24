@@ -53,9 +53,16 @@
 				<li class="<?=Utils::get_menu_class('/up2022-partenaires')?>">
 					<a href="up2022-partenaires.php"><?=Utils::i19n ( array ('fr' => 'Partenaires','es' => 'Colaboradores' ) )?></a>
 				</li>
-				<li class="<?=Utils::get_menu_class('/projet-scolaire')?>">
-					<a href="projet-scolaire-up2022-presentation.php"><?=Utils::i19n ( array ('fr' => 'Espace scolaire','es' => 'Espacio escolar' ) )?></a>
-				</li>
+                <?php if (Utils::is_lang('fr')) {?>
+                    <li class="<?=Utils::get_menu_class('/projet-scolaire')?>">
+                        <a href="projet-scolaire-up2022-presentation.php">Espace scolaire</a>
+                    </li>
+                <?php }?>
+                <?php if (Utils::is_lang('es')) {?>
+                    <li class="<?=Utils::get_menu_class('/espacio-escolar-chile')?>">
+                        <a href="espacio-escolar-chile-presentation.php">Espacio escolar</a>
+                    </li>
+                <?php }?>
 				<li class="<?=Utils::get_menu_class('/shop')?>">
 					<a href="shop.php"><?=Utils::i19n ( array ('fr' => 'Boutique','es' => 'Tienda on-line' ) )?></a>
 				</li>
