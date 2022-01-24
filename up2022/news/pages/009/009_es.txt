@@ -1,0 +1,71 @@
+{ 2 Publicado el 24-01-2022 }
+{ 1 “Karst Patagonia”, ¡el nuevo libro de centre terre ya está a la venta! }
+{ 12
+<b>“Bajo los 40 grados sur no hay ley; bajo los 50, no hay Dios." (dicho marinero)</b>
+Obra de 28 x 28 cm, 160 páginas, tapa rígida, 200 fotos e ilustraciones inéditas.
+Centre Terre pública Karst Patagonia, un bello libro de fotografías comentadas en tres idiomas (francés, español e inglés) de 160 páginas y unas 200 fotografías e imágenes inéditas. Karst Patagonia invita a recorrer las islas calcáreas de los canales patagónicos, a descubrir los excepcionales paisajes de su karst y a compartir las aventuras humadas de las expediciones Última Patagonia.
+}
+{ 12
+[karst-patagonia.jpg/@]
+}
+{ 12
+Karst Patagonia en seis capítulos:
+- <b>Los excepcionales paisajes de las islas de caliza de Patagonia</b> Madre de Dios y Diego de Almagro: su karst de superficie, sus cuevas y simas.
+- <b>Los canales de Patagonia</b>, un increíble laberinto compuesto de miles de brazos de mar que ha sido surcados por ilustres navegantes: Sarmiento de Gamboa, Darwin, Fitzroy, Lord Byron…
+- <b>La aventura humana</b> de las exploraciones de las simas de Patagonia: vivir y saborear los descubrimientos realizados en estas tierras húmedas, glaciales y abatidas por el viento.
+- <b>Las exploraciones subterráneas</b>: descender las simas, bucear las galerías inundadas topografiándolas e inventariándolas.
+- <b>Los nómadas del mar</b> eran los pueblos originarios que habitaron las cuevas del lugar y dejaron numerosas huellas de su paso.
+- <b>Las esculturas de superficie</b> son las formas más singulares y características de estas islas de caliza de Patagonia. Son la herencia de unos procesos de erosión sin parangón, únicas en el mundo.
+<b>Karst Patagonia</b> es una verdadera inmersión en este territorio, fuera del enfoque tradicional ...
+<b>Karst Patagonia</b> ya está a la venta en la <a href="https://www.etsy.com/shop/CentreTerre" target="_blank">tienda online de Centre Terre</a> al precio de 30 € (+ gastos de envío) o de 100 € los 4 ejemplares (+ gastos de envío).
+}
+{ 1 Apertura del foro de discusión para las escuelas }
+{ 12
+Hace semanas les habíamos anunciado que el equipo de Centre Terre se reuniría en el departamento de Lot (Francia) a finales de enero para preparar la expedición Última Patagonia 2023. Esa ocasión se aprovecharía también para celebrar la asamblea general y retomar numerosas actividades… Pero la pandemia y sus interminables olas nos ha obligado, de nuevo, a postergar nuestra reunión.
+
+Esa semana también queríamos hacer pequeñas cápsulas de video en las que trataríamos
+distintas temáticas relacionadas a nuestras investigaciones en terreno. El objetivo era hacer
+converger aprendizaje y experiencia, algo a lo que nosotros damos mucha importancia. Pero todo parece indicar que, de nuevo, deberemos esperar un poco.
+
+Sin embargo, afortunadamente sí podremos mantener las videoconferencias con las clases,
+así que intentaremos sacarles el mejor provecho. Los docentes que deseen organizar pronto una videoconferencia pueden ponerse en <a href="https://www.centre-terre.fr/contact.php?lang=es" target="_blank">contacto <i class="fa fa-external-link"></i></a> con nosotros a través de nuestra web o mediante el formulario de inscripción de la DAAC de la académie de Toulouse que las clases francesas rellenaron para inscribirse en el proyecto inicial. Haremos todo lo posible para conectarnos con todos a través de las pantallas.
+}
+{ 12
+[photo-1.jpg/@¡Comenzó la operación escolar Última Patagonia 2022! Pronto habrá más noticias sobre el proyecto educativo en Chile.]
+}
+{ 12
+Además, acabamos de inaugurar <a href="https://app.centre-terre.fr/user/forum" target="_blank">el foro <i class="fa fa-external-link"></i></a> en la web, lo que nos permitirá responder a las preguntas y contribuir a las actividades que hayan iniciado con sus alumnos. Al inscribirse en el foro, podrán contactarnos de forma más directa y, en función de la temática, les responderá uno u otro miembro de Centre Terre. Para nosotros será un placer. Inscribirse es fácil y rápido y permite identificarlos más fácilmente para poder responder a las consultas, sobre todo, a nivel de desarrollo de los contenidos. Las conversaciones del foro serán visibles para todos los inscritos y podrán dar lugar a nuevas preguntas entre unos y otros. Al respecto, el libro colectivo del que les hablamos más arriba es un excelente complemento a los intercambios y diferentes herramientas que hemos puesto a disposición, gracias a la gran cantidad de fotos y documentos inéditos que contiene.
+}
+{ 1 De "Cuerdas y Más, Conociendo los glaciares de Hielo” a “Cuerdas y Más, Conociendo nuestro entorno” }
+{ 12
+Estaba todo listo para nuestra expedición infantil al glaciar Témpanos, así que, cuando el 3 de noviembre 2021, a pocos días del inicio oficial de la expedición infantil, la III Zona Naval de la Armada de Chile informó a Natalia de que, por motivos operacionales, no sería posible prestar el apoyo solicitado para la expedición infantil, el equipo de Cuerdas y Más, compuesto por Leonardo Rivas, Felipe Viera y Natalia Morata, ya tenían claro que viajarían igualmente a Puerto Edén.
+
+En previsión, semanas antes, Romina Pizarro, responsable de la escuela Miguel Montecinos, y Natalia, coordinadora del proyecto "Cuerdas y Más", ya habían empezado a anticipar un escenario sin glaciar, un plan B, algo tan necesario en Patagonia... Es así como, Denis Montecinos, María Isabel Tonko y Paola Cortés, docentes de la escuela Miguel Montecinos y del jardín alternativo étnico La Centollita, Leonardo y Natalia organizaron un programa alternativo de actividades que tuviera como foco la exploración del entorno más inmediato, es decir, Puerto Edén.
+}
+{ 12
+[photo-2.jpg/@Simulacro final de búsqueda y rescate con toda la comunidad de Puerto Edén.]
+}
+{ 12
+Los resultados se plasmarían en forma de un folleto turístico destinado a los niños de las clases CM1 y CM2 de la escuela de Lorp, en el Pirineo francés, con quienes los escolares de Edén iniciaron un intercambio en diciembre de 2020. 	El programa alternativo adoptado por la comunidad educativa mantenía los principales ejes del proyecto "Cuerdas y Más", enfocándose en actividades alrededor de Puerto Edén. A saber:
+
+Descubrir el entorno para compartirlo con gente de otros lugares.
+Trabajar valores como el trabajo en equipo, la colaboración, el espíritu de superación, sentirse parte de una comunidad.
+Desarrollar habilidades técnicas en el manejo de cuerdas, en la exploración del entorno de forma segura y en la gestión de una emergencia.
+}
+{ 12
+[photo-3.jpg/@Abriendo la ruta "Cuerdas y Más" para compartir con los con los alumnos de las clases de Lorp (Francia).]
+}
+{ 12
+Pese a no tener cuevas cerca, el programa de actividades seguía teniendo la espeleología como hilo conductor. La exploración de cuevas parte con la exploración del entorno. Entender las dinámicas que se dan en la superficie (tanto a nivel natural como humano), nos prepara para las que se dan en el subsuelo o en entornos exigentes. Además, la espeleología es una disciplina que toca muchas y variadas facetas que van desde la ciencia y la exploración (geología, biología, arqueología, paleoclimatología, etc.), pasando por la educación (con entretenidas herramientas pedagógicas), hasta la actividad física, no solo desde la perspectiva meramente deportiva, sino también desde el punto de vista del autoconocimiento y de la importancia de las acciones de cada uno en una dinámica de grupo o comunitaria.
+}
+{ 12
+[photo-4.jpg/@Navegando hacia Jetarkte para pasar una noche.]
+}
+{ 12
+Si quieres saber cómo nos fue durante las tres semanas en Puerto Edén, puede revisar los detalles, fotos y videos <a href="https://www.espeleopatagonia.cl/blog/categories/cuerdas-y-m%C3%A1s-actividades-con-ni%C3%B1" target="_blank">aquí<i class="fa fa-external-link"></i></a> (salvo los videos, el resto de entradas del blog están disponibles en francés e inglés).
+
+También puedes ver los videos en el canal de YouTube de EspeleoPatagonia <a href="https://www.youtube.com/channel/UCVDGhhdbfivdheNzkLatVHQ/videos" target="_blank">aquí <i class="fa fa-external-link"></i></a> o descargar <a href="https://drive.google.com/file/d/1fG4MK7r6aGt-JQj1-lZGj_5jRyMe5F3g/view?usp=sharing" target="_blank">aquí <i class="fa fa-external-link"></i></a>.
+
+¡Ahora estamos mejor preparados para el glaciar!
+
+}

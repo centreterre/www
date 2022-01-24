@@ -18,4 +18,5 @@ if (isset ( $_GET ['pageIndex'] )) {
 $bm->renderPage ( $pageIndex );
 $bm->renderPagination ( $pageIndex );
 ?>
+<br><br>
 

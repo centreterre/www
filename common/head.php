@@ -17,7 +17,7 @@ Utils::init_lang ();
 	content="Centre Terre - Découvrir Explorer Partager">
 <meta
 	property="og:title"
-	content="Ultima Patagonia 2022" />
+	content="Karst Patagonia" />
 <meta
 	property="og:site_name"
 	content="Centre Terre" />
@@ -29,10 +29,10 @@ Utils::init_lang ();
 	content="website" />
 <meta
 	property="og:description"
-	content="Une décision prise à contre-coeur" />
+	content="Le nouvel opus de Centre Terre est désormais en vente !" />
 <meta
 	property="og:image"
-	content="up2022/news/pages/008/picture1.jpg" />
+	content="up2022/news/pages/009/karst-patagonia.jpg" />
 <link
 	type="image/png"
 	rel="shortcut icon"
