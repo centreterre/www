@@ -3,7 +3,7 @@
             role="navigation"
             class="container navbar navbar-default">
         <ul class="nav navbar-nav">
-            <li class="dropdown <?= Utils::get_menu_class('/projet-scolaire-up2022') ?>">
+            <li class="dropdown <?= Utils::get_menu_class('/projet-scolaire-up2023') ?>">
                 <a
                         href="#"
                         class="dropdown-toggle"
@@ -11,20 +11,20 @@
                     <?= Utils::i19n(array('fr' => 'UP2022', 'es' => 'UP2022')) ?><b class="caret"></b>
                 </a>
                 <ul class="dropdown-menu">
-                    <li class="<?= Utils::get_menu_class('/projet-scolaire-up2022-presentation') ?>">
-                        <a href="projet-scolaire-up2022-presentation.php"><?= Utils::i19n(array('fr' => 'Présentation', 'es' => 'Présentation')) ?></a>
+                    <li class="<?= Utils::get_menu_class('/projet-scolaire-up2023-presentation') ?>">
+                        <a href="projet-scolaire-up2023-presentation.php"><?= Utils::i19n(array('fr' => 'Présentation', 'es' => 'Présentation')) ?></a>
                     </li>
-                    <li class="<?= Utils::get_menu_class('/projet-scolaire-up2022-valeurs-educatives') ?>">
-                        <a href="projet-scolaire-up2022-valeurs-educatives.php"><?= Utils::i19n(array('fr' => 'Valeurs éducatives', 'es' => 'Valeurs éducatives')) ?></a>
+                    <li class="<?= Utils::get_menu_class('/projet-scolaire-up2023-valeurs-educatives') ?>">
+                        <a href="projet-scolaire-up2023-valeurs-educatives.php"><?= Utils::i19n(array('fr' => 'Valeurs éducatives', 'es' => 'Valeurs éducatives')) ?></a>
                     </li>
-                    <li class="<?= Utils::get_menu_class('/projet-scolaire-up2022-lien-avec-les-programmes') ?>">
-                        <a href="projet-scolaire-up2022-lien-avec-les-programmes.php"><?= Utils::i19n(array('fr' => 'Lien avec les programmes', 'es' => 'Lien avec les programmes')) ?></a>
+                    <li class="<?= Utils::get_menu_class('/projet-scolaire-up2023-lien-avec-les-programmes') ?>">
+                        <a href="projet-scolaire-up2023-lien-avec-les-programmes.php"><?= Utils::i19n(array('fr' => 'Lien avec les programmes', 'es' => 'Lien avec les programmes')) ?></a>
                     </li>
-                    <li class="<?= Utils::get_menu_class('/projet-scolaire-up2022-pourquoi-retourner-en-patagonie') ?>">
-                        <a href="projet-scolaire-up2022-pourquoi-retourner-en-patagonie.php"><?= Utils::i19n(array('fr' => 'Pourquoi retourner en Patagonie', 'es' => 'Pourquoi retourner en Patagonie')) ?></a>
+                    <li class="<?= Utils::get_menu_class('/projet-scolaire-up2023-pourquoi-retourner-en-patagonie') ?>">
+                        <a href="projet-scolaire-up2023-pourquoi-retourner-en-patagonie.php"><?= Utils::i19n(array('fr' => 'Pourquoi retourner en Patagonie', 'es' => 'Pourquoi retourner en Patagonie')) ?></a>
                     </li>
-                    <li class="<?= Utils::get_menu_class('/projet-scolaire-up2022-responsabilite') ?>">
-                        <a href="projet-scolaire-up2022-responsabilite.php"><?= Utils::i19n(array('fr' => 'Responsabilité individuelle et collective', 'es' => 'Responsabilité individuelle et collective')) ?></a>
+                    <li class="<?= Utils::get_menu_class('/projet-scolaire-up2023-responsabilite') ?>">
+                        <a href="projet-scolaire-up2023-responsabilite.php"><?= Utils::i19n(array('fr' => 'Responsabilité individuelle et collective', 'es' => 'Responsabilité individuelle et collective')) ?></a>
                     </li>
                 </ul>
             </li>

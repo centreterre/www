@@ -44,18 +44,18 @@
 				<li class="<?=Utils::get_menu_class('/centre-terre')?>">
 					<a href="centre-terre-asso.php"><?=Utils::i19n ( array ('fr' => 'Centre Terre','es' => 'Centre Terre' ) )?></a>
 				</li>
-				<li class="<?=Utils::get_menu_class('/up2022-blog')?>">
-					<a href="up2022-blog.php"><?=Utils::i19n ( array ('fr' => 'UP2022','es' => 'UP2022' ) )?></a>
+				<li class="<?=Utils::get_menu_class('/up2023-blog')?>">
+					<a href="up2023-blog.php"><?=Utils::i19n ( array ('fr' => 'UP2022','es' => 'UP2022' ) )?></a>
 				</li>
 				<li class="<?=Utils::get_menu_class('/gallery')?>">
 					<a href="gallery-up2010.php"><?=Utils::i19n ( array ('fr' => 'Galerie photos','es' => 'Galería de fotos' ) )?></a>
 				</li>
-				<li class="<?=Utils::get_menu_class('/up2022-partenaires')?>">
-					<a href="up2022-partenaires.php"><?=Utils::i19n ( array ('fr' => 'Partenaires','es' => 'Colaboradores' ) )?></a>
+				<li class="<?=Utils::get_menu_class('/up2023-partenaires')?>">
+					<a href="up2023-partenaires.php"><?=Utils::i19n ( array ('fr' => 'Partenaires','es' => 'Colaboradores' ) )?></a>
 				</li>
                 <?php if (Utils::is_lang('fr')) {?>
                     <li class="<?=Utils::get_menu_class('/projet-scolaire')?>">
-                        <a href="projet-scolaire-up2022-presentation.php">Espace scolaire</a>
+                        <a href="projet-scolaire-up2023-presentation.php">Espace scolaire</a>
                     </li>
                 <?php }?>
                 <?php if (Utils::is_lang('es')) {?>

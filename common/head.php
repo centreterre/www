@@ -32,7 +32,7 @@ Utils::init_lang ();
 	content="Le nouvel opus de Centre Terre est désormais en vente !" />
 <meta
 	property="og:image"
-	content="up2022/news/pages/009/karst-patagonia.jpg" />
+	content="up2023/news/pages/009/karst-patagonia.jpg" />
 <link
 	type="image/png"
 	rel="shortcut icon"

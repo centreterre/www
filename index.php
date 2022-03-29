@@ -24,7 +24,7 @@
                     </form>
                 </div>
 				<?php include 'common/facebook.php';?>
-				<?php include 'up2022/news/news.php';?>
+				<?php include 'up2023/news/news.php';?>
 			</div>
             <div class="col-md-4">
 				<?php include 'sidebar/sidebar-latest.php';?>
