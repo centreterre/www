@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Projet scientifique UP2022</h1>
+<h1 style="text-align: center;">Projet scientifique UP2023</h1>
 <hr>
 <div style="text-align: center;font-weight: bold">
     Coordination scientifique : Richard Maire & Charlotte Honiat<br>

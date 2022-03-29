@@ -45,7 +45,7 @@
 					<a href="centre-terre-asso.php"><?=Utils::i19n ( array ('fr' => 'Centre Terre','es' => 'Centre Terre' ) )?></a>
 				</li>
 				<li class="<?=Utils::get_menu_class('/up2023-blog')?>">
-					<a href="up2023-blog.php"><?=Utils::i19n ( array ('fr' => 'UP2022','es' => 'UP2022' ) )?></a>
+					<a href="up2023-blog.php"><?=Utils::i19n ( array ('fr' => 'UP2023','es' => 'UP2023' ) )?></a>
 				</li>
 				<li class="<?=Utils::get_menu_class('/gallery')?>">
 					<a href="gallery-up2010.php"><?=Utils::i19n ( array ('fr' => 'Galerie photos','es' => 'Galería de fotos' ) )?></a>
