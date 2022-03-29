@@ -17,22 +17,22 @@ Utils::init_lang ();
 	content="Centre Terre - Découvrir Explorer Partager">
 <meta
 	property="og:title"
-	content="Karst Patagonia" />
+	content="En route pour Ultima Patagonia 2023 !" />
+<meta
+        property="og:description"
+        content="Samedi 19 et dimanche 20 mars 2022, première réunion en présentiel d'une partie des participants de la prochaine expédition. 23 personnes ont fait le déplacement et vont s'activer tout le weekend à la préparation d'UP 2023." />
+<meta
+        property="og:image"
+        content="up2023/news/pages/010/up2023-blog-010-001.jpg" />
+<meta
+        property="og:type"
+        content="website" />
 <meta
 	property="og:site_name"
 	content="Centre Terre" />
 <meta
 	property="og:url"
 	content="https://<?=$_SERVER['SERVER_NAME']?>" />
-<meta
-	property="og:type"
-	content="website" />
-<meta
-	property="og:description"
-	content="Le nouvel opus de Centre Terre est désormais en vente !" />
-<meta
-	property="og:image"
-	content="up2023/news/pages/009/karst-patagonia.jpg" />
 <link
 	type="image/png"
 	rel="shortcut icon"
@@ -58,9 +58,5 @@ Utils::init_lang ();
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-<link
-	href="up2017.rss"
-	rel="alternate"
-	type="application/rss+xml"
-	title="Ultima Patagonia 2017" />
+
 
