@@ -20,7 +20,7 @@
 			<div class="vip-top">
 				<img
 					class="img-responsive"
-					src="up2023/images/logo-up2023-150x150.png"
+					src="up2023/images/ultima-patagonia-2023-150x150.png"
 					alt="">
 			</div>
 			<div class="vip-bottom">
