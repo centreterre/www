@@ -14,6 +14,56 @@ $lang = array(
     <div class="col-md-4">
         <div class="panel panel-default text-center">
             <div class="panel-heading">
+                <h3 class="panel-title"><?= Utils::i19n(array('fr' => 'Karst Patagonia', 'es' => 'Karst Patagonia')) ?></h3>
+            </div>
+            <div class="panel-body">
+                <img
+                        alt=""
+                        class="img-responsive"
+                        src="images/shop/karst-patagonia.png">
+            </div>
+            <div class="panel-body">
+				<span class="price">
+					<sup>&#8364;</sup>&nbsp;30<sup>00</sup>
+				</span>
+            </div>
+            <ul class="list-group">
+                <li class="list-group-item">
+                    <a
+                            target="_blank" href="https://www.etsy.com/fr/listing/1166041153/karst-patagonia"
+                            class="btn btn-primary"><?= Utils::i18n($lang, 'buy') ?></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="panel panel-default text-center">
+            <div class="panel-heading">
+                <h3 class="panel-title"><?= Utils::i19n(array('fr' => 'Karst Patagonia - Lot de 4', 'es' => 'Karst Patagonia x 4')) ?></h3>
+            </div>
+            <div class="panel-body">
+                <img
+                        alt=""
+                        class="img-responsive"
+                        src="images/shop/karst-patagonia.png">
+            </div>
+            <div class="panel-body">
+				<span class="price">
+					<sup>&#8364;</sup>&nbsp;100<sup>00</sup>
+				</span>
+            </div>
+            <ul class="list-group">
+                <li class="list-group-item">
+                    <a
+                            target="_blank" href="https://www.etsy.com/fr/listing/1112653208/karst-patagonia-lot-de-4"
+                            class="btn btn-primary"><?= Utils::i18n($lang, 'buy') ?></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="panel panel-default text-center">
+            <div class="panel-heading">
                 <h3 class="panel-title"><?= Utils::i19n(array('fr' => 'Ultima Patagonia', 'es' => 'Ultima Patagonia')) ?></h3>
             </div>
             <div class="panel-body">
