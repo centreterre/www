@@ -23,7 +23,7 @@ Utils::init_lang ();
         content="Samedi 19 et dimanche 20 mars 2022, première réunion en présentiel d'une partie des participants de la prochaine expédition. 23 personnes ont fait le déplacement et vont s'activer tout le weekend à la préparation d'UP 2023." />
 <meta
         property="og:image"
-        content="up2023/news/pages/010/up2023-blog-010-001.jpg" />
+        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/010/up2023-blog-010-001.jpg" />
 <meta
         property="og:type"
         content="website" />
