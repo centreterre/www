@@ -63,6 +63,9 @@
                         <a href="espacio-escolar-chile-presentation.php">Espacio escolar</a>
                     </li>
                 <?php }?>
+                <li class="<?=Utils::get_menu_class('/forum')?>">
+                    <a href="https://app.centre-terre.fr/user/forum"><?=Utils::i19n ( array ('fr' => 'Forum','es' => 'Forum' ) )?></a>
+                </li>
 				<li class="<?=Utils::get_menu_class('/shop')?>">
 					<a href="shop.php"><?=Utils::i19n ( array ('fr' => 'Boutique','es' => 'Tienda on-line' ) )?></a>
 				</li>
