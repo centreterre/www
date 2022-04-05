@@ -2,6 +2,14 @@
     <div class="row">
         <div class="col-md-12">
             <h2>Projet scolaire UP2023</h2>
+        </div>
+        <div class="col-md-12">
+            <i class="fa fa-file-text-o"></i>
+            <a href="https://app.centre-terre.fr/user/forum">
+                <b><?= Utils::i19n(array('fr' => 'Forum', 'es' => 'Forum')) ?></b>
+            </a>
+        </div>
+        <div class="col-md-12">
             <i class="fa fa-file-text-o"></i>
             <a href="projet-scolaire-up2023-presentation.php">
                 <?= Utils::i19n(array('fr' => 'Présentation', 'es' => 'Présentation')) ?>
