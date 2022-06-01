@@ -42,7 +42,7 @@ class TeamManager
                 echo '                    alt=""';
                 echo '                    src="' . $this->baseDir . '/' . $img . '"';
                 echo '                    class="img-responsive">';
-                echo '                <h4>' . $name . '</h4>';
+                echo '                <h4 style="text-align: left">' . $name . '</h4>';
                 echo '                <p class="text-muted tal">' . $detail . '</p>';
                 echo '            </div>';
                 echo '        </div>';
