@@ -15,6 +15,9 @@
             <li class="<?php echo Utils::get_menu_class('/up2023-projet-scientifique'); ?>">
                 <a href="up2023-projet-scientifique.php"><?= Utils::i19n(array('fr' => 'Projet scientifique', 'es' => 'Proyecto científico')) ?></a>
             </li>
+            <li class="<?php echo Utils::get_menu_class('/up2023-pressbook'); ?>">
+                <a href="up2023-pressbook.php"><?= Utils::i19n(array('fr' => 'Presse', 'es' => 'Presse')) ?></a>
+            </li>
             <li class="<?php echo Utils::get_menu_class('/up2023-partenaires'); ?>">
                 <a href="up2023-partenaires.php"><?= Utils::i19n(array('fr' => 'Partenaires', 'es' => 'Colaboradores')) ?></a>
             </li>
