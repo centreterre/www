@@ -68,11 +68,6 @@ Denis MORALES
 Spéléologue
 Espeleólogo
 
-perrouelle-loic.jpg
-Loïc PERROUELLE
-Spéléologue, plongeur
-Spéléologue, plongeur
-
 philips-michel.jpg
 Michel PHILIPS
 Spéléologue, plongeur
@@ -90,11 +85,6 @@ Spéléologue, plongeur
 
 prieur-drevon-jeremie.jpg
 Jérémie PRIEUR DREVON
-Spéléologue, plongeur
-Spéléologue, plongeur
-
-barnjak-denis.jpg
-Denis BARNJAK
 Spéléologue, plongeur
 Spéléologue, plongeur
 
@@ -172,3 +162,13 @@ meunier-david.jpg
 David MEUNIER
 Spéléologue, Site Web
 Spéléologue, Site Web
+
+rives-florian.jpg
+Florian RIVES
+Spéléologue
+Spéléologue
+
+chenu-florian.jpg
+Florian CHENU
+Spéléologue
+Spéléologue
