@@ -17,8 +17,8 @@
     <img
             class="img-responsive"
             src="https://resource.centre-terre.fr/up2023/plaquette/up2023-plaquette-fr-01.jpg"
-            width="1240"
-            height="1790"
+            width="1236"
+            height="1780"
             style="display: block;">
     <br>
     <br>
@@ -26,8 +26,8 @@
         <img
                 class="lazy img-responsive"
                 data-original="https://resource.centre-terre.fr/up2023/plaquette/up2023-plaquette-fr-<?= str_pad($i, 2, "0", STR_PAD_LEFT) ?>.jpg"
-                width="1240"
-                height="1790"
+                width="1236"
+                height="1780"
                 style="display: block;">
         <br>
         <br>
