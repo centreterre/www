@@ -1,6 +1,7 @@
 { 2 Publié le 04-10-2022 }
 { 1 UP-2023 ça se précise ... top départ pour le chargement du matériel ! }
 { 12
+<iframe width="750" height="400" src="https://www.youtube.com/embed/dyP6lz-QHSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 La fermeture des portes du container de matériel à destination de la Patagonie Chilienne marque le franchissement d’un nouveau cap dans les préparatifs essentiels à l’expédition Ultima Patagonia 2023 (UP-2023) menée par l’association Centre Terre.  Ce samedi 24 septembre, les membres de l’équipe Centre Terre, venus des quatre coins de France (et même de Suisse et d’Autriche) se sont retrouvés sur les berges du Rhône à St-Romain-en-Gal afin de vérifier, inventorier, conditionner et charger plusieurs tonnes de matériel en vue de son acheminement par fret maritime vers la Patagonie.
 Trente-cinq membres de l’expédition se sont retrouvés dès dix heures sur le site de chargement du conteneur. Plus de 10 heures de manutention ont été nécessaire pour soigneusement trier, préparer empaqueter et charger le matériel essentiel qui permettra la bonne marche de l’expédition au regard des objectifs ambitieux d’UP-2023.
 }
