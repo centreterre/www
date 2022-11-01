@@ -1,6 +1,16 @@
 <div class="well">
     <div class="row">
         <div class="col-md-12">
+            <a target="_blank" href="https://www.youtube.com/channel/UC8lUZrNGT_Cdrx-LEJB5Lfg">
+                <i class="fa fa-file-movie-o"></i><b>Retrouvez toutes les vidéos de Centre Terre sur notre
+                    chaîne Youtube</b> <i class="fa fa-external-link"></i></a>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="well">
+    <div class="row">
+        <div class="col-md-12">
             <h2>Projet scolaire UP2023</h2>
         </div>
         <div class="col-md-12">
