@@ -104,12 +104,12 @@
 		class="img-responsive img-caption"
 		src="images/centre-terre/expedition-ultima-patagonia-2000-large.jpg"
 		alt="Expédition Ultima Patagonia 2000">
-	<i
+	<!--<i
 		class="fa fa-external-link"
 		aria-hidden="true"></i>
 	<a
 		target="_blank"
-		href="https://www.centre-terre.fr/ultima2000/"><?=Utils::i19n ( array ('fr' => 'Visiter le site web Ultima Patagonia','es' => 'Visiter le site web Ultima Patagonia' ) )?> 2000</a>
+		href="https://www.centre-terre.fr/ultima2000/"><?=Utils::i19n ( array ('fr' => 'Visiter le site web Ultima Patagonia','es' => 'Visiter le site web Ultima Patagonia' ) )?> 2000</a>-->
 </div>
 <a
 	id="expedition-ushuaia"
@@ -190,12 +190,12 @@
 		class="img-responsive img-caption"
 		src="images/centre-terre/expedition-ultima-patagonia-2006-large.jpg"
 		alt="Expédition Ultima Patagonia 2006">
-	<i
+	<!--<i
 		class="fa fa-external-link"
 		aria-hidden="true"></i>
 	<a
 		target="_blank"
-		href="https://www.centre-terre.fr/ultima2006/"><?=Utils::i19n ( array ('fr' => 'Visiter le site web Ultima Patagonia','es' => 'Visiter le site web Ultima Patagonia' ) )?> 2006</a>
+		href="https://www.centre-terre.fr/ultima2006/"><?=Utils::i19n ( array ('fr' => 'Visiter le site web Ultima Patagonia','es' => 'Visiter le site web Ultima Patagonia' ) )?> 2006</a>-->
 </div>
 <a
 	id="expedition-2008"
@@ -235,12 +235,12 @@
 		class="img-responsive img-caption"
 		src="images/centre-terre/expedition-ultima-patagonia-2008-large.jpg"
 		alt="Expédition Ultima Patagonia 2008">
-	<i
+    <!--<i
 		class="fa fa-external-link"
 		aria-hidden="true"></i>
 	<a
 		target="_blank"
-		href="https://www.centre-terre.fr/ultima2008/"><?=Utils::i19n ( array ('fr' => 'Visiter le site web Ultima Patagonia','es' => 'Visiter le site web Ultima Patagonia' ) )?> 2008</a>
+		href="https://www.centre-terre.fr/ultima2008/"><?=Utils::i19n ( array ('fr' => 'Visiter le site web Ultima Patagonia','es' => 'Visiter le site web Ultima Patagonia' ) )?> 2008</a>-->
 </div>
 <a
 	id="expedition-2010"
@@ -284,12 +284,12 @@
 		primera isla, Diego de Almagro, que apenas vimos en 1995 y exploramos un poco en 1997. Ahí hay karst salvajes, inaccesibles, bajo un clima -sin
 		duda- más violento que en Madre de Dios. ¿Acaso no es un objetivo soñado por los exploradores del siglo XX?</p>
 	<?php }?>
-	<i
+	<!--<i
 		class="fa fa-external-link"
 		aria-hidden="true"></i>
 	<a
 		target="_blank"
-		href="https://www.centre-terre.fr/ultima2010/"><?=Utils::i19n ( array ('fr' => 'Visiter le site web Ultima Patagonia','es' => 'Visiter le site web Ultima Patagonia' ) )?> 2010</a>
+		href="https://www.centre-terre.fr/ultima2010/"><?=Utils::i19n ( array ('fr' => 'Visiter le site web Ultima Patagonia','es' => 'Visiter le site web Ultima Patagonia' ) )?> 2010</a>-->
 </div>
 <a
 	id="expedition-2014"
@@ -319,7 +319,7 @@
 		aria-hidden="true"></i>
 	<a
 		target="_blank"
-		href="http://centre-terre.fr/ultima2014/"><?=Utils::i19n ( array ('fr' => 'Visiter le site web Ultima Patagonia','es' => 'Visiter le site web Ultima Patagonia' ) )?> 2014</a>
+		href="https://resource.centre-terre.fr/oldsites/UP2014-JOURNAL-DE-BORD.pdf"><?=Utils::i19n ( array ('fr' => 'Visiter le site web Ultima Patagonia','es' => 'Visiter le site web Ultima Patagonia' ) )?> 2014</a>
 </div>
 <a
 	id="expedition-2017"
