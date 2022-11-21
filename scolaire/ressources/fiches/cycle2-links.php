@@ -1,4 +1,5 @@
 <div class="worksheets">
+    <p><i class="fa fa-file-pdf-o" aria-hidden="true"></i><a href="https://resource.centre-terre.fr/scolaire/fiches/C2/C2-00-SOMMAIRE-FICHES-CYCLE-2.pdf">C2-00 Sommaire fiches cycle 2</a></p>
     <p><i class="fa fa-file-pdf-o" aria-hidden="true"></i><a href="https://resource.centre-terre.fr/scolaire/fiches/C2/C2-01-L-ARCHIPEL-DE-PATAGONIE.pdf">C2-01 L'archipel de Patagonie</a></p>
     <p><i class="fa fa-file-pdf-o" aria-hidden="true"></i><a href="https://resource.centre-terre.fr/scolaire/fiches/C2/C2-02-LE-MYSTERE-DE-LA-BALEINE.pdf">C2-02 Le mystère de la baleine</a></p>
     <p><i class="fa fa-file-pdf-o" aria-hidden="true"></i><a href="https://resource.centre-terre.fr/scolaire/fiches/C2/C2-03-LA-PLUVIOMETRIE-SUR-L-ILE-DE-MADRE-DE-DIOS.pdf">C2-03 La pluviométrie sur l'île de Madre de Dios</a></p>

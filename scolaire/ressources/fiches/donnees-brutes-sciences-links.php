@@ -4,6 +4,7 @@
 </div>
 <hr/>
 <div class="worksheets">
+    <p><i class="fa fa-file-pdf-o" aria-hidden="true"></i><a href="https://resource.centre-terre.fr/scolaire/fiches/DB/DB-00-SOMMAIRE-FICHES-DONNEES-BRUTES.pdf">DB-00 Sommaire fiches Données Brutes</a></p>
     <p><i class="fa fa-file-pdf-o" aria-hidden="true"></i><a href="https://resource.centre-terre.fr/scolaire/fiches/DB/DB-02-GEOLOGIE-DE-L-ARCHIPEL-DE-PATAGONIE-CHILIENNE.pdf">DB-02 Géologie de l'archipel de Patagonie chilienne</a></p>
     <p><i class="fa fa-file-pdf-o" aria-hidden="true"></i><a href="https://resource.centre-terre.fr/scolaire/fiches/DB/DB-03-DECOUVERTES-ARCHEOLOGIQUES-DANS-LE-SENO-BARROS-LUCO.pdf">DB-03 Découvertes archéologiques dans le seno Barros Luco</a></p>
     <p><i class="fa fa-file-pdf-o" aria-hidden="true"></i><a href="https://resource.centre-terre.fr/scolaire/fiches/DB/DB-04-ECHANTILLONNAGES-GEOLOGIQUES-SUR-LES-ILES-PATAGONES.pdf">DB-04 Echantillonnages géologiques sur les îles patagones</a></p>
