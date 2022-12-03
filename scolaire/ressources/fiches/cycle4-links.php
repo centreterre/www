@@ -26,4 +26,5 @@
     <p><i class="fa fa-file-pdf-o" aria-hidden="true"></i><a href="https://resource.centre-terre.fr/scolaire/fiches/C4/C4-28-TELECOMMUNICATION.pdf">C4-28 Télécommunication</a></p>
     <p><i class="fa fa-file-pdf-o" aria-hidden="true"></i><a href="https://resource.centre-terre.fr/scolaire/fiches/C4/C4-29-TRANSPORT-DES-VIVRES.pdf">C4-29 Transport des vivres</a></p>
     <p><i class="fa fa-file-pdf-o" aria-hidden="true"></i><a href="https://resource.centre-terre.fr/scolaire/fiches/C4/C4-30-DIFFERENCIER-LES-CORMORANS.pdf">C4-30 Différencier les cormorans</a></p>
+    <p><i class="fa fa-file-pdf-o" aria-hidden="true"></i><a href="https://resource.centre-terre.fr/scolaire/fiches/C4/C4-31-ADN-ENVIRONNEMENTAL-ET-BIODIVERSITE.pdf">C4-31 L’ADN environnemental, étude de la biodiversité</a></p>
 </div>

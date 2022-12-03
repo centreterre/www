@@ -26,4 +26,5 @@
     <p><i class="fa fa-file-pdf-o" aria-hidden="true"></i><a href="https://resource.centre-terre.fr/scolaire/fiches/DB/DB-20-UN-PALEOPAYSAGE-SOUS-LES-SENOS.pdf">DB-20 Un paléopaysage sous les senos</a></p>
     <p><i class="fa fa-file-pdf-o" aria-hidden="true"></i><a href="https://resource.centre-terre.fr/scolaire/fiches/DB/DB-21-ETUDE-DES-PROTISTES.pdf">DB-21 Etude des protistes</a></p>
     <p><i class="fa fa-file-pdf-o" aria-hidden="true"></i><a href="https://resource.centre-terre.fr/scolaire/fiches/DB/DB-22-BIBLIOGRAPHIE.pdf">DB-22 Bibliographie</a></p>
+    <p><i class="fa fa-file-pdf-o" aria-hidden="true"></i><a href="https://resource.centre-terre.fr/scolaire/fiches/DB/DB-23-ADN-ENVIRONNEMENTAL-DEVOILER-LE-VIVANT.pdf">DB-23 ADN Environnemental : dévoiler le vivant</a></p>
 </div>
