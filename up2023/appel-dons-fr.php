@@ -1,0 +1,105 @@
+<style>
+    p, ul, li {
+        font-size: 16px;
+    }
+</style>
+<div class="container">
+    <div class="col-md-7">
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" style="padding-bottom: 10px;">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="UG8WNMURC2LDG">
+            <input type="image" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donate_LG.gif" border="0" name="submit"
+                   alt="PayPal, le réflexe sécurité pour payer en ligne">
+            <input type="image" src="https://www.paypalobjects.com/es_ES/ES/i/btn/btn_donate_LG.gif" border="0" name="submit"
+                   alt="PayPal, le réflexe sécurité pour payer en ligne">
+            <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif" border="0" name="submit"
+                   alt="PayPal, le réflexe sécurité pour payer en ligne">
+            <img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
+        </form>
+        <h1>Devenez partenaire de l'expédition Ultima Patagonia 2023!</h1>
+        <p>En janvier 2023, Centre Terre organise une nouvelle expédition spéléologique et géographique de deux mois sur les îles de la Patagonie
+            chilienne. Les objectifs de ce nouveau projet sont l'exploration des moulins sur la zone glaciaire du seno Peel et l'exploration des
+            cavités calcaires sur la partie nord de l'archipel de Madre de Dios (anse du seno Egg). L'expédition 2023 s'accompagne d'un volet
+            scientifique plus étoffé que jamais avec des thématiques couvrant la glaciologie (étude de la dynamique de la zone glaciaire explorée), le
+            paléoclimat, la géologie, la faune (mammifères), la flore (inventaire botanique), la biologie (biodiversité microbienne) et les sciences
+            de l'homme. En parallèle, un important projet scolaire sera conduit en partenariat avec l'Education Nationale sur toute l'année scolaire
+            2022-2023 en étroite collaboration avec la Communauté Educative de Puerto Eden (localité la plus proche de l'Archipel de Madre de Dios).
+            Plusieurs dizaines de classe sont inscrites et bénéficient déjà d'accompagnement pédagogique sur ce registre. Enfin, un nouveau film de 90
+            mn sera produit au cours de cette aventure et diffusé par ARTE à l'automne 2023.
+        </p>
+        <p> Pour mener à bien ce projet, nous travaillons depuis des mois à rassembler les financements indispensables. Il nous faudra en effet
+            acheminer par bateau les équipes jusqu'à leur terrain d'action, gérer le fret aller et retour des quelque 20 tonnes d'équipements expédiés
+            depuis la France, construire une nouvelle base scientifique dans l'anse du seno Egg, ou encore prévoir les moyens techniques de suivi et
+            d'échanges nécessaires au bon déroulement de nos projets éducatifs, notamment des visio-conférences à destination du public scolaire, mais
+            également l'organisation de la visite de l'école de Puerto Eden sur le site de la base scientifique du seno Egg, si les paramètres
+            techniques et sécuritaires le permettent.
+        </p>
+        <p>
+            Lors des expéditions précédentes, un grand nombre d'entre vous nous ont directement soutenus, via les campagnes de financement
+            participatives, l'acquisition d'ouvrages, de DVDs ou de cartons de vin. Centre Terre vous remercie une fois encore pour votre soutien et
+            vous informe que nous organisons une nouvelle campagne de financement participatif qui vous permettra de contribuer au projet d'expédition
+            2023 et de bénéficier en retour de contreparties.
+        </p>
+        <h1>
+            Vous souhaitez effectuer un don ? Plusieurs options:
+        </h1>
+        <ul>
+            <li>Rendez vous sur le site www.centre-terre.fr , où vous pourrez effectuer par carte bancaire un règlement sécurisé via Paypal</li>
+            <li>Effectuer un virement bancaire direct: IBAN FR80 2004 1010 0107 6509 4T02 229</li>
+            <li>Envoyer votre chèque sous enveloppe à l'ordre et à l'adresse de Centre Terre, 25 rue Louis de Broglie 31100 TOULOUSE</li>
+            <li>Vous êtes Chiliens, ou résidents au Chili, là aussi les dons sont possibles en s'adressant directement a espeleopatagonia@gmail.com
+            </li>
+        </ul>
+        <p>Pour chaque don provenant de France, Centre Terre vous délivrera un reçu fiscal ouvrant droit à une réduction d'impôts de 66% de la somme
+            versée, utilisable dans la limite de 20 % de votre revenu imposable. Ainsi votre don ne vous reviendra qu'au tiers de sa valeur nominale.
+        </p>
+        <p><b>D'avance, toute l'équipe de Centre Terre vous remercie pour votre soutien à UP-2023.</b></p>
+    </div>
+    <div class="col-md-5">
+        <div class="fill">
+            <img src="/up2023/images/ultima-patagonia-2023.png" width="100%">
+        </div>
+        <div style="background-color: #eeeeee;padding: 10px">
+            <h3 style="padding-top: 10px">Contreparties liées à l'opération partenariale de financement participatif 2022/2023.</h3>
+            <p><i>En contrepartie de votre soutien, quel qu'en soit le montant, Centre Terre souhaite cette année vous associer un peu plus encore au
+                    projet.</i>
+            </p>
+            <h3>5 € et plus</h3>
+            <ul>
+                <li>Votre nom et prénom peuvent apparaître si vous le souhaitez à l'affichage sous l'onglet « Les particuliers qui soutiennent
+                    UP-2023 » sur notre page web <a href="https://centre-terre.fr/up2023-partenaires.php">partenaires</a>. Cette nouvelle rubrique
+                    visera
+                    à valoriser votre
+                    apport, elle figurera au côté même de nos partenaires de l'expédition ainsi que dans les remerciements du rapport qui suivra
+                    l'expédition
+                </li>
+                <li>Une newsletter vous sera adressée par mail lors de chaque nouvelle mise à jour à paraître sur notre site pendant toute la durée de
+                    l'expédition
+                </li>
+            </ul>
+            <h3>40 € et plus</h3>
+            <ul>
+                <li>Contreparties précédentes</li>
+                <li>1 photographie dédicacée de l'expédition au format 20x30cm</li>
+            </ul>
+            <h3>60 € et plus</h3>
+            <ul>
+                <li>Contreparties précédentes</li>
+                <li>1 accès streaming illimité au film 2023 à l'issu de sa projection sur ARTE</li>
+            </ul>
+            <h3>120 € et plus</h3>
+            <ul>
+                <li>Contreparties précédentes</li>
+                <li>Vous recevrez le rapport d'expédition 2023, min. 124 pages couleurs (en 2 langues FR/ES)</li>
+            </ul>
+            <h3>500 € et plus</h3>
+            <ul>
+                <li>Contreparties précédentes</li>
+                <li>Un exemplaire du livre « Karst Patagonia » (éd. 2022)</li>
+                <li>Vous êtes par votre apport, un partenaire fort de cet ambitieux projet, votre Nom et Prénom pourront figurer (là aussi si vous le
+                    souhaitez), parmi nos “partenaires participatifs Premium”, au générique de fin de la version du Film 2023 (Edition Centre Terre).
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
