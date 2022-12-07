@@ -25,7 +25,7 @@
         <i
                 class="fa fa-dollar"
                 aria-hidden="true">&nbsp;</i><a
-                href="https://centre-terre.fr/shop.php"><?= Utils::i19n(array('fr' => 'Faire un don', 'es' => 'Hacer una donación')) ?></a>
+                href="/up2023-appel-dons.php?lang=<?=Utils::get_lang()?>"><?= Utils::i19n(array('fr' => 'Faire un don', 'es' => 'Hacer una donación')) ?></a>
     </a>
 </div>
 <div class="well">
