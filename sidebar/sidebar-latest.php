@@ -1,18 +1,39 @@
 <div class="well">
-    <div class="row">
-        <div class="col-md-12">
-            <a href="/up2023-appel-dons.php">
-                <i class="fa fa-link"></i><b>Vous aussi, participez à cette aventure en contribuant financièrement à la construction de la nouvelle base scientifique !</b></a>
-            </a>
-        </div>
-    </div>
+    <h2 style="font-size: 16px;font-weight: bold"><?= Utils::i19n(array('fr' => 'Karst Patagonia un cadeau idéal pour les fêtes de fin d’année !', 'es' => 'Karst Patagonia, ¡el regalo perfecto para las fiestas!')) ?></h2>
+    <p>
+        <img
+                class="img-responsive"
+                src="/up2023/news/pages/012/up2023-blog-012-015b.jpg"
+                alt="Expédition Ultima Patagonia 2019">
+    </p>
+    <a href="up2019-blog.php">
+        <i
+                class="fa fa-shopping-cart"
+                aria-hidden="true">&nbsp;</i><a
+                href="https://centre-terre.fr/shop.php"><?= Utils::i19n(array('fr' => 'Acheter', 'es' => 'Comprar')) ?></a>
+    </a>
+</div>
+<div class="well">
+    <h2 style="font-size: 16px;font-weight: bold"><?= Utils::i19n(array('fr' => 'Vous aussi participez à cette aventure !', 'es' => 'Tú también puedes participar en esta aventura.')) ?></h2>
+    <p>
+        <img
+                class="img-responsive"
+                src="/up2023/news/pages/012/up2023-blog-012-016b.jpg"
+                alt="Expédition Ultima Patagonia 2019">
+    </p>
+    <a href="up2019-blog.php">
+        <i
+                class="fa fa-dollar"
+                aria-hidden="true">&nbsp;</i><a
+                href="https://centre-terre.fr/shop.php"><?= Utils::i19n(array('fr' => 'Faire un don', 'es' => 'Hacer una donación')) ?></a>
+    </a>
 </div>
 <div class="well">
     <div class="row">
         <div class="col-md-12">
             <a target="_blank" href="https://www.youtube.com/channel/UC8lUZrNGT_Cdrx-LEJB5Lfg">
                 <i class="fa fa-file-movie-o"></i>Retrouvez toutes les vidéos de Centre Terre sur notre
-                    chaîne Youtube <i class="fa fa-external-link"></i></a>
+                chaîne Youtube <i class="fa fa-external-link"></i></a>
             </a>
         </div>
     </div>
