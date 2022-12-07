@@ -1,9 +1,18 @@
 <div class="well">
     <div class="row">
         <div class="col-md-12">
+            <a href="/up2023-appel-dons.php">
+                <i class="fa fa-link"></i><b>Vous aussi, participez à cette aventure en contribuant financièrement à la construction de la nouvelle base scientifique !</b></a>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="well">
+    <div class="row">
+        <div class="col-md-12">
             <a target="_blank" href="https://www.youtube.com/channel/UC8lUZrNGT_Cdrx-LEJB5Lfg">
-                <i class="fa fa-file-movie-o"></i><b>Retrouvez toutes les vidéos de Centre Terre sur notre
-                    chaîne Youtube</b> <i class="fa fa-external-link"></i></a>
+                <i class="fa fa-file-movie-o"></i>Retrouvez toutes les vidéos de Centre Terre sur notre
+                    chaîne Youtube <i class="fa fa-external-link"></i></a>
             </a>
         </div>
     </div>

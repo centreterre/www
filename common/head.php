@@ -17,13 +17,13 @@ Utils::init_lang ();
 	content="Centre Terre - Découvrir Explorer Partager">
 <meta
 	property="og:title"
-	content="UP-2023 ça se précise ... top départ pour le chargement du matériel !" />
+	content="Ultima Patagonia 2023, les préparatifs s'accélèrent" />
 <meta
         property="og:description"
-        content="La fermeture des portes du container de matériel à destination de la Patagonie Chilienne marque le franchissement d’un nouveau cap dans les préparatifs essentiels à l’expédition Ultima Patagonia 2023 (UP-2023) menée par l’association Centre Terre.  Ce samedi 24 septembre, les membres de l’équipe Centre Terre, venus des quatre coins de France (et même de Suisse et d’Autriche) se sont retrouvés sur les berges du Rhône à St-Romain-en-Gal afin de vérifier, inventorier, conditionner et charger plusieurs tonnes de matériel en vue de son acheminement par fret maritime vers la Patagonie." />
+        content="Du 7 au 20 octobre, Natalia s'est rendue dans la région de Magallanes pour y préparer les aspects logistiques de l'expédition Ultima Patagonia 2023 (UP-2023). Ce déplacement a été coordonné avec le ministère des Biens nationaux dans le cadre de la convention de collaboration signée avec Centre Terre depuis 2016." />
 <meta
         property="og:image"
-        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/011/up2023-blog-011-006.jpg" />
+        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/012/up2023-blog-012-001.jpg" />
 <meta
         property="og:type"
         content="website" />
