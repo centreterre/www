@@ -1,19 +1,4 @@
 <div class="well">
-    <h2 style="font-size: 16px;font-weight: bold"><?= Utils::i19n(array('fr' => 'Karst Patagonia un cadeau idéal pour les fêtes de fin d’année !', 'es' => 'Karst Patagonia, ¡el regalo perfecto para las fiestas!')) ?></h2>
-    <p>
-        <img
-                class="img-responsive"
-                src="/up2023/news/pages/012/up2023-blog-012-015b.jpg"
-                alt="Expédition Ultima Patagonia 2019">
-    </p>
-    <a href="up2019-blog.php">
-        <i
-                class="fa fa-shopping-cart"
-                aria-hidden="true">&nbsp;</i><a
-                href="https://centre-terre.fr/shop.php"><?= Utils::i19n(array('fr' => 'Acheter', 'es' => 'Comprar')) ?></a>
-    </a>
-</div>
-<div class="well">
     <h2 style="font-size: 16px;font-weight: bold"><?= Utils::i19n(array('fr' => 'Vous aussi participez à cette aventure !', 'es' => 'Tú también puedes participar en esta aventura.')) ?></h2>
     <p>
         <img
@@ -26,6 +11,21 @@
                 class="fa fa-dollar"
                 aria-hidden="true">&nbsp;</i><a
                 href="/up2023-appel-dons.php?lang=<?=Utils::get_lang()?>"><?= Utils::i19n(array('fr' => 'Faire un don', 'es' => 'Hacer una donación')) ?></a>
+    </a>
+</div>
+<div class="well">
+    <h2 style="font-size: 16px;font-weight: bold"><?= Utils::i19n(array('fr' => 'Karst Patagonia', 'es' => 'Karst Patagonia')) ?></h2>
+    <p>
+        <img
+                class="img-responsive"
+                src="/up2023/news/pages/012/up2023-blog-012-015b.jpg"
+                alt="Expédition Ultima Patagonia 2019">
+    </p>
+    <a href="up2019-blog.php">
+        <i
+                class="fa fa-shopping-cart"
+                aria-hidden="true">&nbsp;</i><a
+                href="https://centre-terre.fr/shop.php"><?= Utils::i19n(array('fr' => 'Acheter', 'es' => 'Comprar')) ?></a>
     </a>
 </div>
 <div class="well">
