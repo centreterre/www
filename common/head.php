@@ -17,13 +17,13 @@ Utils::init_lang ();
 	content="Centre Terre - Découvrir Explorer Partager">
 <meta
 	property="og:title"
-	content="Ultima Patagonia 2023, dernière ligne droite !" />
+	content="Mise à jour web 15 janvier 2023" />
 <meta
         property="og:description"
-        content="Après deux reports de calendrier liés à la crise COVID, les jours sont désormais comptés avant le départ des premières équipes vers le Chili et chacun s'affaire maintenant à remplir son sac de voyage et à se répartir le matériel collectif pas encore acheminé." />
+        content="Depuis ce début janvier, une phase cruciale de l'expédition Ultima Patagonia-2023 a été lancée. Pas moins de trois équipes de Centre Terre se sont tour à tour déployées sur la 12ème région du Chili, territoire de Magallanes et de l'Antarctique chilien afin de réaliser, et ce dans un temps limité, un grand nombre de missions préparatoires." />
 <meta
         property="og:image"
-        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/013/up2023-blog-013-003.jpg" />
+        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/014/001.jpg" />
 <meta
         property="og:type"
         content="website" />
