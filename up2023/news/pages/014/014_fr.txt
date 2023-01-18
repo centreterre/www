@@ -82,6 +82,9 @@ Dans ce même temps, de nombreuses rencontres et actions de communication sont �
 [013b.jpg/@Interviews et coordination avec les services de l'Armée du Chili]
 }
 { 12
+<iframe width="750" height="400" src="https://www.youtube.com/embed/D7gzr3XY26s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+}
+{ 12
 Enfin, tout est finalisé du côté de Punta Arenas, avec l'arrivée le 17 janvier en soirée des 17 nouveaux participants, nous pouvons alors passer à la dernière phase de préparation d'UP-2023. Il s'agit du transfert dès demain de tous les achats réalisés cette semaine et du reste du matériel encore stocké dans le container, ainsi que des 25 participants que nous somment dorénavant vers Puerto Natales. Nous embarquerons ensuite à bord du ferry qui mettra le cap sur Puerto Eden, point de départ officiel de l'expédition UP-2023.
 Arrivée prévue le 20 janvier...
 }

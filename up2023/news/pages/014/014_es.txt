@@ -81,6 +81,9 @@ Paralelamente, también se llevan a cabo numerosas reuniones y acciones de comun
 [013b.jpg/@Interviews y coordinación con los servicios de la Tercera Zona Naval de la Armada de Chile]
 }
 { 12
+<iframe width="750" height="400" src="https://www.youtube.com/embed/T6RdKIQaQDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+}
+{ 12
 Finalmente, en Punta Arenas ponemos punto final a nuestra misión con la llegada de los 17 nuevos integrantes de la expedición en la tarde del 17 de enero, por lo que podemos pasar a la última fase de preparación de la UP 2023. Mañana trasladaremos todo el material adquirido y aún almacenado en el container, así como a los 25 participantes que ahora nos dirigiremos a Puerto Natales para embarcar en el ferry que nos llevará a Puerto Edén, punto de partida oficial de la expedición UP 2023.
 Llegada prevista el 20 de enero...
 }
