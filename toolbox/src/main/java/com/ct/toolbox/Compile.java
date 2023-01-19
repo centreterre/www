@@ -1,0 +1,101 @@
+package com.ct.toolbox;
+
+import lombok.SneakyThrows;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.FileReader;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.Set;
+import java.util.concurrent.atomic.AtomicBoolean;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
+import static java.util.Optional.ofNullable;
+import static org.apache.commons.lang3.StringUtils.LF;
+import static org.apache.commons.lang3.StringUtils.trimToNull;
+
+public class Compile {
+
+    File baseDir = new File("./up2023/news");
+
+    public static void main(String[] args) {
+        new Compile().run();
+    }
+
+    private void run() {
+        listFiles(baseDir).forEach(this::compile);
+    }
+
+    @SneakyThrows
+    private String compile(BufferedReader bufferedReader) {
+        StringBuilder out = new StringBuilder();
+        String line = bufferedReader.readLine();
+        AtomicBoolean startParagraph = new AtomicBoolean();
+        while (line != null) {
+            ofNullable(trimToNull(line)).ifPresent(v -> {
+                if (v.startsWith("###")) {
+                    out.append("}").append(LF);
+                    out.append("{ 3 ").append(v.substring(3).trim()).append(" }").append(LF);
+                    startParagraph.set(true);
+                } else if (v.startsWith("##")) {
+                    out.append("}").append(LF);
+                    out.append("{ 1 ").append(v.substring(2).trim()).append(" }").append(LF);
+                    startParagraph.set(true);
+                } else if (v.startsWith("#")) {
+                    out.append("}").append(LF);
+                    out.append("{ 2 ").append(v.substring(1).trim()).append(" }").append(LF);
+                    startParagraph.set(true);
+                } else {
+                    if (v.startsWith("$")) {
+                        out.append("}").append(LF);
+                        out.append("{ ").append(v.substring(1).trim().split(" ")[0]).append(LF);
+                        startParagraph.set(false);
+                    } else if (startParagraph.get()) {
+                        out.append("{ 12").append(LF);
+                        extracted(out, v);
+                        startParagraph.set(false);
+                    } else {
+                        extracted(out, v);
+                    }
+                }
+            });
+            line = bufferedReader.readLine();
+        }
+        return out.append("}").toString().substring(2);
+    }
+
+    private static void extracted(StringBuilder out, String v) {
+        if (v.startsWith("!")) {
+            String w = v.substring(1).trim();
+            String img = w.split(" ")[0];
+            String legend = w.replace(img,"").trim();
+            out.append("[").append(img).append("/@").append(legend).append("]").append(LF);
+        } else {
+            out.append(v.trim()).append(LF);
+        }
+    }
+
+    @SneakyThrows
+    public Set<File> listFiles(File dir) {
+        try (Stream<Path> stream = Files.walk(Paths.get(dir.getCanonicalPath()))) {
+            return stream
+                    .filter(file -> !Files.isDirectory(file))
+                    .map(Path::toFile)
+                    .filter(file -> file.getName().endsWith(".smd"))
+                    .collect(Collectors.toSet());
+        }
+    }
+
+    @SneakyThrows
+    private void compile(File file) {
+        File parentDir = file.getParentFile();
+        String output = compile(new BufferedReader(new FileReader(file)));
+        File outputFile = new File(parentDir, file.getName().replace(".smd", ".txt"));
+        new FileOutputStream(outputFile).write(output.getBytes(StandardCharsets.UTF_8));
+    }
+}

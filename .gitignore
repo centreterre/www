@@ -6,3 +6,4 @@ documents
 resources
 forum
 tmp
+*.class
