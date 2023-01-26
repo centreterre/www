@@ -17,13 +17,13 @@ Utils::init_lang ();
 	content="Centre Terre - Découvrir Explorer Partager">
 <meta
 	property="og:title"
-	content="Mise à jour web 15 janvier 2023" />
+	content="Mise à jour 25 janvier 2023" />
 <meta
         property="og:description"
-        content="Depuis ce début janvier, une phase cruciale de l'expédition Ultima Patagonia-2023 a été lancée. Pas moins de trois équipes de Centre Terre se sont tour à tour déployées sur la 12ème région du Chili, territoire de Magallanes et de l'Antarctique chilien afin de réaliser, et ce dans un temps limité, un grand nombre de missions préparatoires." />
+        content="Ce dimanche 15 janvier sur Puerto Eden, Richard organise une excursion en direction du Mont Panchote qui domine Puerto Eden. Le nom de Panchote provient d'un Kaweskar de Puerto Eden qui était très grand et qui faisait peur à cause de sa grande taille (et de ses grandes mains rugueuses car il charpentier de marine)." />
 <meta
         property="og:image"
-        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/014/001.jpg" />
+        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/015/001.jpg" />
 <meta
         property="og:type"
         content="website" />

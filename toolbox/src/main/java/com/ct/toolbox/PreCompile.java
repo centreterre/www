@@ -19,12 +19,12 @@ import static java.util.Optional.ofNullable;
 import static org.apache.commons.lang3.StringUtils.LF;
 import static org.apache.commons.lang3.StringUtils.trimToNull;
 
-public class Compile {
+public class PreCompile {
 
     File baseDir = new File("./up2023/news");
 
     public static void main(String[] args) {
-        new Compile().run();
+        new PreCompile().run();
     }
 
     private void run() {
@@ -35,49 +35,37 @@ public class Compile {
     private String compile(BufferedReader bufferedReader) {
         StringBuilder out = new StringBuilder();
         String line = bufferedReader.readLine();
-        AtomicBoolean startParagraph = new AtomicBoolean();
+        AtomicBoolean paragraph = new AtomicBoolean();
         while (line != null) {
             ofNullable(trimToNull(line)).ifPresent(v -> {
                 if (v.startsWith("###")) {
-                    out.append("}").append(LF);
+                    if (paragraph.get()) out.append("}").append(LF);
                     out.append("{ 3 ").append(v.substring(3).trim()).append(" }").append(LF);
-                    startParagraph.set(true);
+                    paragraph.set(false);
                 } else if (v.startsWith("##")) {
-                    out.append("}").append(LF);
+                    if (paragraph.get()) out.append("}").append(LF);
                     out.append("{ 1 ").append(v.substring(2).trim()).append(" }").append(LF);
-                    startParagraph.set(true);
+                    paragraph.set(false);
                 } else if (v.startsWith("#")) {
-                    out.append("}").append(LF);
+                    if (paragraph.get()) out.append("}").append(LF);
                     out.append("{ 2 ").append(v.substring(1).trim()).append(" }").append(LF);
-                    startParagraph.set(true);
+                    paragraph.set(false);
+                } else if (v.startsWith("$")) {
+                    if (paragraph.get()) out.append("}").append(LF);
+                    out.append("{ ").append(v.substring(1).trim().split(" ")[0]).append(LF);
+                    paragraph.set(true);
+                } else if (v.startsWith("!")) {
+                    String w = v.substring(1).trim();
+                    String img = w.split(" ")[0];
+                    String legend = w.replace(img, "").trim();
+                    out.append("[").append(img).append("/@").append(legend).append("]").append(LF);
                 } else {
-                    if (v.startsWith("$")) {
-                        out.append("}").append(LF);
-                        out.append("{ ").append(v.substring(1).trim().split(" ")[0]).append(LF);
-                        startParagraph.set(false);
-                    } else if (startParagraph.get()) {
-                        out.append("{ 12").append(LF);
-                        extracted(out, v);
-                        startParagraph.set(false);
-                    } else {
-                        extracted(out, v);
-                    }
+                    out.append(v.trim()).append(LF);
                 }
             });
             line = bufferedReader.readLine();
         }
-        return out.append("}").toString().substring(2);
-    }
-
-    private static void extracted(StringBuilder out, String v) {
-        if (v.startsWith("!")) {
-            String w = v.substring(1).trim();
-            String img = w.split(" ")[0];
-            String legend = w.replace(img,"").trim();
-            out.append("[").append(img).append("/@").append(legend).append("]").append(LF);
-        } else {
-            out.append(v.trim()).append(LF);
-        }
+        return out.append("}").append(LF).toString().replace("…", "...").replace("’", "'");
     }
 
     @SneakyThrows
