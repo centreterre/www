@@ -35,32 +35,34 @@ public class PreCompile {
     private String compile(BufferedReader bufferedReader) {
         StringBuilder out = new StringBuilder();
         String line = bufferedReader.readLine();
-        AtomicBoolean paragraph = new AtomicBoolean();
+        AtomicBoolean closeParagraph = new AtomicBoolean();
         while (line != null) {
             ofNullable(trimToNull(line)).ifPresent(v -> {
-                if (v.startsWith("###")) {
-                    if (paragraph.get()) out.append("}").append(LF);
-                    out.append("{ 3 ").append(v.substring(3).trim()).append(" }").append(LF);
-                    paragraph.set(false);
-                } else if (v.startsWith("##")) {
-                    if (paragraph.get()) out.append("}").append(LF);
-                    out.append("{ 1 ").append(v.substring(2).trim()).append(" }").append(LF);
-                    paragraph.set(false);
-                } else if (v.startsWith("#")) {
-                    if (paragraph.get()) out.append("}").append(LF);
-                    out.append("{ 2 ").append(v.substring(1).trim()).append(" }").append(LF);
-                    paragraph.set(false);
-                } else if (v.startsWith("$")) {
-                    if (paragraph.get()) out.append("}").append(LF);
-                    out.append("{ ").append(v.substring(1).trim().split(" ")[0]).append(LF);
-                    paragraph.set(true);
-                } else if (v.startsWith("!")) {
-                    String w = v.substring(1).trim();
-                    String img = w.split(" ")[0];
-                    String legend = w.replace(img, "").trim();
-                    out.append("[").append(img).append("/@").append(legend).append("]").append(LF);
+                if (v.startsWith("#")) {
+                    if (closeParagraph.get()) out.append("}").append(LF);
+                    if (v.startsWith("###")) {
+                        out.append("{ 3 ").append(v.substring(3).trim()).append(" }").append(LF);
+                    } else if (v.startsWith("##")) {
+                        out.append("{ 1 ").append(v.substring(2).trim()).append(" }").append(LF);
+                    } else if (v.startsWith("#")) {
+                        out.append("{ 2 ").append(v.substring(1).trim()).append(" }").append(LF);
+                    }
+                    closeParagraph.set(false);
                 } else {
-                    out.append(v.trim()).append(LF);
+                    if (v.startsWith("$")) {
+                        if (closeParagraph.get()) out.append("}").append(LF);
+                        out.append("{ ").append(v.substring(1).trim().split(" ")[0]).append(LF);
+                    } else if (v.startsWith("!")) {
+                        if (!closeParagraph.get()) out.append("{ 12").append(LF);
+                        String w = v.substring(1).trim();
+                        String img = w.split(" ")[0];
+                        String legend = w.replace(img, "").trim();
+                        out.append("[").append(img).append("/@").append(legend).append("]").append(LF);
+                    } else {
+                        if (!closeParagraph.get()) out.append("{ 12").append(LF);
+                        out.append(v.trim()).append(LF);
+                    }
+                    closeParagraph.set(true);
                 }
             });
             line = bufferedReader.readLine();

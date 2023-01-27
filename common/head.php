@@ -46,7 +46,7 @@ Utils::init_lang ();
 	href="assets/css/bootstrap.min.css"
 	rel="stylesheet">
 <link
-	href="assets/css/centre-terre-v36.css"
+	href="assets/css/centre-terre-v37.css"
 	rel="stylesheet">
 <link
 	href="assets/font-awesome/css/font-awesome.min.css"
