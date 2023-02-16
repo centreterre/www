@@ -17,13 +17,13 @@ Utils::init_lang ();
 	content="Centre Terre - Découvrir Explorer Partager">
 <meta
 	property="og:title"
-	content="Mise à jour 5 février 2023" />
+	content="Mise à jour 14 février 2023" />
 <meta
         property="og:description"
-        content="Deux équipes sont parties de Puerto Eden le 24 janvier en direction du sud. Une équipe vers l’île de Guarello, au sud de Madre de Dios pour étudier les reliefs karstiques de la zone et retracer une partie de l’histoire du peuple kaweskar." />
+        content="La seconde équipe achève son périple avec une reconnaissance de surface d'envergure en assurant la jonction entre le camp des Champis et le camp Nord Ouest. Un périple de près de 5h qui permet la localisation de nouveaux objectifs et également la découverte de multiples zones à comètes et trois nouveaux champignons karstiques." />
 <meta
         property="og:image"
-        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/016/img034.jpg" />
+        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/017/img011.jpg" />
 <meta
         property="og:type"
         content="website" />
