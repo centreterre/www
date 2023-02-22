@@ -17,13 +17,13 @@ Utils::init_lang ();
 	content="Centre Terre - Découvrir Explorer Partager">
 <meta
 	property="og:title"
-	content="Mise à jour 14 février 2023" />
+	content="Mise à jour 20 février 2023" />
 <meta
         property="og:description"
-        content="La seconde équipe achève son périple avec une reconnaissance de surface d'envergure en assurant la jonction entre le camp des Champis et le camp Nord Ouest. Un périple de près de 5h qui permet la localisation de nouveaux objectifs et également la découverte de multiples zones à comètes et trois nouveaux champignons karstiques." />
+        content="Tel que planifié, l'équipe, composée de Bernard, Clément, Katia, Denis, Carlos et Laurent, partie à bord du Note Rindas le 15 février sur le coup des 22h s'arrête après 4h de navigation dans une petite anse abritée aux portes du Pacifique, au puerto Henry." />
 <meta
         property="og:image"
-        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/017/img011.jpg" />
+        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/018/img26.jpg" />
 <meta
         property="og:type"
         content="website" />
