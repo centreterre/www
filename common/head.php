@@ -17,7 +17,7 @@ Utils::init_lang ();
 	content="Centre Terre - Découvrir Explorer Partager">
 <meta
 	property="og:title"
-	content="Mise à jour 20 février 2023" />
+	content="Mise à jour du 3 mars 2023" />
 <meta
         property="og:description"
         content="Sur les deux camps, la forte pluie du jour, retient les équipes sur la base de vie toute la matinée. Du côté du Barros Luco, le temps est mis à profit pour faire un peu de bricolage et remonter à la cabane du bois de chauffe laissé au « port », Denis et Clément font eux de la maintenance des zodiacs afin qu'ils puissent être opérationnels pour l'après midi." />
