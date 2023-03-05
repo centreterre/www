@@ -20,10 +20,10 @@ Utils::init_lang ();
 	content="Mise à jour 20 février 2023" />
 <meta
         property="og:description"
-        content="Tel que planifié, l'équipe, composée de Bernard, Clément, Katia, Denis, Carlos et Laurent, partie à bord du Note Rindas le 15 février sur le coup des 22h s'arrête après 4h de navigation dans une petite anse abritée aux portes du Pacifique, au puerto Henry." />
+        content="Sur les deux camps, la forte pluie du jour, retient les équipes sur la base de vie toute la matinée. Du côté du Barros Luco, le temps est mis à profit pour faire un peu de bricolage et remonter à la cabane du bois de chauffe laissé au « port », Denis et Clément font eux de la maintenance des zodiacs afin qu'ils puissent être opérationnels pour l'après midi." />
 <meta
         property="og:image"
-        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/018/img26.jpg" />
+        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/019/024EGG.jpg" />
 <meta
         property="og:type"
         content="website" />
