@@ -17,13 +17,13 @@ Utils::init_lang ();
 	content="Centre Terre - Découvrir Explorer Partager">
 <meta
 	property="og:title"
-	content="Mise à jour du 3 mars 2023" />
+	content="Mise à jour du 14 mars 2023" />
 <meta
         property="og:description"
-        content="Sur les deux camps, la forte pluie du jour, retient les équipes sur la base de vie toute la matinée. Du côté du Barros Luco, le temps est mis à profit pour faire un peu de bricolage et remonter à la cabane du bois de chauffe laissé au « port », Denis et Clément font eux de la maintenance des zodiacs afin qu'ils puissent être opérationnels pour l'après midi." />
+        content="Sur le secteur du Egg, une équipe (David, Florian, Alex et Jules) montent dans l'après-midi sur le camp Nord-Ouest et reprennent l'exploration du gouffre du Rêve Éveillé en fin de journée : il s'agît d'une perte majeure qui ouvre l'accès à un magnifique méandre creusé dans le marbre gris et blanc. Ils progressent sur une centaine de mètres dans une ambiance très aquatique avant de se voir confrontés à un début de crue qui les contraint à faire demi-tour. Natalia et Franck topographient 150 m de galerie dans l'actif de la grotte des Pirates." />
 <meta
         property="og:image"
-        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/019/024EGG.jpg" />
+        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/020/img009.jpg" />
 <meta
         property="og:type"
         content="website" />
