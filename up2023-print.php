@@ -20,8 +20,7 @@ Utils::init_lang ();
 </head>
 <body>
 	<div class="content container">
-		<h1>Ultima Patagonia 2021</h1>
-		<div class="row">
+    		<div class="row">
 			<div class="col-md-8">
 				<?php include 'up2023/print.php';?>
 			</div>

@@ -26,6 +26,12 @@
                     <li class="<?= Utils::get_menu_class('/projet-scolaire-up2023-responsabilite') ?>">
                         <a href="projet-scolaire-up2023-responsabilite.php"><?= Utils::i19n(array('fr' => 'Responsabilité individuelle et collective', 'es' => 'Responsabilité individuelle et collective')) ?></a>
                     </li>
+                    <li class="<?= Utils::get_menu_class('/projet-scolaire-up2023-bilan') ?>">
+                        <a href="projet-scolaire-up2023-bilan.php"><?= Utils::i19n(array('fr' => 'Bilan du projet éducatif', 'es' => 'Bilan du projet éducatif')) ?></a>
+                    </li>
+                    <li class="<?= Utils::get_menu_class('/projet-scolaire-up2023-realisations-laureates') ?>">
+                        <a href="projet-scolaire-up2023-realisations-laureates.php"><?= Utils::i19n(array('fr' => 'Réalisations Lauréates', 'es' => 'Réalisations Lauréates')) ?></a>
+                    </li>
                 </ul>
             </li>
             <li class="dropdown <?= Utils::get_menu_class('/projet-scolaire-up2019') ?>">
