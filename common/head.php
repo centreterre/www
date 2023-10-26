@@ -17,7 +17,7 @@ Utils::init_lang ();
 	content="Centre Terre - Découvrir Explorer Partager">
 <meta
 	property="og:title"
-	content="Mise à jour du 14 mars 2023" />
+	content="Mise à jour d'octobre 2023" />
 <meta
         property="og:description"
         content="Voici déjà six mois que l’expédition Ultima Patagonia 2023 a pris fin avec le retour des dernières équipes sur le vieux continent." />
