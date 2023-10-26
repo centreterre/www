@@ -20,10 +20,10 @@ Utils::init_lang ();
 	content="Mise à jour du 14 mars 2023" />
 <meta
         property="og:description"
-        content="Sur le secteur du Egg, une équipe (David, Florian, Alex et Jules) montent dans l'après-midi sur le camp Nord-Ouest et reprennent l'exploration du gouffre du Rêve Éveillé en fin de journée : il s'agît d'une perte majeure qui ouvre l'accès à un magnifique méandre creusé dans le marbre gris et blanc. Ils progressent sur une centaine de mètres dans une ambiance très aquatique avant de se voir confrontés à un début de crue qui les contraint à faire demi-tour. Natalia et Franck topographient 150 m de galerie dans l'actif de la grotte des Pirates." />
+        content="Voici déjà six mois que l’expédition Ultima Patagonia 2023 a pris fin avec le retour des dernières équipes sur le vieux continent." />
 <meta
         property="og:image"
-        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/020/img009.jpg" />
+        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/021/img001.jpg" />
 <meta
         property="og:type"
         content="website" />
