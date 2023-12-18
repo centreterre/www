@@ -17,13 +17,13 @@ Utils::init_lang ();
 	content="Centre Terre - Découvrir Explorer Partager">
 <meta
 	property="og:title"
-	content="Mise à jour d'octobre 2023" />
+	content="Mise à jour de décembre 2023" />
 <meta
         property="og:description"
-        content="Voici déjà six mois que l’expédition Ultima Patagonia 2023 a pris fin avec le retour des dernières équipes sur le vieux continent." />
+        content="Film Ultima Patagonia 2023; des projections en avant-première!" />
 <meta
         property="og:image"
-        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/021/img001.jpg" />
+        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/022/img002.jpg" />
 <meta
         property="og:type"
         content="website" />
