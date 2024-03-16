@@ -17,13 +17,13 @@ Utils::init_lang ();
 	content="Centre Terre - Découvrir Explorer Partager">
 <meta
 	property="og:title"
-	content="Mise à jour de décembre 2023" />
+	content="Mise à jour de mars 2024" />
 <meta
         property="og:description"
-        content="Film Ultima Patagonia 2023; des projections en avant-première!" />
+        content="Ultima Patagonia; “La dernière frontière”, très bientôt à l’écran!" />
 <meta
         property="og:image"
-        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/022/img002.jpg" />
+        content="https://<?=$_SERVER['SERVER_NAME']?>/up2023/news/pages/023/img002.jpg" />
 <meta
         property="og:type"
         content="website" />
