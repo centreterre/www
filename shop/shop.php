@@ -24,7 +24,7 @@ $lang = array(
             </div>
             <div class="panel-body">
 				<span class="price">
-					<sup>&#8364;</sup>&nbsp;30<sup>00</sup>
+					<sup>&#8364;</sup>&nbsp;25<sup>00</sup>
 				</span>
             </div>
             <ul class="list-group">
@@ -49,7 +49,7 @@ $lang = array(
             </div>
             <div class="panel-body">
 				<span class="price">
-					<sup>&#8364;</sup>&nbsp;100<sup>00</sup>
+					<sup>&#8364;</sup>&nbsp;80<sup>00</sup>
 				</span>
             </div>
             <ul class="list-group">
