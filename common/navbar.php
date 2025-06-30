@@ -78,12 +78,6 @@
                             'en' => 'Shop',
                             'es' => 'Tienda on-line')) ?></a>
                 </li>
-                <li class="<?= Utils::get_menu_class('/contact') ?>">
-                    <a href="contact.php"><?= Utils::i19n(array(
-                            'fr' => 'Contact',
-                            'en' => 'Contact',
-                            'es' => 'Contacto')) ?></a>
-                </li>
             </ul>
         </div>
     </div>

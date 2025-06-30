@@ -1,5 +1,5 @@
 <?php
-include 'classes/BlogManager2.php';
+include 'classes/BlogManager.php';
 $bm = new BlogManager ('mayang2026/news');
 $bm->renderPagesPrint ();
 ?>

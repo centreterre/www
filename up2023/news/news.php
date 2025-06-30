@@ -1,5 +1,5 @@
 <?php
-include 'classes/BlogManager2.php';
+include 'classes/BlogManager.php';
 $bm = new BlogManager ('up2023/news');
 $pageIndex = 0;
 if (isset ( $_GET ['page'] )) {

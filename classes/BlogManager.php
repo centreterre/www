@@ -1,10 +1,12 @@
 <?php
 class BlogManager {
+    private $baseDir;
 	private $pages = array ();
 	private $pageIndexes = array ();
-	public function __construct() {
-		$pages = array ();
-		foreach ( scandir ( 'news/pages' ) as $file ) {
+	public function __construct($baseDir) {
+	    $this->baseDir = $baseDir;
+	    $pages = array ();
+		foreach ( scandir ( $baseDir . '/pages' ) as $file ) {
 			if ($file != '.' && $file != '..') {
 				array_push ( $pages, $file );
 			}
@@ -25,82 +27,177 @@ class BlogManager {
 			die ( 'Page not found.' );
 		}
 	}
-	public function renderPage($pageIndex) {
-		$lang = Utils::get_lang ();
+	public function renderPagesPrint() {
+		$countPages = count ( $this->pageIndexes );
+		foreach ( $this->pageIndexes as $pageIndex ) {
+			$index = $countPages - $pageIndex -1;
+			$this->renderPagePrint ( $index );
+		}
+	}
+	public function renderPagePrint($pageIndex) {
 		$this->checkPageIndex ( $pageIndex );
 		$page = $this->pages [$pageIndex];
-		$xmlDoc = new DOMDocument ();
-		$xmlDoc->load ( 'news/pages/' . $page . '/' . $page . '.php' );
-		$rootElt = $xmlDoc->documentElement;
-		foreach ( $rootElt->childNodes as $child1 ) {
-			if ($child1->nodeName == 'h1') {
-				if ($child1->getAttribute ( 'lang' ) == $lang) {
-					echo '<h1>' . $child1->nodeValue . '</h1>';
-				}
-			}
-			if ($child1->nodeName == 'h3') {
-				if ($child1->getAttribute ( 'lang' ) == $lang) {
-					echo '<h3><i class="fa fa-clock-o"></i>' . $child1->nodeValue . '</h3>';
-				}
-			}
-			if ($child1->nodeName == 'h4') {
-				if ($child1->getAttribute ( 'lang' ) == $lang) {
-					echo '<h4>' . $child1->nodeValue . '</h4>';
-				}
-			}
-			if ($child1->nodeName == 'ul') {
-				echo '<div class="row">';
-				$array = array ();
-				foreach ( $child1->childNodes as $child2 ) {
-					if ($child2->nodeName == 'li') {
-						$paragraphs = '';
-						foreach ( $child2->childNodes as $child3 ) {
-							if ($child3->nodeName == 'img') {
-								$src = $child3->getAttribute ( 'src' );
-								$label = $child3->getAttribute ( $lang );
-								$img = '<a';
-								$img .= ' title="' . $label . '"';
-								$img .= ' class="fancybox"';
-								$img .= ' rel="group"';
-								$img .= ' href="news/pages/' . $page . '/' . $src . '.jpg">';
-								$img .= '<img';
-								$img .= '  class="img-responsive"';
-								$img .= '  src="news/pages/' . $page . '/' . $src . '.jpg"';
-								$img .= '  alt="' . $label . '"></a>';
-								if ($child3->getAttribute ( 'caption' ) == 'true') {
-									$img .= '<div class="caption">' . $label . '</div>';
-								}
-								array_push ( $array, $img );
-							}
-							if ($child3->nodeName == 'p') {
-								if ($child3->getAttribute ( 'href' ) != '') {
-									$paragraphs .= '<a href="' . $child3->getAttribute ( 'href' ) . '">' . $child3->getAttribute ( $lang ) . '</a>';
-								}
-								if ($child3->getAttribute ( 'lang' ) == $lang) {
-									$paragraphs .= '<p>' . $child3->nodeValue . '</p>';
-								}
-							}
-							if ($child3->nodeName == 'video') {
-								$uid = uniqid ();
-								$src = $child3->getAttribute ( 'src' );
-								$_SESSION [$uid] = $src . '.mp4';
-								$label = $child3->getAttribute ( $lang );
-								array_push ( $array, '<div id="5879bc7147722" class="img-responsive projekktor" uid="' . $uid . '" poster="news/pages/' . $page . '/' . $src . '.jpg" title="' . $label . '"></div>' );
-							}
-						}
-						if ($paragraphs != '') {
-							array_push ( $array, $paragraphs );
-						}
+		if ($stream = fopen ( $this->getPageFile ( $page ), "r" )) {
+			$array = array ();
+			$start = true;
+			$cols = array ();
+			$col_sum = 12;
+			while ( ! feof ( $stream ) ) {
+				$line = trim ( fgets ( $stream ) );
+				if (preg_match ( '/{ ([\d]+) (.*)}/i', $line, $line_matches )) {
+					$level = $line_matches [1];
+					$label = $line_matches [2];
+					if ($level == 1) {
+						echo '<h1>' . $label . '</h1>';
+					} else if ($level == 2) {
+						echo '<h3>' . $label . '</h3>';
+					} else if ($level == 3) {
+						echo '<h4>' . $label . '</h4>';
 					}
-				}
-				$nb_li = count ( $array );
-				foreach ( $array as $elt ) {
-					echo '<div class="col-md-' . (12 / $nb_li) . '">';
-					echo $elt;
+				} else if (preg_match ( '/{ ([\d]+)/i', $line, $line_matches )) {
+					$col = $line_matches [1];
+					if ($col_sum == 12) {
+						$col_sum = $col;
+						echo '<div class="row">';
+					} else {
+						$col_sum += $col;
+					}
+					echo '<div class="col-md-' . $col . '">';
+				} else if (preg_match ( '/(.*)}/i', $line )) {
 					echo '</div>';
+					if ($col_sum == 12) {
+						echo '</div>';
+					}
+				} else if ($line != '') {
+					$this->renderColPrint ( $page, $line );
 				}
-				echo '</div>';
 			}
+			fclose ( $stream );
+		}
+	}
+	private function renderColPrint($page, $line) {
+		if (preg_match ( '/(\[)(.*)\/(.*)(\])/i', $line, $matches )) {
+			$src = $matches [2];
+			$label = $matches [3];
+			$caption = false;
+			if (preg_match ( '/@(.*)/i', $label, $label_matches )) {
+				$label = $label_matches [1];
+				$caption = true;
+			}
+			$img = '<img';
+			$img .= '  class="img-responsive"';
+			$img .= '  src="'.$this->baseDir.'/pages/' . $page . '/' . $src . '"';
+			$img .= '  >';
+				$img .= '<div class="caption">' . $label . '</div>';
+			echo $img;
+		} else {
+			echo '<p>' . $line . '</p>';
+		}
+	}
+	public function renderPage($pageIndex) {
+		$this->checkPageIndex ( $pageIndex );
+		$page = $this->pages [$pageIndex];
+		if ($stream = fopen ( $this->getPageFile ( $page ), "r" )) {
+			$array = array ();
+			$start = true;
+			$cols = array ();
+			$col_sum = 12;
+			while ( ! feof ( $stream ) ) {
+				$line = trim ( fgets ( $stream ) );
+				if (preg_match ( '/{ ([\d]+) (.*)}/i', $line, $line_matches )) {
+					$level = $line_matches [1];
+					$label = $line_matches [2];
+					if ($level == 1) {
+						echo '<h1>' . $label . '</h1>';
+					} else if ($level == 2) {
+						echo '<h3><i class="fa fa-clock-o"></i>' . $label . '</h3>';
+					} else if ($level == 3) {
+						echo '<h4>' . $label . '</h4>';
+					}
+				} else if (preg_match ( '/{ ([\d]+)/i', $line, $line_matches )) {
+					$col = $line_matches [1];
+					if ($col_sum == 12) {
+						$col_sum = $col;
+						echo '<div class="row">';
+					} else {
+						$col_sum += $col;
+					}
+					echo '<div class="col-md-' . $col . '">';
+				} else if (preg_match ( '/(.*)}/i', $line )) {
+					echo '</div>';
+					if ($col_sum == 12) {
+						echo '</div>';
+					}
+				} else if ($line != '') {
+					$this->renderCol ( $page, $line );
+				}
+			}
+			fclose ( $stream );
+		}
+	}
+	public function renderPageByPath($page) {
+	    if ($stream = fopen ( $this->getPageFile ( $page ), "r" )) {
+	        $array = array ();
+	        $start = true;
+	        $cols = array ();
+	        $col_sum = 12;
+	        while ( ! feof ( $stream ) ) {
+	            $line = trim ( fgets ( $stream ) );
+	            if (preg_match ( '/{ ([\d]+) (.*)}/i', $line, $line_matches )) {
+	                $level = $line_matches [1];
+	                $label = $line_matches [2];
+	                if ($level == 1) {
+	                    echo '<h1>' . $label . '</h1>';
+	                } else if ($level == 2) {
+	                    echo '<h3><i class="fa fa-clock-o"></i>' . $label . '</h3>';
+	                } else if ($level == 3) {
+	                    echo '<h4>' . $label . '</h4>';
+	                }
+	            } else if (preg_match ( '/{ ([\d]+)/i', $line, $line_matches )) {
+	                $col = $line_matches [1];
+	                if ($col_sum == 12) {
+	                    $col_sum = $col;
+	                    echo '<div class="row">';
+	                } else {
+	                    $col_sum += $col;
+	                }
+	                echo '<div class="col-md-' . $col . '">';
+	            } else if (preg_match ( '/(.*)}/i', $line )) {
+	                echo '</div>';
+	                if ($col_sum == 12) {
+	                    echo '</div>';
+	                }
+	            } else if ($line != '') {
+	                $this->renderCol ( $page, $line );
+	            }
+	        }
+	        fclose ( $stream );
+	    }
+	}
+	private function renderCol($page, $line) {
+		if (preg_match ( '/(\[)(.*)\/(.*)(\])/i', $line, $matches )) {
+			$src = $matches [2];
+			$label = $matches [3];
+			$caption = false;
+			if (preg_match ( '/@(.*)/i', $label, $label_matches )) {
+				$label = $label_matches [1];
+				$caption = true;
+			}
+			$img = '<a';
+			$img .= ' title="' . $label . '"';
+			$img .= ' class="fancybox"';
+			$img .= ' rel="group"';
+			$img .= ' href="'.$this->baseDir.'/pages/' . $page . '/' . $src . '">';
+			$img .= '<img';
+			$img .= '  class="img-responsive"';
+			$img .= '  src="'.$this->baseDir.'/pages/' . $page . '/' . $src . '"';
+			$img .= '  alt="' . $label . '"></a>';
+			if ($caption) {
+				$img .= '<div class="caption">' . $label . '</div>';
+			}
+			echo $img;
+		} else {
+			echo '<p>' . $line . '</p>';
 		}
 	}
 	public function renderPagination($pageIndex) {
@@ -119,18 +216,19 @@ class BlogManager {
 	public function renderSidebar() {
 		$lang = Utils::get_lang ();
 		foreach ( $this->pages as $page ) {
-			$xmlDoc = new DOMDocument ();
-			$xmlDoc->load ( 'news/pages/' . $page . '/' . $page . '.php' );
-			$rootElt = $xmlDoc->documentElement;
-			foreach ( $rootElt->childNodes as $child1 ) {
-				if ($child1->nodeName == 'h1') {
-					if ($child1->getAttribute ( 'lang' ) == $lang) {
-						if ($child1->getAttribute ( 'lang' ) == $lang) {
+			if ($stream = fopen ( $this->getPageFile ( $page ), "r" )) {
+				while ( ! feof ( $stream ) ) {
+					$line = trim ( fgets ( $stream ) );
+					if (preg_match ( '/{ ([\d]+) (.*)}/i', $line, $line_matches )) {
+						$level = $line_matches [1];
+						$label = $line_matches [2];
+						if ($level == 1) {
 							echo '<div class="linkitem"><i class="fa fa-clock-o" aria-hidden="true"></i>';
-							echo '<a href="/?page=' . $page . '">' . $child1->nodeValue . '</a></div>';
+							echo '<a href="/?page=' . $page . '">' . $label . '</a></div>';
 						}
 					}
 				}
+				fclose ( $stream );
 			}
 		}
 	}
@@ -144,5 +242,9 @@ class BlogManager {
 		if ($pageIndex > count ( $this->pages ) - 1) {
 			die ( 'Page not found.' );
 		}
+	}
+	private function getPageFile($page) {
+		$lang = Utils::get_lang ();
+		return $this->baseDir.'/pages/' . $page . '/' . $page . '_' . $lang . '.txt';
 	}
 }

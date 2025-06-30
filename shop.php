@@ -8,7 +8,7 @@
 	<div class="content container shop">
 		<div class="row">
 			<div class="col-md-12">
-				<?php include 'shop/shop.php';?>
+				<?php include 'common/shop.php';?>
 			</div>
 		</div>
 	</div>
