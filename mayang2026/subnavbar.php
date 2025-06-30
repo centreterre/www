@@ -3,6 +3,11 @@
             role="navigation"
             class="container navbar navbar-default">
         <ul class="nav navbar-nav">
+            <li>
+                <a href="mayang2026-projet-scientifique.php"><?= Utils::i19n(array(
+                        'fr' => '# Mayang 2026',
+                        'en' => '# Mayang 2026')) ?></a>
+            </li>
             <li class="<?php echo Utils::get_menu_class('/mayang2026-blog'); ?>">
                 <a href="mayang2026-blog.php"><?= Utils::i19n(array(
                         'fr' => 'Blog',
