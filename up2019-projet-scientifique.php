@@ -4,7 +4,7 @@
 <body>
 	<?php include 'common/analytics.php';?>
 	<?php include 'common/navbar.php';?>
-	<?php include 'common/banner.php';?>
+	<?php include 'up2019/banner.php';?>
 	<?php include 'up2019/subnavbar.php';?>
 	<div class="content container">
 		<div class="row">

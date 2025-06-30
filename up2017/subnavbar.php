@@ -39,6 +39,9 @@
             <li class="<?php echo Utils::get_menu_class('/up2017-lucas');?>">
                 <a href="up2017-lucas.php"><?=Utils::i19n ( array ('fr' => 'Lucas','es' => 'Lucas' ) )?></a>
             </li>
+            <li class="<?php echo Utils::get_menu_class('/projet-scolaire-up2017-bilan');?>">
+                <a href="projet-scolaire-up2017-bilan.php"><?=Utils::i19n ( array ('fr' => 'Scolaire','es' => 'Escolar' ) )?></a>
+            </li>
 		</ul>
 	</nav>
 </div>

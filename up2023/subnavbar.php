@@ -24,6 +24,9 @@
             <li class="<?php echo Utils::get_menu_class('/up2023-partenaires'); ?>">
                 <a href="up2023-partenaires.php"><?= Utils::i19n(array('fr' => 'Partenaires', 'es' => 'Colaboradores')) ?></a>
             </li>
+            <li class="<?php echo Utils::get_menu_class('/projet-scolaire-up2023-presentation'); ?>">
+                <a href="projet-scolaire-up2023-presentation.php"><?= Utils::i19n(array('fr' => 'Scolaire', 'es' => 'Escolar')) ?></a>
+            </li>
         </ul>
     </nav>
 </div>

@@ -19,7 +19,7 @@
     </style>
     <div id="banner2"
          class="fill"
-         style="background-image: url('mayang2026/banner-mayang2026.jpg');">
+         style="background-image: url('mayang2026/images/banner-mayang2026.jpg');">
         <div class="vip-left">
             <div class="vip-top">
                 <img

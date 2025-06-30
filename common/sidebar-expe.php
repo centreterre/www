@@ -12,7 +12,7 @@
     <p>
         <img
                 class="img-responsive"
-                src="images/common/banner-up2023.jpg"
+                src="images/centre-terre/expedition-ultima-patagonia-2023-small.jpg"
                 alt="Expédition Ultima Patagonia 2023">
     </p>
 </div>
@@ -30,7 +30,7 @@
     <p>
         <img
                 class="img-responsive"
-                src="images/common/banner-up2019.jpg"
+                src="images/centre-terre/expedition-ultima-patagonia-2019-small.jpg"
                 alt="Expédition Ultima Patagonia 2019">
     </p>
 </div>
@@ -48,7 +48,7 @@
     <p>
         <img
                 class="img-responsive"
-                src="images/common/Lapiaz-Banner.jpg"
+                src="images/centre-terre/expedition-ultima-patagonia-2017-small.jpg"
                 alt="Expédition Ultima Patagonia 2017">
     </p>
 </div>

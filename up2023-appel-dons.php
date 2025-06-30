@@ -4,8 +4,8 @@
 <body>
 	<?php include 'common/analytics.php';?>
 	<?php include 'common/navbar.php';?>
-	<?php include 'common/banner.php';?>
-	<?php include 'up2019/subnavbar.php';?>
+	<?php include 'up2023/banner.php';?>
+	<?php include 'up2023/subnavbar.php';?>
 	<div class="content container">
 		<div class="row">
 			<?php include 'up2023/appel-dons-'.Utils::get_lang().'.php';?>
