@@ -12,8 +12,8 @@
 				<?php include 'up2017/news/jose.php';?>
 			</div>
 			<div class="col-md-4">
-				<?php include 'sidebar/sidebar-latest.php';?>
-				<?php include 'sidebar/sidebar-expe.php';?>
+				<?php include 'common/sidebar-latest.php';?>
+				<?php include 'common/sidebar-expe.php';?>
 			</div>
 		</div>
 	</div>

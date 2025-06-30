@@ -4,7 +4,7 @@
 <body>
 	<?php include 'common/analytics.php';?>
 	<?php include 'common/navbar.php';?>
-	<?php include 'common/banner-mayang2026.php';?>
+	<?php include 'mayang2026/banner-mayang2026.php';?>
 	<?php include 'mayang2026/subnavbar.php';?>
 	<div class="content container">
 		<div class="row">

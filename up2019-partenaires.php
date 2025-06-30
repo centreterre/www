@@ -12,7 +12,7 @@
 				<?php include 'up2019/partenaires.php';?>
 			</div>
 			<div class="col-md-4">
-				<?php include 'sidebar/sidebar-expe.php';?>
+				<?php include 'common/sidebar-expe.php';?>
 			</div>
 		</div>
 	</div>
