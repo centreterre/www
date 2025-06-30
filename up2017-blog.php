@@ -1,9 +1,6 @@
-<?php session_start();?><!DOCTYPE html>
-<html lang="en">
-<head>
-	<?php include 'common/head.php';?>
-	<?php include 'common/stream-head.php';?>
-</head>
+<?php session_start(); ?>
+<?php include 'common/html.php';?>
+<?php include 'common/head.php';?>
 <body>
 	<?php include 'common/analytics.php';?>
 	<?php include 'common/navbar.php';?>
@@ -24,6 +21,5 @@
 	<?php include 'common/footer.php';?>
 	<?php include 'common/js-core.php';?>
 	<?php include 'common/lightbox.php';?>
-	<?php include 'common/js-stream.php';?>
 </body>
 </html>

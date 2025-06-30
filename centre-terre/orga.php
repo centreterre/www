@@ -34,7 +34,7 @@
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Trésorier : David Meunier','es' => 'Tesorero : David Meunier' ) )?></b>
 	<br>
-	5 rue Antoine Dupuch, 33000 Bordeaux
+	66 Bulevard du 8 Mai 1945, 66660 Port-Vendres
 	<br>
 	<i class="fa fa-phone"></i> +33 (0) 9 50 48 67 13 <i class="fa fa-mobile-phone pl5"></i> +33 (0) 6 28 23 78 43
 	<br>
@@ -61,26 +61,6 @@
 	<i class="fa fa-envelope-o"></i>
 	<a href="mailto:malard.arnauld@gmail.com">malard.arnauld@gmail.com</a>
 </p>
-<p>
-	<b><?=Utils::i19n ( array ('fr' => 'Secrétaire adjoint : Thomas Fischer','es' => 'Secretario adjunto : Thomas Fischer' ) )?></b>
-	<br>
-	33 rue de Beausoleil, 33170 Gradignan
-	<br>
-	<i class="fa fa-mobile-phone"></i> +33 (0) 6 86 05 92 57
-	<br>
-	<i class="fa fa-envelope-o"></i>
-	<a href="mailto:tom.fischer@free.fr">tom.fischer@free.fr</a>
-</p>
-<p>
-	<b><?=Utils::i19n ( array ('fr' => 'Webmaster : David Meunier','es' => 'Webmaster : David Meunier' ) )?></b>
-	<br>
-	5 rue Antoine Dupuch, 33000 Bordeaux
-	<br>
-	<i class="fa fa-phone"></i> +33 (0) 9 50 48 67 13 <i class="fa fa-mobile-phone pl5"></i> +33 (0) 6 28 23 78 43
-	<br>
-	<i class="fa fa-envelope-o"></i>
-	<a href="mailto:david.meunier@centre-terre.fr">david.meunier@centre-terre.fr</a>
-</p>
 <br>
 <h1><?=Utils::i19n ( array ('fr' => 'Nos spécialistes','es' => 'Nuestros especialistas' ) )?></h1>
 <p>
@@ -96,7 +76,7 @@
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Botanique, biologie','es' => 'Botánica, biología' ) )?></b>
 	<br>
-	Franck Bréhier, Pierre de Coninck,
+	Franck Bréhier
 </p>
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Archéologie','es' => 'Arqueología ' ) )?></b>
@@ -111,7 +91,7 @@
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Cartographie, topographie','es' => 'Cartografía, topografía' ) )?></b>
 	<br>
-	Stéphane Jaillet, Florian Chenu, Laurent Morel, Arnauld Malard, Yannick Carfantan
+	Stéphane Jaillet, Florian Chenu, Laurent Morel, Arnauld Malard
 </p>
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Photo','es' => 'Fotografía' ) )?></b>
@@ -121,12 +101,12 @@
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Cinéma','es' => 'Cine' ) )?></b>
 	<br>
-	Gilles Santantonio, Luc-Henri Fage, Thomas Fischer, Bernard Tourte, Jean-Philippe Toustou
+	Luc-Henri Fage, Bernard Tourte
 </p>
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Informatique','es' => 'Informática' ) )?></b>
 	<br>
-	Thomas Fischer, Olivier Guérard, David Meunier
+	David Meunier, Olivier Guérard
 </p>
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Webmaster','es' => 'Webmaster' ) )?></b>
@@ -136,12 +116,12 @@
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Matériel et logistique spéléo','es' => 'Material y logística espéleo' ) )?></b>
 	<br>
-	Jean-Philippe Toustou, Yan Auffret, Stéphane Maifret, Lionel Ruiz
+	Lionel Ruiz
 </p>
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Logistique et maintenance équipements','es' => 'Logística y mantenimiento de equipos' ) )?></b>
 	<br>
-	Florian Chenu, Laurent Mestre, Denis Morales, Carlos Placido, Sylvain Boutonnet, Sébastien Verlhac, Georges Castello
+	Florian Chenu, Laurent Mestre, Denis Morales, Carlos Placido, Sylvain Boutonnet, Sébastien Verlhac
 </p>
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Vivres et logistique associée','es' => 'Intendencia y logística asociada ' ) )?></b>
@@ -151,7 +131,7 @@
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Plongée souterraine','es' => 'Espeleobuceo' ) )?></b>
 	<br>
-	Laurent Mestre, Franck Brehier, Michel Philips, Carlos Placido, Clément Chaput, Jérémie Prieur Devron, Perrouelle Loïc
+	Laurent Mestre, Franck Brehier, Michel Philips, Carlos Placido, Clément Chaput, Jérémie Prieur Devron
 </p>
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Écriture','es' => 'Redacción' ) )?></b>
@@ -161,11 +141,11 @@
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Relations Éducation nationale','es' => 'Relaciones con el Ministerio de Educación francés' ) )?></b>
 	<br>
-	Elodie Mulot, Bernard Tourte, Benjamin Weber
+	Bernard Tourte
 </p>
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Médical','es' => 'Medicina' ) )?></b>
 	<br>
-	Auriol Philippe, Bernard Tourte
+	Bernard Tourte
 </p>
 <br>

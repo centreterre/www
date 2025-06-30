@@ -21,14 +21,17 @@ import static org.apache.commons.lang3.StringUtils.trimToNull;
 
 public class PreCompile {
 
-    File baseDir = new File("./up2023/news");
+    File baseDir = new File("./mayang2026/news");
 
     public static void main(String[] args) {
         new PreCompile().run();
     }
 
     private void run() {
-        listFiles(baseDir).forEach(this::compile);
+        listFiles(baseDir).forEach(file -> {
+            System.out.println("Compiling " + file);
+            compile(file);
+        });
     }
 
     @SneakyThrows

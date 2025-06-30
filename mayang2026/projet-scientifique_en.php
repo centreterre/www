@@ -1,0 +1,273 @@
+<h1 style="text-align: center;">Destination Mayang, The Scientific Project</h1>
+<hr>
+<div style="text-align: center;font-weight: bold">
+    A ‘Centre Terre’ expedition to Papua New Guinea<br>
+    10 January - 19 March 2026
+</div>
+<hr>
+<p>
+    After many successful expeditions to Chilean Patagonia, ‘Centre Terre’ is once again embarking on a major adventure,
+    this time, on the other side of the Pacific. New Britain island in Papua New Guinea is where it will take place. In
+    the caving circles, this island has become legendary for the commitment it requires and, above all, for the vast
+    size of its karst networks. In fact, it was in the Nakanai mountains - where we'll be heading - that previous French
+    expeditions explored the Muruk cave system, the first minus 1000 metre deep network and, to this day, the deepest in
+    the southern hemisphere.</p>
+<p>
+    Our expedition’s goal will be to find the presumed Mayang mega-collector, whose estimated flow of 20 to 30 m³/s at
+    low water makes it one of the largest karst resurgences in the world. Despite multiple significant caving
+    expeditions, its underground path is still unknown.</p>
+<p>
+    We will be exploring its presumed catchment area, a vast zone still untouched by any speleological exploration. The
+    reason why an area with such potential remains unexplored to this day is its exceptional difficulty of access.</p>
+<p>
+    ‘Centre Terre’s strength lies in its ability to deploy significant logistical means and a strong multi-disciplinary
+    team to explore the most remote corners of the planet and deal with unique phenomena. As usual, science will play a
+    key role in our objectives, including caving - “a sport at the service of science”, according to Norbert Casteret -
+    as almost everything remains unknown, and very few scientists have been able to access the heart of the dense forest
+    of the Nakanai Mountains.</p>
+<p>
+    ‘Centre Terre’ scientists, either on-site, or involved in the preparations and the post-expedition processing in
+    their labs in France, have already identified a variety of lines of research, listed below by scientific field. As
+    the team is not yet totally set, these lines of research may evolve.</p>
+<p>
+    The stakes of such studies could be major and numerous, on the one hand, it will provide useful data for science on
+    a region that despite being little known due to its inaccessibility, is one of the world's biodiversity hotspots. On
+    the other hand, the scientific results of the Mayang 2026 expedition could bring a crucial and decisive contribution
+    to a UNESCO World Heritage nomination. In fact, following the results of previous speleological and scientific
+    expeditions, the Nakanai Mountains were identified by the Papuan State as a serial natural site and were included in
+    2006 on the UNESCO Tentative List under the name “The Sublime Karsts of Papua New Guinea”.
+</p>
+<h2>Geography</h2>
+<h3>1 – Cartography</h3>
+<h4>‘Center Terre’ resource member: Benjamin Lans (PhD in geography and cartography).</h4>
+<p>The cartographic data currently available do not offer sufficient precision to be of significant help in our
+    explorations. A great deal of preliminary work is already underway to obtain the best satellite images of the area
+    and process them to produce a base map of unprecedented accuracy. The work in progress is already a powerful tool
+    for the needs of our expedition and has enabled us to better target our exploration area. It will be enhanced by the
+    acquisition of new data and our observations in the field.</p>
+<div class="row">
+    <div class="col-md-12">
+        <img class="img-responsive" src="/mayang2026/images/project-scientifique-001.jpg" alt="Cartography Mayang">
+    </div>
+</div>
+<h4>Earth Sciences: caving to reveal the geological values of the Nakanai karst.</h4>
+<p>Pure, loosely-compact limestone formed 15 million years ago (Miocene limestone AKA Yalam limestone), one of the
+    highest rainfall rates on the planet, dense vegetation cover and high seismicity: the Nakanai Mountains combine all
+    the superlatives and ingredients for outstanding karstification, resulting in highly chaotic surface landscapes
+    (“polygonal karst”) and giant caves with underground mega-rivers.</p>
+<h3>2 - In the land of mega-resurgences in a hyper-humid climate: quantifying karst water flows.</h3>
+<h4>‘Centre Terre’ resource members: Fabien Hobléa, Laurent Morel and Christophe Rognon.</h4>
+<p>The main objective of our expedition is to reach the collector of the Mayang mega-resurgence, one of the largest in
+    the world: its flow has been estimated at 20 m³/s at low water, and probably over 100 m³/s during floods. One of the
+    factors behind this phenomenon is, of course, heavy rainfall. Meteorological data is available only for the coast,
+    and precipitation levels increase sharply the higher you go in the mountains. During the “Nakanaï 98” expedition,
+    Philippe Audra measured rainfall at Muruk over a one-month period and estimated annual precipitation at almost
+    12,500 mm (Audra, 2001).</p>
+<p>Our almost two-month presence on the massif will enable us to enhance these results by establishing a meteorological
+    field station to measure rainfall, temperature, barometric pressure, and humidity. As we have already done
+    successfully on Madre de Dios Island in Chilean Patagonia, we will be able to leave some of the equipment in place
+    until the next expedition and thus acquire data year long.</p>
+<p>Since we have chosen to focus on an area that has never been explored by cavers before, within the presumed Mayang
+    catchment area, we are still unsure of the type of caves we will encounter and their flow rates. In any case, we
+    will measure flows by gauging, and carrying out physicochemical analyses of the water. This data will be
+    cross-referenced with precipitation data. We may also consider water tracing depending on the flows encountered.</p>
+<p>As for the Mayang resurgence, first spotted by cavers in 1985, it is impenetrable, emerging from a massive chaos of
+    blocks.</p>
+<p>Depending on our means in the field, and on any water tracing that may have been put in place, we'll try to reach it
+    to be able to estimate its flow more accurately, which represents a real metrological challenge.</p>
+<h3>3 – Karstification and seismic activity: the role of earthquakes in the formation of large volumes</h3>
+<h4>‘Center Terre’ resource members: Fabien Hobléa and Christophe Rognon.</h4>
+<p>Major cave systems in New Britain are formed mainly due to a combination of factors: on the one hand, the calcium
+    carbonate purity of the Miocene Yalam limestones, which makes them highly soluble and reactive to chemical erosion
+    by strong water flows; on the other, their rather soft and loose nature, due to their relative “youth”, which also
+    makes them responsive to mechanical and gravity erosion (internal collapse). The region's strong seismicity could
+    have taken advantage of this intrinsic instability, which is suspected in playing a major role in the formation of
+    large volumes, based on the observations and experiences of previous expeditions. To quantify the role of seismicity
+    in the formation of the massif's major underground networks, in situ observations will be carried out to find traces
+    and evidence of paleo-earthquakes and their link to the formation of the conduits. Samples of speleothems
+    (concretions) affected by these paleo-earthquakes may be collected to date the identified seismic event.</p>
+<h3>4 – Geomorphology</h3>
+<h4>‘Center Terre’ resource members: Fabien Hobléa, Charlotte Honiat and Christophe Rognon.</h4>
+<p>Despite the presence of the dense forest, the very chaotic karst geomorphology of the Nakanai Mountains are so
+    hypertrophied (polygonal karst, very deep narrow canyons with very vertical walls), that it is quite clearly
+    perceptible and observable in situ as well as on aerial and satellite images. A mapping of the terrain's shapes and
+    forms is still to be carried out, and the area prospected on the surface during the expedition will provide new
+    elements to the puzzle of geomorphological data already collected by previous expeditions in neighbouring areas at a
+    little lower elevation.</p>
+<p>Will we be able to observe traces and signs of a morpho-climatic gradation of karst features according to altitude,
+    as shown most remarkably in the high-mountain karst of the Huon Peninsula on the New Guinea island?</p>
+<p>Caves are also landforms that provide information on the genesis and evolution of regional paleogeography. They are
+    also windows into the bowels of the limestone layers, likely to reveal fossils unearthed by the dissolution of the
+    limestone, such as the long whale bone discovered in 1995 still embedded in the wall of a passage in the Muruk
+    chasm.</p>
+<h3>5 – Paleoclimate</h3>
+<h4>‘Center Terre’ resource member: Charlotte Honiat.</h4>
+<p>The abundant concretions in the caves of this forest karst are also precious records and archives of past climates
+    and environments, and their evolution over millennia or even millions of years. Studies of concretions in equatorial
+    regions are expanding rapidly, providing new insights into the evolution of precipitation patterns in relation to
+    seasonal monsoon phenomena and multi-year El Niño-type cycles. Recent studies on the island of Borneo have
+    demonstrated that paleotemperature reconstructions from speleothems over the very long term are reliable and can
+    reflect southern hemisphere temperature variations as well as atmospheric CO2 concentrations (Loland et al. 2022).
+    It would be interesting to compare these records with those from Papua New Guinea. However, before considering a
+    sampling campaign, we need to be sure that the micro-climatic conditions in the cave where these samples will be
+    taken are stable. In the spirit of conservation, we could start by monitoring conditions in a few caves using
+    temperature sensor-recorders, and plan to collect dripping water in the cavity; this would complement the monitoring
+    carried out on the surface using the weather station. It will help us verify the quality of the rainwater’s climatic
+    signal transfer, which flows through the soil and then leaks into the rock, down to the cave and the formation of a
+    concretion: an essential prerequisite for any paleoclimatic study.</p>
+<h2>Life sciences</h2>
+<p>Contributing to the assessment of a global biodiversity hotspot</p>
+<p>Tropical forest habitats are characterized by exceptional biodiversity of global ecological importance. However, they
+    are subject to a range of recently identified and quantified anthropogenic threats (White et al. 2021). Managing
+    these threats is a necessary course of action in the face of the global challenge of biodiversity erosion,
+    particularly in New Guinea, but it must be based primarily on knowledge of the environment and the species. In these
+    particularly isolated mountains, inventorying plant and animal species is still a real challenge and remains largely
+    incomplete. As our expedition takes place in a pristine area, it will also help fill this gap.</p>
+<h3>6 – A largely unknown underground fauna, remarkable endemic species: inventorying terrestrial and aquatic
+    underground
+    fauna</h3>
+<h4>‘Center Terre’ resource member: Franck Bréhier</h4>
+<p>Due to the great difficulty of accessing the karsts of Papua New Guinea, their underground fauna has long remained
+    widely unknown. The first studies date back to 1976 (Beron for New Ireland and Chapman for the Hindenburg Mountains
+    of New Guinea). Despite their small numbers, collections made during previous speleological or scientific
+    expeditions have revealed unique endemic terrestrial and aquatic forms, some with a very high degree of
+    troglobiomorphy. Examples include the crab Trogloplax joliveti (Guinot 1986), collected in the Nakanai Mountains
+    during the 1985 expedition, for which a subfamily had to be created; the Atyidae Jolivetya foresti (Cals 1986); and
+    the terrestrial fauna Trogloclivina brehieri (Deuve 2003). In this context of scarcity of data and richness of
+    biodiversity, the interest in collecting underground fauna is obvious, and the discoveries are more than likely.</p>
+<p>Means used:</p>
+<p>In the field, both terrestrial and aquatic fauna will be sampled, relying on cave diving for the latter. Simple
+    techniques appropriate to the conditions of the expedition will be used: sight hunting, baited traps, plankton towed
+    nets, nets at the resurgence, etc... For terrestrial fauna, comparative sampling of soil fauna will be carried out,
+    including trapping and soil washing techniques. Sorting will be carried out on site under a binocular magnifying
+    glass. Biological material will be preserved in ethanol.</p>
+<p>Back in France, the samples will be further sorted and photographed before being sent to specialists in each group
+    for identification and description.</p>
+<p>Anticipated partnerships: MNHN Paris, MNHN Stuttgart, Pomio University.</p>
+<h3>7 – Listening to birdlife</h3>
+<h4>‘Center Terre’ resource member: Marie Eveillard-Buchoux</h4>
+<p>Avifauna is a significant indicator of the ecological health of an ecosystem, a remarkable fauna, highly endemic to
+    tropical and equatorial forests. Its inventory is therefore of great interest. The expedition is thus helping to
+    measure the avifaunal diversity of the Nakanai Mountains and to compare it with databases from better-known tropical
+    areas.</p>
+<p>As forest wildlife is generally discreet and not very visible under the dense vegetation cover, it is by its sounds
+    that it becomes more evident. Recording bird songs is therefore the most effective and widely used way of carrying
+    out the most comprehensive avifauna inventories possible in forests. This scientific section is based on this
+    process.</p>
+<p>Means used:</p>
+<p>We will install a device around the base camp(s). This will allow continuous audio and/or video recording of the
+    environment throughout the expedition. The records will be supplemented by field observations and photographs. The
+    data will be processed and analysed in the laboratory upon return from the expedition to identify the recorded
+    species.</p>
+<h2>Human sciences</h2>
+<h3>8 – Archaeology: on the trail of forest dwellers</h3>
+<h4>‘Centre Terre’ resource member: Didier Lamotte</h4>
+<p>The settlement of Papua New Guinea dates back to ancient times. Genomic analyses of Melanesian populations have
+    revealed that the first human migrations to Papua New Guinea occurred between 50,000 and 65,000 years ago, marking
+    the arrival of the ancestors of Papuans and Australian Aboriginals on the supercontinent known as Sahul, which
+    encompassed Papua New Guinea, Australia, and Tasmania.</p>
+<p>Initially settled near the coast, the population then dispersed to the high plateaus and valleys, slowly colonising
+    the interior. Several archaeological excavations on the main island have revealed the remains of these settlements.
+    In the south of the island, in a particularly isolated valley in the Western Highlands province, the vast
+    archaeological site of Kuk is known for its almost continuous indigenous agriculture dating back 7,000 or even
+    10,000 years. This site is now listed by UNESCO. Another site, to the south-west, has yielded the oldest remains on
+    the island, dated to around 49,000 years ago (Ivane site).</p>
+<p>While many open-air sites have been extensively documented since the first digs in 1959, several cave and rock
+    shelter sites have also been discovered and excavated. Examples include the Yuku rock shelter, in the Western
+    Highlands province, excavated in 1959, the Niobe rock shelter (Chimbu), excavated in 1960, and the Aibura cave
+    (Eastern Highlands), excavated in 1964. More recently, archaeologists have been studying the rock shelters at Manim
+    (Jiwaka), excavated in 2019, and the cave complex at Eripe (Gulf), excavated in 2024. Some sites have preserved cave
+    paintings, petroglyphs in the Walufeni cave (Southern Highlands), decorated shelters in the Sepik region, etc…</p>
+<p>The Mayang 2026 team includes an archaeologist with over 25 years experience in preventive archaeology. In the event
+    of the discovery of an archaeological site (cave, rock shelter or even an open-air site), we will take care to
+    preserve the traces of any predecessors and to protect them if necessary. Visible remains will be described and
+    mapped, and the sites topographed. The most detailed photographic coverage possible will be produced for
+    conservation purposes (detail photographs, photogrammetry, etc.). No archaeological excavation will be undertaken
+    and no object of archaeological or heritage value will be removed or moved.</p>
+<p>Any discoveries will be brought to the attention of the inhabitants of the massif, who are the heirs of the ways of
+    life and the former occupants of the high-altitude areas that have now been abandoned, revealing to them the local
+    memory and knowledge. The local authorities will also be informed by the end of the expedition, or immediately if
+    the discoveries justify it.</p>
+<h3>9 - Ethnography and ethno-geography: a look at 50 years of the socio-ecosystem of the Papuan Nakanai forest.</h3>
+<h4>‘Centre Terre’ resource member: Fabien Hobléa</h4>
+<p>The Mayang 2026 expedition is a continuation of the French expeditions conducted in the area since 1978. This
+    provides us with almost 50 years of hindsight into the evolution of the unique socio-ecosystem of the Papuan Nakanai
+    forest, this ethnotope as well as biotope, are a privileged observatory of the evolution of the relationship between
+    the first peoples and their environment, and the effects of their contact with the ‘world economy’, from the
+    Australian presence to that of the Asian forestry companies, without neglecting the effects of the sporadic but
+    recurring presence of scientific expeditions involving and interacting strongly with the local populations and
+    social structures.</p>
+<p>The relationship with the natural elements, especially the violent natural phenomena (cyclones, earthquakes, floods,
+    volcanic eruptions), is a particularly interesting theme for investigation. The same applies to the intent of
+    interviewing locals and officials about the management of the area's natural resources, starting with the vast
+    forest, as well as the rivers’ water, which is a vital resource for the coastal villages located at the river
+    mouths.</p>
+<h3>10 – Towards recognition and protection of the heritage value of the Nakanai mountains.</h3>
+<h4>‘Center Terre’ resource member: Fabien Hobléa</h4>
+<p>The expedition will also pay close attention to the impact of human activities on the elements of the ‘critical zone’
+    that make up the landscapes of the Nakanai primary forest and karst environments, above and below ground, biotic and
+    abiotic: fauna-flora-fungi, soils, substrate, surface and groundwater, etc. The objective is to record and report
+    these signs in an objective and scientifically usable way, while taking care to limit and avoid any impacts we may
+    have on the environment in situ that could compromise its integrity. However, it should be emphasised that the
+    footprint of an expedition of around twenty people spread over a vast area for less than 3 months, without a
+    prolonged presence at a single point, acting consciously and responsibly according to particularly adapted
+    logistical standards, is in no way comparable to that of large-scale operations. The logistical choices made, based
+    on a light and temporary base and advanced camps, and on an airborne approach and drop-off that is less intrusive
+    than a column of dozens of cavers and ‘porters’ cutting through the forest from the coast, demonstrate the desire to
+    minimise impact that is so dear to ‘Centre Terre’ and the scientists involved. Even more so as we'll be operating in
+    an environment with a high heritage value.</p>
+<p>The observations and data collected by the expedition, drawn up in collaboration with the University and the WWF
+    office in Pomio, structured according to current international standards for inventory of natural heritage
+    (bio-heritage, geo-heritage), can be used both to assess and recognise the heritage values of the Nakanai and to
+    draw up a conservation management plan for the massif while keeping sight of an eventual nomination of the ‘Sublime
+    Karsts of Papua New Guinea’ to the World Heritage.</p>
+<h2>Contacts</h2>
+<p>Pomio University Center – Palmalmal</p>
+<p>WWF Pomio</p>
+<p>Conservation Environment Protection Authority, Department of Lands and Physical Planning, East New Britain Provincial
+    Administration,</p>
+<p>ONG FORCERT (https://forcertpng.org/)</p>
+<p>Papua New Guinea FlyingLabs (association de promotion de l’usage des drones pour développement local)</p>
+<p>Papua New Guinea University of Natural Resources & Environment,</p>
+<p>Pomio District Development Authority</p>
+<p>UMR EDYTEM – Université Savoie Mont-Blanc</p>
+<p>Muséum National d’Histoire Naturelle - Paris</p>
+<p>Department of Entomology – Natural History Museum - Stuttgart</p>
+<p>Laboratoire UMR 5602 GEODE – Université toulouse Jean-Jaurès</p>
+<p>Université Claude bernard Lyon 1</p>
+<h2>Some references</h2>
+<p>Paleoclimate</p>
+<p>Løland, M.H., Krüger, Y., Fernandez, A. et al. (2022). Evolution of tropical land temperature across the last glacial
+    termination. Nat Commun 13: 5158. https://doi.org/10.1038/s41467-022-32712-3</p>
+<p>Underground biology</p>
+<p>Beron P. (1976). Preliminary notes for a biospelogical trip to New Ireland. Niugini caver 4-1 : 21-30.</p>
+<p>Cals P. (1986). Jolivety foresti nov. gen. nov. sp. (Crustacea Natantia), forme cavernicole continentale pacifique,
+    élément d’un ensemble faunistique gondwanien australo-malgache. C. R. Aca. Sc. Paris III, 303 n°10: 387-390.</p>
+<p>Chapman P. (1976). Notes on the cave biology of the Hindenburg Mountains. Niugini caver 4-1 : 14-15.</p>
+<p>Deuve T. (2003). Un Clivinini troglobie anophtalme d’un karst de Nouvelle-Bretagne, en Papouasie-Nouvelle-Guinée
+    (Coleoptera, Caraboidea, Scaritidae). Nouv. Rev. Ent. 20 (3): 231-235.</p>
+<p>Geoffroy J.J. (2001). Papouasie-Nouvelle-Guinée. In : Juberthie C. & Decu V. (ed.), Encyclopaedia biospeologica Tome
+    3 : 2133-2146. Société internationale de biospéologie.</p>
+<p>Guinot D. - 1986 – Description d’un crabe cavernicole aveugle de Nouvelle-Bretagne (Papouasie-Nouvelle-Guinée),
+    Trogloplax joliveti gen.nov. sp. nov., et établissement d’une sous-famille nouvelle Trogloplacinaesubfam.nov. C. R.
+    Aca. Sc. Paris III, 303 n°8: 307-312</p>
+<p>Avifauna</p>
+<p>White, T. H., Jr., Bickley, P., Brown, C., Busch, D. E., Dutson, G., Freifeld, H., Krofta, D., Lawlor, S., Polhemus,
+    D., & Rounds, R. (2021). Quantifying Threats to Biodiversity and Prioritizing Responses: An Example from Papua New
+    Guinea. Diversity 13(6): 248. https://doi.org/10.3390/d13060248</p>
+<p>Archaeology</p>
+<p>Barker B., Lamb L., Leavesley M., Manne T., Fairbairn A., Coe A., Lowe K.M., Beni T., Nehanda B. & Aubert M. (2023).
+    A Holocene sequence from Walufeni Cave, Southern Highlands Province, and its implications for the settlement of the
+    Great Papuan Plateau, Papua New Guinea, Australian Archaeology, 89 1): 47-65.
+    https://doi.org/10.1080/03122417.2023.2175960</p>
+<p>Bulmer S. (1975). Settlement and economy in prehistoric Papua New Guinea: a review of the archaeological evidence.
+    Journal de la Société des océanistes. 46(31): 7-75. https://doi.org/10.3406/jso.1975.2688</p>
+<h2>Expected feedback after the expedition</h2>
+<p>- Each participant in the scientific project commits to produce a scientific article (free format, minimum 1 page)
+    explaining his or her scientific approach, and including some observations and results obtained following the
+    expedition led by ‘Centre Terre’ in Papua New Guinea. This text will be included in the expedition report and must
+    therefore be submitted within 6 months of the expedition's return.</p>
+<p>-To undertake this expedition ‘Centre Terre’ will request the Papuan authorities authorisation according to
+    established protocols.</p>
+<p>- In case of papers being published in scientific magazines or participation in scientific conferences, ‘Centre
+    Terre’ association should be mentioned in the list of co-authors and/or affiliations.</p>

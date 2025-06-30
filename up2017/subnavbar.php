@@ -3,8 +3,11 @@
 		role="navigation"
 		class="container navbar navbar-default">
 		<ul class="nav navbar-nav">
+            <li>
+                <a href="up2017-blog.php"><?=Utils::i19n ( array ('fr' => '# UP2017','es' => '# UP2017' ) )?></a>
+            </li>
             <li class="<?php echo Utils::get_menu_class('/up2017-blog');?>">
-                <a href="up2017-blog.php"><?=Utils::i19n ( array ('fr' => 'UP2017','es' => 'UP2017' ) )?></a>
+                <a href="up2017-blog.php"><?=Utils::i19n ( array ('fr' => 'Blog','es' => 'Blog' ) )?></a>
             </li>
             <li class="<?php echo Utils::get_menu_class('/up2017-team');?>">
                 <a href="up2017-team.php"><?=Utils::i19n ( array ('fr' => 'Equipe','es' => 'Equipo' ) )?></a>

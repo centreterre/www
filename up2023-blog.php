@@ -1,9 +1,6 @@
-<?php session_start();?><!DOCTYPE html>
-<html lang="en">
-<head>
-    <?php include 'common/head.php';?>
-    <?php include 'common/stream-head.php';?>
-</head>
+<?php session_start(); ?>
+<?php include 'common/html.php';?>
+<?php include 'common/head.php';?>
 <body>
     <?php include 'common/analytics.php';?>
     <?php include 'common/navbar.php';?>
@@ -12,6 +9,7 @@
     <div class="content container">
         <div class="row">
             <div class="col-md-8">
+                <div style="float: right;"><a href="up2023-print.php?lang=<?=Utils::get_lang()?>" target="_blank">Version imprimable</a></div>
                 <?php include 'up2023/news/news.php';?>
             </div>
             <div class="col-md-4">
