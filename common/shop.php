@@ -3,10 +3,6 @@ $lang = array(
     'buy' => array(
         'fr' => 'Acheter',
         'es' => 'Comprar'
-    ),
-    'contact_us' => array(
-        'fr' => 'Nous contacter',
-        'es' => 'Contacto'
     )
 );
 ?>
@@ -182,7 +178,8 @@ $lang = array(
             <ul class="list-group">
                 <li class="list-group-item">
                     <a
-                            target="_blank" href="https://www.etsy.com/fr/listing/738888759/dvd-lile-aux-glaciers-de-marbre"
+                            target="_blank"
+                            href="https://www.etsy.com/fr/listing/738888759/dvd-lile-aux-glaciers-de-marbre"
                             class="btn btn-primary"><?= Utils::i18n($lang, 'buy') ?></a>
                 </li>
             </ul>
@@ -207,7 +204,8 @@ $lang = array(
             <ul class="list-group">
                 <li class="list-group-item">
                     <a
-                            target="_blank" href="https://www.etsy.com/fr/listing/725027940/dvd-le-mystere-de-la-baleine"
+                            target="_blank"
+                            href="https://www.etsy.com/fr/listing/725027940/dvd-le-mystere-de-la-baleine"
                             class="btn btn-primary"><?= Utils::i18n($lang, 'buy') ?></a>
                 </li>
             </ul>
@@ -232,7 +230,8 @@ $lang = array(
             <ul class="list-group">
                 <li class="list-group-item">
                     <a
-                            target="_blank" href="https://www.etsy.com/fr/listing/738889337/dvd-lexpedition-ultima-patagonia"
+                            target="_blank"
+                            href="https://www.etsy.com/fr/listing/738889337/dvd-lexpedition-ultima-patagonia"
                             class="btn btn-primary"><?= Utils::i18n($lang, 'buy') ?></a>
                 </li>
             </ul>
@@ -286,31 +285,6 @@ $lang = array(
                     <a
                             target="_blank" href="https://www.etsy.com/fr/listing/738889729/austeres-australes"
                             class="btn btn-primary"><?= Utils::i18n($lang, 'buy') ?></a>
-                </li>
-            </ul>
-        </div>
-    </div>
-    <div class="col-md-4">
-        <div class="panel panel-default text-center">
-            <div class="panel-heading">
-                <h3 class="panel-title"><?= Utils::i19n(array('fr' => 'Cuvée spéciale', 'es' => 'Cosecha especial')) ?></h3>
-            </div>
-            <div class="panel-body">
-                <img
-                        alt=""
-                        class="img-responsive"
-                        src="images/shop/shop-03-01.jpg">
-            </div>
-            <div class="panel-body">
-				<span class="price">
-					<sup>&#8364;</sup>&nbsp;36<sup>00</sup>
-				</span>
-            </div>
-            <ul class="list-group">
-                <li class="list-group-item">
-                    <a
-                            href="contact.php"
-                            class="btn btn-primary"><?= Utils::i18n($lang, 'contact_us') ?></a>
                 </li>
             </ul>
         </div>

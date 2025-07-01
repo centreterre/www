@@ -1,1 +1,0 @@
-# Centre Terre Web Site

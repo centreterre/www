@@ -20,7 +20,7 @@ class Utils
         if ($lang == 'en') {
             $currentUri = $_SERVER['REQUEST_URI'];
             if (!preg_match('/^' . preg_quote('/mayang', '/') . '/', $currentUri)
-            && !preg_match('/^' . preg_quote('/index', '/') . '/', $currentUri)) {
+                && !preg_match('/^' . preg_quote('/index', '/') . '/', $currentUri)) {
                 $lang = 'fr';
             }
         }
@@ -85,9 +85,9 @@ class Utils
         }
     }
 
-    public static function get_menu_class($uri,$uri2)
+    public static function get_menu_class($uri, $uri2, $uri3)
     {
-        if (strstr($_SERVER ['REQUEST_URI'], $uri) || strstr($_SERVER ['REQUEST_URI'], $uri2)) {
+        if (strstr($_SERVER ['REQUEST_URI'], $uri) || strstr($_SERVER ['REQUEST_URI'], $uri2)|| strstr($_SERVER ['REQUEST_URI'], $uri3)) {
             return 'active';
         } else {
             return '';

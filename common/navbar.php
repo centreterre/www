@@ -60,7 +60,7 @@
                             'en' => 'Centre Terre',
                             'es' => 'Centre Terre')) ?></a>
                 </li>
-                <li class="<?= Utils::get_menu_class('/mayang2026-projet-scientifique', 'index') ?>">
+                <li class="<?= Utils::get_menu_class('/mayang2026-projet-scientifique', '/index', '/') ?>">
                     <a href="mayang2026-projet-scientifique.php"><?= Utils::i19n(array(
                             'fr' => 'MAYANG 2026',
                             'en' => 'MAYANG 2026',
