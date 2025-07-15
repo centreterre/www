@@ -34,7 +34,7 @@
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Trésorier : David Meunier','es' => 'Tesorero : David Meunier' ) )?></b>
 	<br>
-	66 Bulevard du 8 Mai 1945, 66660 Port-Vendres
+	66 Boulevard du 8 Mai 1945, 66660 Port-Vendres
 	<br>
 	<i class="fa fa-phone"></i> +33 (0) 9 50 48 67 13 <i class="fa fa-mobile-phone pl5"></i> +33 (0) 6 28 23 78 43
 	<br>
@@ -44,8 +44,8 @@
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Trésorier adjoint : Denis Morales','es' => 'Tesorero adjunto : Denis Morales' ) )?></b>
 	<br>
-	9 rue du Comminges 31120 Portet sur Garonne
-	<br>
+    3 Boulevard Joseph Pares, 66660 Port-Vendres
+    <br>
 	<i class="fa fa-mobile-phone"></i> +33 (0) 6 15 79 84 68
 	<br>
 	<i class="fa fa-envelope-o"></i>
@@ -54,7 +54,7 @@
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Secrétaire : Arnaud Malard','es' => 'Secretario : Arnaud Malard' ) )?></b>
 	<br>
-	Avenue de la Gare 12, CH2000 Neuchâtel
+    Belleroche 16, CH2000 Neuchâtel
 	<br>
 	<i class="fa fa-mobile-phone"></i> +41 (0) 7 74 84 38 55
 	<br>
@@ -71,7 +71,7 @@
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Géologie, karstologie, hydrologie','es' => 'Geología, karstología, hidrología' ) )?></b>
 	<br>
-	Stéphane Jaillet, Fabien Hobléa, Richard Maire, Arnaud Malard, Joël Trémoulet
+	Stéphane Jaillet, Fabien Hobléa, Richard Maire, Arnaud Malard, Joël Trémoulet, Cristophe Rognon
 </p>
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Botanique, biologie','es' => 'Botánica, biología' ) )?></b>
@@ -81,7 +81,7 @@
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Archéologie','es' => 'Arqueología ' ) )?></b>
 	<br>
-	Didier Lamotte
+	Didier Lamotte, Roman Hapka
 </p>
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Métrologie, mesures physiques','es' => 'Metrología, mediciones físicas' ) )?></b>
@@ -91,7 +91,7 @@
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Cartographie, topographie','es' => 'Cartografía, topografía' ) )?></b>
 	<br>
-	Stéphane Jaillet, Florian Chenu, Laurent Morel, Arnauld Malard
+	Stéphane Jaillet, Florian Chenu, Laurent Morel, Arnauld Malard, Benjamin Lans
 </p>
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Photo','es' => 'Fotografía' ) )?></b>
@@ -99,14 +99,14 @@
 	Serge Caillault, Luc-Henri Fage, Jean-François Pernette, Bernard Tourte, Florian Chenu
 </p>
 <p>
-	<b><?=Utils::i19n ( array ('fr' => 'Cinéma','es' => 'Cine' ) )?></b>
+	<b><?=Utils::i19n ( array ('fr' => 'Cinéma / Film','es' => 'Cine' ) )?></b>
 	<br>
 	Luc-Henri Fage, Bernard Tourte
 </p>
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Informatique','es' => 'Informática' ) )?></b>
 	<br>
-	David Meunier, Olivier Guérard
+	David Meunier, Olivier Guérard, Alexandre Andrieu
 </p>
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Webmaster','es' => 'Webmaster' ) )?></b>
@@ -116,12 +116,12 @@
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Matériel et logistique spéléo','es' => 'Material y logística espéleo' ) )?></b>
 	<br>
-	Lionel Ruiz
+	Lionel Ruiz, Yann Auffret
 </p>
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Logistique et maintenance équipements','es' => 'Logística y mantenimiento de equipos' ) )?></b>
 	<br>
-	Florian Chenu, Laurent Mestre, Denis Morales, Carlos Placido, Sylvain Boutonnet, Sébastien Verlhac
+	Florian Chenu, Laurent Mestre, Denis Morales, Carlos Placido, Sylvain Boutonnet, Sébastien Verlhac, Nicolas Fouilland
 </p>
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Vivres et logistique associée','es' => 'Intendencia y logística asociada ' ) )?></b>
@@ -136,7 +136,7 @@
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Écriture','es' => 'Redacción' ) )?></b>
 	<br>
-	Georges Marbach, Jean-François Pernette, Luc-Henri Fage
+	Georges Marbach, Luc-Henri Fage
 </p>
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Relations Éducation nationale','es' => 'Relaciones con el Ministerio de Educación francés' ) )?></b>
@@ -146,6 +146,6 @@
 <p>
 	<b><?=Utils::i19n ( array ('fr' => 'Médical','es' => 'Medicina' ) )?></b>
 	<br>
-	Bernard Tourte
+    Jules Clouzeau, Arthur Villain, Bernard Tourte
 </p>
 <br>
