@@ -1,6 +1,6 @@
 <?php
 include 'classes/BlogManager.php';
-$bm = new BlogManager ('mayang2026/news');
+$bm = new BlogManager ('mayang2026/blog');
 $pageIndex = 0;
 if (isset ( $_GET ['page'] )) {
 	$page = $_GET ['page'];

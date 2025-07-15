@@ -7,6 +7,7 @@ RedirectMatch ^/boutique https://www.etsy.com/fr/shop/CentreTerre
 
 Redirect /fr /index.php?lang=fr
 Redirect /es /index.php?lang=es
+Redirect /en /index.php?lang=en
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME}.php -f

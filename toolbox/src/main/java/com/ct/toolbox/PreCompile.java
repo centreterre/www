@@ -21,7 +21,7 @@ import static org.apache.commons.lang3.StringUtils.trimToNull;
 
 public class PreCompile {
 
-    File baseDir = new File("./mayang2026/news");
+    File baseDir = new File("./mayang2026/blog");
 
     public static void main(String[] args) {
         new PreCompile().run();

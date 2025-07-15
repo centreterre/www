@@ -10,7 +10,7 @@
         <div class="row">
             <div class="col-md-8">
 				<?php include 'common/facebook.php';?>
-                <?php include 'mayang2026/projet-scientifique_' . Utils::get_lang() . '.php'; ?>
+                <?php include 'mayang2026/blog/blog.php';?>
 			</div>
             <div class="col-md-4">
 				<?php include 'common/sidebar-latest.php';?>

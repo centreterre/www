@@ -4,11 +4,11 @@
             class="container navbar navbar-default">
         <ul class="nav navbar-nav">
             <li>
-                <a href="mayang2026-projet-scientifique.php"><?= Utils::i19n(array(
+                <a href="mayang2026-blog.php"><?= Utils::i19n(array(
                         'fr' => '# Mayang 2026',
                         'en' => '# Mayang 2026')) ?></a>
             </li>
-            <li class="<?php echo Utils::get_menu_class('/mayang2026-blog'); ?>">
+            <li class="<?php echo Utils::get_menu_class('/mayang2026-blog', 'index'); ?>">
                 <a href="mayang2026-blog.php"><?= Utils::i19n(array(
                         'fr' => 'Blog',
                         'en' => 'Blog')) ?></a>
@@ -23,7 +23,7 @@
                         'fr' => 'Plaquette',
                         'en' => 'Brochure')) ?></a>
             </li>
-            <li class="<?php echo Utils::get_menu_class('/mayang2026-projet-scientifique', 'index'); ?>">
+            <li class="<?php echo Utils::get_menu_class('/mayang2026-projet-scientifique'); ?>">
                 <a href="mayang2026-projet-scientifique.php"><?= Utils::i19n(array(
                         'fr' => 'Projet scientifique',
                         'en' => 'Scientific project')) ?></a>

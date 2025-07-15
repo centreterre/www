@@ -9,7 +9,7 @@
     <div class="content container">
         <div class="row">
             <div class="col-md-8">
-                <?php include 'mayang2026/news/news.php';?>
+                <?php include 'mayang2026/blog/blog.php';?>
             </div>
             <div class="col-md-4">
                 <?php include 'common/sidebar-latest.php';?>

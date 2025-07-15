@@ -2,12 +2,14 @@
 
 class TeamManager
 {
+    private $part;
     private $baseDir;
     private $lang;
 
-    public function __construct($expe)
+    public function __construct($expe, $part)
     {
-        $this->baseDir = $expe . '/equipe';
+        $this->part = $part;
+        $this->baseDir = $expe . $part;
         $this->lang = Utils::get_lang();
     }
 
@@ -18,7 +20,7 @@ class TeamManager
 
     private function renderPage()
     {
-        if ($stream = fopen($this->baseDir . '/equipe.txt', "r")) {
+        if ($stream = fopen($this->baseDir . $this->part . '.txt', "r")) {
             $colIndex = 0;
             while (!feof($stream)) {
                 $img = trim(fgets($stream));
