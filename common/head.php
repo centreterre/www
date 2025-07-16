@@ -14,13 +14,13 @@
             content="Centre Terre - Découvrir Explorer Partager">
     <meta
             property="og:title"
-            content="Mise à jour de mars 2024"/>
+            content="Mise à jour de juillet 2025"/>
     <meta
             property="og:description"
-            content="Ultima Patagonia; “La dernière frontière”, très bientôt à l’écran!"/>
+            content="Nous repartons, objectif Mayang 2026 !"/>
     <meta
             property="og:image"
-            content="https://<?= $_SERVER['SERVER_NAME'] ?>/up2023/news/pages/023/img002.jpg"/>
+            content="https://<?= $_SERVER['SERVER_NAME'] ?>/mayang2026/blog/pages/001/mayang-2026-blog-001-fr-1.jpg"/>
     <meta
             property="og:type"
             content="website"/>
