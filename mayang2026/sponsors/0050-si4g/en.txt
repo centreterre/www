@@ -1,3 +1,3 @@
 SI4G
 http://www.si4g.fr
-Société de conseil et d’ingénierie en informatique, SI4G est née en 2008 et propose des services de réalisation de systèmes d'informations sur mesure, basés sur des solutions innovantes principalement dans le domaine du Web et des technologies Java EE.
+SI4G is an IT consulting and engineering company founded in 2008. It offers customized information system development services based on innovative solutions, primarily in the areas of web and Java EE technologies.
