@@ -28,11 +28,6 @@ Serge CAILLAULT
 Spéléologue, Photographe
 Caver, Photographer
 
-guerard-olivier.jpg
-Olivier GUERARD
-Spéléologue
-Caver
-
 lamotte-didier.jpg
 Didier LAMOTTE
 Archéologue, spéléologue
@@ -73,11 +68,6 @@ Nicolas FOUILLAND
 Spéléologue
 Caver
 
-rives-florian.jpg
-Florian RIVES
-Spéléologue
-Caver
-
 boukhal-mehdi.jpg
 Mehdi BOUKHAL
 Spéléologue
@@ -113,7 +103,27 @@ Christophe THÉBAUD
 Biologiste, écologue
 Biologist, ecologist
 
-hapka-roman.jpg
-Roman HAPKA
-Archéologue, spéléologue
-Archaeologist, spéléologue
+marin-tudor.jpg
+Tudor MARIN
+Spéléologue, plongeur
+Caver, Diver
+
+verheyden-sophie.jpg
+Sophie VERHEYDEN
+Paléoclimatologue, spéléologue
+Paleoclimatologist, caver
+
+kozlowska-monika.jpg
+Monika KOZLOWSKA
+Infirmière, spéléologue
+Nurse, caver
+
+muresan-bodgan.jpg
+Bodgan MURESAN
+Géologue, spéléologue
+Geologist, Caver
+
+elms-tom.jpg
+Tom ELMS
+Spéléologue
+Caver
