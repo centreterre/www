@@ -3,6 +3,11 @@ Bernard TOURTE
 Chef d'expédition, président de Centre Terre
 Expedition Leader, President of Centre Terre
 
+morata-natalia.jpg
+Natalia MORATA
+Spéléologue
+Caver
+
 brehier-franck.jpg
 Franck BREHIER
 Spéléologue, Plongeur
@@ -13,8 +18,63 @@ Christophe ROGNON
 Géologue, Spéléologue
 Geologist, Caver
 
-morata-natalia.jpg
-Natalia MORATA
+lamotte-didier.jpg
+Didier LAMOTTE
+Archéologue, Spéléologue
+Archaeologist, Caver
+
+mestre-laurent.jpg
+Laurent MESTRE
+Spéléologue, Plongeur
+Caver, Diver
+
+philips-michel.jpg
+Michel PHILIPS
+Spéléologue, Plongeur
+Caver, Diver
+
+garrouste-romain.jpg
+Romain GARROUSTE
+Entomologiste
+Entomologist
+
+medvedieva-katia.jpg
+Kateryna MEDVEDIEVA
+Spéléologue, Photographe
+Caver, Photographer
+
+caillault-serge.jpg
+Serge CAILLAULT
+Spéléologue, Photographe
+Caver, Photographer
+
+ruiz-lionel.jpg
+Lionel RUIZ
+Spéléologue
+Caver
+
+marin-tudor.jpg
+Tudor MARIN
+Spéléologue, Plongeur
+Caver, Diver
+
+morin-buote-jessica.jpg
+Jessica MORIN BUOTE
+Spéléologue
+Caver
+
+morales-denis.jpg
+Denis MORALES
+Spéléologue
+Caver
+
+verheyden-sophie.jpg
+Sophie VERHEYDEN
+Paléoclimatologue, Spéléologue
+Paleoclimatologist, Caver
+
+boukhal-mehdi.jpg
+Mehdi BOUKHAL
 Spéléologue
 Caver
 
@@ -23,78 +83,38 @@ Sylvain BOUTONNET
 Spéléologue
 Caver
 
-caillault-serge.jpg
-Serge CAILLAULT
-Spéléologue, Photographe
-Caver, Photographer
-
-lamotte-didier.jpg
-Didier LAMOTTE
-Archéologue, Spéléologue
-Archaeologist, Caver
-
-medvedieva-katia.jpg
-Kateryna MEDVEDIEVA
-Spéléologue, Photographe
-Caver, Photographer
-
-mestre-laurent.jpg
-Laurent MESTRE
-Spéléologue, Plongeur
-Caver, Diver
-
-morales-denis.jpg
-Denis MORALES
+fouilland-nicolas.jpg
+Nicolas FOUILLAND
 Spéléologue
 Caver
 
-philips-michel.jpg
-Michel PHILIPS
-Spéléologue, Plongeur
-Caver, Diver
+muresan-bodgan.jpg
+Bodgan MURESAN
+Géologue, Spéléologue
+Geologist, Caver
 
 gouveia-placido-carlos.jpg
 Carlos GOUVEIA PLACIDO
 Spéléologue, Plongeur
 Caver, Diver
 
-ruiz-lionel.jpg
-Lionel RUIZ
-Spéléologue
-Caver
-
-fouilland-nicolas.jpg
-Nicolas FOUILLAND
-Spéléologue
-Caver
-
-boukhal-mehdi.jpg
-Mehdi BOUKHAL
-Spéléologue
-Caver
-
-morin-buote-jessica.jpg
-Jessica MORIN BUOTE
-Spéléologue
-Caver
-
-fage-luc-henri.jpg
-Luc-Henri FAGE
-Réalisateur
-Film Director
+kozlowska-monika.jpg
+Monika KOZLOWSKA
+Infirmière, Spéléologue
+Nurse, Caver
 
 hardy-luc.jpg
 Luc HARDY
 Explorateur, Environnementaliste
 Explorer, Environmentalist
 
-auffret-yann.jpg
-Yann AUFFRET
+honiat-jean-marc.jpg
+Jean-Marc HONIAT
 Spéléologue
 Caver
 
-honiat-jean-marc.jpg
-Jean-Marc HONIAT
+auffret-yann.jpg
+Yann AUFFRET
 Spéléologue
 Caver
 
@@ -103,32 +123,12 @@ Anthony GENEAU
 Spéléologue
 Caver
 
-thebaud-christophe.jpg
-Christophe THÉBAUD
-Biologiste, Écologue
-Biologist, Ecologist
-
-marin-tudor.jpg
-Tudor MARIN
-Spéléologue, Plongeur
-Caver, Diver
-
-verheyden-sophie.jpg
-Sophie VERHEYDEN
-Paléoclimatologue, Spéléologue
-Paleoclimatologist, Caver
-
-kozlowska-monika.jpg
-Monika KOZLOWSKA
-Infirmière, Spéléologue
-Nurse, Caver
-
-muresan-bodgan.jpg
-Bodgan MURESAN
-Géologue, Spéléologue
-Geologist, Caver
-
 elms-tom.jpg
 Tom ELMS
 Spéléologue
 Caver
+
+fage-luc-henri.jpg
+Luc-Henri FAGE
+Réalisateur
+Film Director
