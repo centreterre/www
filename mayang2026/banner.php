@@ -4,7 +4,7 @@
             width: 262px;
             height: 100px;
             margin-top: 15px;
-            background-image: url("mayang2026/images/logo-mayang-2026.png");
+            background-image: url("mayang2026/images/logo-mayang-2026-v2.png");
             z-index: 999999;
         }
 
@@ -13,7 +13,7 @@
                 width: 87px;
                 height: 100px;
                 margin-right: 15px;
-                background-image: url("mayang2026/images/logo-mayang-2026-mobile.png");
+                background-image: url("mayang2026/images/logo-mayang-2026-mobile-v2.png");
             }
         }
     </style>
