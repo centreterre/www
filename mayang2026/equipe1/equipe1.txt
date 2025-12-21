@@ -130,5 +130,42 @@ Caver
 
 fage-luc-henri.jpg
 Luc-Henri FAGE
-Réalisateur
-Film Director
+Co-Réalisateur, Chef Opérateur
+Co-Director, Cinematographer
+
+rineau-yann.jpg
+Yann Rineau
+Co-Réalisateur, Chef Opérateur
+Co-Director, Cinematographer
+
+ferrandez-julien.jpg
+Julien FERRANDEZ
+Chef Opérateur
+Cinematographer
+
+mauroy-patrick.jpg
+Patrick MAUROY
+Ingénieur du son
+Sound Engineer
+
+remerand-elven.jpg
+Elven REMERAND
+Naturaliste film animalier
+Wildlife Cinematographer
+
+amick-pita.jpg
+Pita AMICK
+Doctorant
+PhD Student
+
+agebigo-jerrica.jpg
+Jerrica AGEBIGO
+Etudiante en master
+Master’s Student
+
+paul-luda.jpg
+Luda PAUL
+Cadre supérieur du Binatang de Nouvelle-Guinée
+Senior Executive at Binatang Papua New Guinea
+
+
