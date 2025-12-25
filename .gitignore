@@ -7,3 +7,4 @@ resources
 forum
 tmp
 *.class
+target
