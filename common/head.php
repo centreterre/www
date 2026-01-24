@@ -20,7 +20,7 @@
             content="Une arrivée en Papouasie-Nouvelle-Guinée en ordre dispersé"/>
     <meta
             property="og:image"
-            content="https://<?= $_SERVER['SERVER_NAME'] ?>/mayang2026/blog/pages/003/mayang-2026-blog-003-14.jpg"/>
+            content="https://<?= $_SERVER['SERVER_NAME'] ?>/mayang2026/blog/pages/003/mayang-2026-blog-003-014.jpg"/>
     <meta
             property="og:type"
             content="website"/>
