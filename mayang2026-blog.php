@@ -9,6 +9,7 @@
     <div class="content container">
         <div class="row">
             <div class="col-md-8">
+                <?php include 'common/facebook.php';?>
                 <?php include 'mayang2026/blog/blog.php';?>
             </div>
             <div class="col-md-4">
@@ -19,9 +20,5 @@
     </div>
     <?php include 'common/footer.php';?>
     <?php include 'common/js-core.php';?>
-    <?php include 'common/lightbox.php';?>
 </body>
 </html>
-
-
-
