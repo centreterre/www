@@ -14,13 +14,13 @@
             content="Centre Terre - Découvrir Explorer Partager">
     <meta
             property="og:title"
-            content="Mise à jour du 19 janvier 2026"/>
+            content="Mise à jour du 29 janvier 2026"/>
     <meta
             property="og:description"
-            content="Une arrivée en Papouasie-Nouvelle-Guinée en ordre dispersé"/>
+            content="Une équipe au complet"/>
     <meta
             property="og:image"
-            content="https://<?= $_SERVER['SERVER_NAME'] ?>/mayang2026/blog/pages/003/mayang-2026-blog-003-014.jpg"/>
+            content="https://<?= $_SERVER['SERVER_NAME'] ?>/mayang2026/blog/pages/004/mayang-2026-blog-004-006.jpg"/>
     <meta
             property="og:type"
             content="website"/>

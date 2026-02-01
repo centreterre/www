@@ -85,6 +85,8 @@ class BlogManager {
 				$caption = true;
 			}
 			$img = '<img';
+			$img .= '  loading="lazy"';
+			$img .= '  decoding="async"';
 			$img .= '  class="img-responsive"';
 			$img .= '  src="'.$this->baseDir.'/pages/' . $page . '/' . $src . '"';
 			$img .= '  >';
@@ -189,6 +191,8 @@ class BlogManager {
 			$img .= ' rel="group"';
 			$img .= ' href="'.$this->baseDir.'/pages/' . $page . '/' . $src . '">';
 			$img .= '<img';
+			$img .= '  loading="lazy"';
+			$img .= '  decoding="async"';
 			$img .= '  class="img-responsive"';
 			$img .= '  src="'.$this->baseDir.'/pages/' . $page . '/' . $src . '"';
 			$img .= '  alt="' . $label . '"></a>';
