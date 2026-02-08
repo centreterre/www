@@ -15,6 +15,17 @@
         </div>
     </div>
 </div>
+
+<div class="well">
+    <div class="row">
+        <div class="col-md-12">
+            <a class="fancybox" href="mayang2026/images/carte-des-camps-et-villages.jpg">
+                <p><i class="fa fa-search" aria-hidden="true"></i>Carte des camps et villages</p>
+                <img src="mayang2026/images/carte-des-camps-et-villages.jpg" width="320">
+            </a>
+        </div>
+    </div>
+</div>
 <div class="well">
     <div class="row">
         <div class="col-md-12">
