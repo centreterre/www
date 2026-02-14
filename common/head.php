@@ -20,7 +20,7 @@
             content="La danse de la pluie"/>
     <meta
             property="og:image"
-            content="https://<?= $_SERVER['SERVER_NAME'] ?>/mayang2026/blog/pages/005/mayang-2026-blog-005-031.jpg"/>
+            content="https://<?= $_SERVER['SERVER_NAME'] ?>/mayang2026/blog/pages/005/mayang-2026-blog-005-019.jpg"/>
     <meta
             property="og:type"
             content="website"/>
