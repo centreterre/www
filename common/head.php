@@ -14,13 +14,13 @@
             content="Centre Terre - Découvrir Explorer Partager">
     <meta
             property="og:title"
-            content="Mise à jour du 29 janvier 2026"/>
+            content="Mise à jour du 14 février 2026"/>
     <meta
             property="og:description"
-            content="Une équipe au complet"/>
+            content="La danse de la pluie"/>
     <meta
             property="og:image"
-            content="https://<?= $_SERVER['SERVER_NAME'] ?>/mayang2026/blog/pages/004/mayang-2026-blog-004-006.jpg"/>
+            content="https://<?= $_SERVER['SERVER_NAME'] ?>/mayang2026/blog/pages/005/mayang-2026-blog-005-031.jpg"/>
     <meta
             property="og:type"
             content="website"/>
