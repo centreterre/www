@@ -14,13 +14,13 @@
             content="Centre Terre - Découvrir Explorer Partager">
     <meta
             property="og:title"
-            content="Mise à jour du 14 février 2026"/>
+            content="Mise à jour du 21 février 2026"/>
     <meta
             property="og:description"
-            content="La danse de la pluie"/>
+            content="Canyon au camp 1, Spéléo au camp 2"/>
     <meta
             property="og:image"
-            content="https://<?= $_SERVER['SERVER_NAME'] ?>/mayang2026/blog/pages/005/mayang-2026-blog-005-019.jpg"/>
+            content="https://<?= $_SERVER['SERVER_NAME'] ?>/mayang2026/blog/pages/006/mayang-2026-blog-006-005a.jpg"/>
     <meta
             property="og:type"
             content="website"/>
