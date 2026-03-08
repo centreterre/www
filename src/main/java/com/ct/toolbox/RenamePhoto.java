@@ -17,7 +17,7 @@ import java.util.stream.Stream;
 
 public class RenamePhoto {
 
-    File baseDir = new File("./mayang2026/blog/pages/006");
+    File baseDir = new File("./mayang2026/blog/pages/007");
 
     public static void main(String[] args) {
         new RenamePhoto().run();
@@ -28,18 +28,19 @@ public class RenamePhoto {
         listFiles(baseDir).stream()
                 .filter(v -> v.getName().startsWith("PHOTO"))
                 .forEach(file -> {
-                    String regex = "^(PHOTO)\\s+(\\d+)(.+?)\\.(jpg|jpeg|png|gif)$";
+                    String regex = "^(PHOTO)\\s(\\d{2})(\\p{Lower})?\\.(jpe?g)$";
                     Pattern pattern = Pattern.compile(regex, Pattern.CASE_INSENSITIVE);
                     Matcher matcher = pattern.matcher(file.getName());
                     if (matcher.matches()) {
                         String number = matcher.group(2);
-                        if (exists.contains(number)) {
-                            number = number + "b";
-                        }
-                        String newName = "mayang-2026-blog-006-0" + number + ".jpg";
+                        String v = matcher.group(3);
+//                        if (exists.contains(number)) {
+//                            number = number + "b";
+//                        }
+                        String newName = "mayang-2026-blog-007-0" + number + (v == null ? "" : v) + ".jpg";
                         System.out.println(newName);
                         file.renameTo(new File(file.getParentFile(), newName));
-                        exists.add(number);
+//                        exists.add(number);
                     }
                 });
     }

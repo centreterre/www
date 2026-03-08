@@ -14,13 +14,13 @@
             content="Centre Terre - Découvrir Explorer Partager">
     <meta
             property="og:title"
-            content="Mise à jour du 21 février 2026"/>
+            content="Mise à jour du 5 mars 2026"/>
     <meta
             property="og:description"
-            content="Canyon au camp 1, Spéléo au camp 2"/>
+            content="Exploration de l'amont de Ralapusa"/>
     <meta
             property="og:image"
-            content="https://<?= $_SERVER['SERVER_NAME'] ?>/mayang2026/blog/pages/006/mayang-2026-blog-006-005a.jpg"/>
+            content="https://<?= $_SERVER['SERVER_NAME'] ?>/mayang2026/blog/pages/007/mayang-2026-blog-007-020.jpg"/>
     <meta
             property="og:type"
             content="website"/>
