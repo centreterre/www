@@ -20,7 +20,7 @@
             content="Nous comptons sur vous pour la prochaine aventure !"/>
     <meta
             property="og:image"
-            content="https://<?= $_SERVER['SERVER_NAME'] ?>/mayang2026/blog/pages/007/mayang-2026-blog-008-028.jpg"/>
+            content="https://<?= $_SERVER['SERVER_NAME'] ?>/mayang2026/blog/pages/008/mayang-2026-blog-008-028.jpg"/>
     <meta
             property="og:type"
             content="website"/>
