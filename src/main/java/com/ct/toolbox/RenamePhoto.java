@@ -17,7 +17,7 @@ import java.util.stream.Stream;
 
 public class RenamePhoto {
 
-    File baseDir = new File("./mayang2026/blog/pages/007");
+    File baseDir = new File("./mayang2026/blog/pages/008");
 
     public static void main(String[] args) {
         new RenamePhoto().run();
@@ -37,7 +37,7 @@ public class RenamePhoto {
 //                        if (exists.contains(number)) {
 //                            number = number + "b";
 //                        }
-                        String newName = "mayang-2026-blog-007-0" + number + (v == null ? "" : v) + ".jpg";
+                        String newName = "mayang-2026-blog-008-0" + number + (v == null ? "" : v) + ".jpg";
                         System.out.println(newName);
                         file.renameTo(new File(file.getParentFile(), newName));
 //                        exists.add(number);

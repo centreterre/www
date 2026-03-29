@@ -17,10 +17,10 @@
             content="Mise à jour du 5 mars 2026"/>
     <meta
             property="og:description"
-            content="Exploration de l'amont de Ralapusa"/>
+            content="Nous comptons sur vous pour la prochaine aventure !"/>
     <meta
             property="og:image"
-            content="https://<?= $_SERVER['SERVER_NAME'] ?>/mayang2026/blog/pages/007/mayang-2026-blog-007-020.jpg"/>
+            content="https://<?= $_SERVER['SERVER_NAME'] ?>/mayang2026/blog/pages/007/mayang-2026-blog-008-028.jpg"/>
     <meta
             property="og:type"
             content="website"/>
