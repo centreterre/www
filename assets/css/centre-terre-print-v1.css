@@ -1,0 +1,485 @@
+/*global*/
+html, body {
+	height: 100%;
+}
+
+h1, h2, h3, h4 {
+	margin: 0px;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+}
+
+h1, h2, h3, h4 {
+	text-align: justify;
+}
+
+h1, h2 {
+	color: #337ab7;
+}
+
+h3, h4 {
+	color: #000000;
+}
+
+h1 {
+	font-size: 24px;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+h4 {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+p {
+	text-align: justify;
+}
+
+iframe {
+	border: none;
+}
+
+blockquote {
+	margin-left: 5px;
+}
+
+span.pipe {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+div.linkbar {
+	padding-bottom: 10px;
+}
+
+a.flag {
+	padding-left: 5px;
+}
+
+a.flag:hover {
+	text-decoration: none;
+}
+
+.expedition-speleologie-patagonie {
+	padding:0px;
+	margin:0px;
+	height: 1px;
+	font-size: 1px;
+	color: white;
+}
+
+.row {
+	padding-bottom: 10px;
+}
+
+.tac {
+	text-align: center;
+}
+
+.tar {
+	text-align: right;
+}
+
+.tal {
+	text-align: left;
+}
+
+.fwb {
+	font-weight: bold;
+}
+
+.pl5 {
+	padding-left: 5px;
+}
+
+.img-caption {
+	padding-bottom: 5px;
+}
+
+.caption {
+	padding-top: 5px;
+	font-style: italic;
+	text-align: center;
+	font-size: 12px;
+}
+
+.img-portfolio {
+	margin-bottom: 30px;
+}
+
+.img-hover:hover {
+	opacity: 0.8;
+}
+
+.content {
+	margin-top: 20px;
+	margin-bottom: 60px;
+}
+
+.fa {
+	padding-right: 5px;
+}
+
+b.caret {
+	margin-left: 7px;
+}
+
+a.anchor {
+	display: block;
+	position: relative;
+	visibility: hidden;
+	top: -50px;
+}
+
+/*navbar*/
+.navbar-brand {
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+.navbar-nav>li>a {
+	font-size: 12px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.navbar-header div {
+	display: inline;
+}
+
+.navbar-logo {
+	padding-top: 0px;
+	padding-right: 0;
+}
+
+.navbar-flags {
+	height: 100%;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.navbar-flags a {
+	display: inline;
+}
+
+/*subnavbar*/
+.subnavbar {
+	background-color: #f8f8f8;
+}
+
+.subnavbar .navbar {
+	margin-bottom: 0px;
+	border-radius: 0px;
+	border-width: 0px;
+	min-height: 10px;
+}
+
+.subnavbar .navbar .navbar-nav>li>a {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus,
+	.navbar-default .navbar-nav>.active>a:hover {
+	color: #000;
+}
+
+/*banner*/
+header#banner {
+	height: 35%;
+	min-height: 300px;
+	max-height: 600px;
+	border-bottom: 1px solid #e7e7e7;
+}
+
+header#banner div.fill {
+	width: 100%;
+	height: 100%;
+	background-position: center;
+	background-size: cover;
+}
+
+/*vip*/
+.vip-left {
+	float: left;
+	height: 100%;
+	margin-left: 15px;
+}
+
+.vip-right {
+	float: right;
+	height: 100%;
+	margin-right: 15px;
+}
+
+.vip-top, .vip-bottom {
+	height: 50%;
+}
+
+.vip-bottom {
+	position: relative;
+}
+
+.vip-bottom img {
+	position: absolute;
+	bottom: 0px;
+}
+
+.vip-right div img {
+	width: 150px;
+	height: 150px;
+}
+
+@media ( max-width :500px) {
+	.vip-left {
+		margin-left: 0px;
+	}
+	.vip-right {
+		margin-right: 0px;
+	}
+	.vip-right div img, .vip-left div img {
+		width: 120px;
+		height: 120px;
+	}
+}
+
+/*edu*/
+.edu {
+	background-color: #f8f8f8;
+	border-bottom: 1px solid #e7e7e7;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.edu-container {
+	font-style: italic;
+}
+
+/*booklet*/
+#booklet {
+	min-width: 300px;
+	margin-bottom: 50px;
+}
+
+#booklet .carousel-indicators {
+	position: fixed;
+	top: 80px;
+}
+
+#booklet .booklet-download {
+	top: 60px;
+}
+
+#booklet .booklet-download a {
+	color: #FFF;
+}
+
+#booklet .carousel-control .glyphicon-chevron-left, #booklet .carousel-control .glyphicon-chevron-right,
+	#booklet .carousel-control .icon-next, #booklet .carousel-control .icon-prev
+	{
+	position: fixed;
+	top: 33%;
+}
+
+#booklet .carousel-control .glyphicon-chevron-left {
+	left: 20px;
+}
+
+#booklet .carousel-control .glyphicon-chevron-right {
+	right: 20px;
+}
+
+#booklet .carousel-inner>.item>img, #booklet .carousel-inner>.item>a>img
+	{
+	width: 90%;
+	margin: auto;
+	max-width: 1024px;
+}
+
+/*team*/
+.team-row-col-left {
+	padding-right: 0px;
+}
+
+.team-row-col-right {
+	padding-left: 0px;
+}
+
+.team-member {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.team-member img {
+	margin: 0 auto;
+	border: 7px solid #fff;
+	border-radius: 10% !important;
+}
+
+.team-member h4 {
+	font-weight: bold;
+}
+
+/*school*/
+table#programs {
+	width: 100%;
+	border: 1px solid #DDDDDD;
+	border-collapse: collapse;
+}
+
+table#programs tr td {
+	padding: 7px;
+	border: 1px solid #DDDDDD;
+}
+
+table#programs tr td.discipline {
+	text-align: center;
+	font-weight: bold;
+	padding: 5px;
+}
+
+.dropdown-header {
+	font-size: 14px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+/*shop*/
+.shop img {
+	margin: 0 auto;
+}
+
+.shop .panel-heading {
+	position: relative;
+	height: 50px;
+}
+
+.shop h3.panel-title {
+	text-align: center;
+	position: absolute;
+	transform: translateY(-50%);
+	width: 90%;
+	top: 50%;
+}
+
+.shop h3.panel-title span {
+	vertical-align: middle;
+}
+
+.price {
+	display: block;
+	font-size: 50px;
+	line-height: 50px;
+}
+
+.price sup {
+	top: -20px;
+	left: 2px;
+	font-size: 20px;
+}
+
+/*contact*/
+#geolocalisation {
+	margin-top: 10px;
+}
+
+/*footer*/
+footer {
+	position: fixed;
+	margin: 0;
+	height: 50px;
+	width: 100%;
+	bottom: 0;
+	border-top: 1px solid #000000;
+	background-color: #222222;
+}
+
+div.footer-social a {
+	display: inline;
+}
+
+/*media*/
+@media ( max-width :991px) {
+	.customer-img, .img-related {
+		margin-bottom: 30px;
+	}
+}
+
+@media ( max-width :767px) {
+	.img-portfolio {
+		margin-bottom: 15px;
+	}
+	header.carousel .carousel {
+		height: 70%;
+	}
+}
+
+@media ( max-width : 1000px) {
+	.navbar-header {
+		float: none;
+	}
+	.navbar-left, .navbar-right {
+		float: none !important;
+	}
+	.navbar-toggle {
+		display: block;
+	}
+	.navbar-collapse {
+		border-top: 1px solid transparent;
+		box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+	}
+	.navbar-fixed-top {
+		top: 0;
+		border-width: 0 0 1px;
+	}
+	.navbar-collapse.collapse {
+		display: none !important;
+	}
+	.navbar-nav {
+		float: none !important;
+		margin-top: 7.5px;
+	}
+	.navbar-nav>li {
+		float: none;
+	}
+	.navbar-nav>li>a {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	.collapse.in {
+		display: block !important;
+	}
+}
+
+@media ( min-width : 1500px) {
+	#vip {
+		right: 350px;
+	}
+}
+
+@media ( max-width : 350px) {
+	#navbar-logo-text {
+		display: none;
+	}
+	h1, h2, h3, h4 {
+		font-size: 16px;
+	}
+}
+
+/*fonts*/
+@font-face {
+	font-family: "pn-regular";
+	src: url("../fonts/pn-regular.woff") format('woff');
+}
