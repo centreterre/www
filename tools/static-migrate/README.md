@@ -67,8 +67,9 @@ parasite à la racine du dépôt ne peut pas écraser une page crawlée.
 3. **URLs à paramètres** (`/?page=004`, `?pageIndex=n`) : 301 vers le fichier
    du billet correspondant.
 4. **Alias historiques** : `/fr` → `/`, `/en` → `/en/index.html`,
-   `/es` → `/es/index.html` (corrige le bug historique : `/es` affichait
-   l'accueil *anglais*), `/boutique` → Etsy.
+   `/es` → `/` (le site n'a jamais eu d'accueil espagnole — l'index est
+   fr/en ; l'ancien `.htaccess` envoyait `/es` vers l'accueil *anglais*
+   par la coercition es→en), `/boutique` → Etsy.
 
 ### Représentation compacte et limite AWS (10 Ko)
 

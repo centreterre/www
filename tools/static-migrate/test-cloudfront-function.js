@@ -22,7 +22,7 @@ function expect(uri, qs, want) {
 // --- alias historiques (.htaccess) ---
 expect('/fr', {}, '301:/');
 expect('/en', {}, '301:/en/index.html');
-expect('/es', {}, '301:/es/index.html');
+expect('/es', {}, '301:/');  // pas d'accueil ES (index fr/en) : accueil FR, comme pour toute langue inconnue
 expect('/boutique', {}, '301:https://www.etsy.com/fr/shop/CentreTerre');
 
 // --- extensionless → réécriture interne (200) ---

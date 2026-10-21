@@ -1,5 +1,5 @@
 RAPPORT DE MIGRATION PHP -> STATIQUE
-Date : 2026-10-21 22:09:46
+Date : 2026-10-21 22:21:48
 
 Pages générées : 302 / 302 (FR racine, /en/, /es/, billets inclus)
 Assets copiés   : 1934

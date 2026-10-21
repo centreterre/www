@@ -35,7 +35,7 @@ function handler(event) {
     // Alias historiques (.htaccess)
     if (uri === '/fr')        { return redirect301('/'); }
     if (uri === '/en')        { return redirect301('/en/index.html'); }
-    if (uri === '/es')        { return redirect301('/es/index.html'); }
+    if (uri === '/es')        { return redirect301('/'); }
     if (uri === '/boutique')  { return redirect301('https://www.etsy.com/fr/shop/CentreTerre'); }
 
     var name = null;
