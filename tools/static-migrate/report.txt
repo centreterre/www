@@ -1,0 +1,118 @@
+RAPPORT DE MIGRATION PHP -> STATIQUE
+Date : 2026-10-21 22:21:48
+
+Pages générées : 302 / 302 (FR racine, /en/, /es/, billets inclus)
+Assets copiés   : 1934
+Taille dist/   : 533.5 Mo
+
+ÉCHECS (0) :
+
+ERREURS PHP INJECTÉES DANS LE HTML (0) :
+
+LIENS INTERNES CASSÉS (0) :
+
+LIENS VERS documents/ ou forum/ (27 cibles distinctes — à synchroniser depuis le serveur, hors dépôt git) :
+  - /documents/EXPEDITIONS/UP2019/PLAQUETTE/CT-UP2019-PLAQUETTE-6P-MEDIUM-FR-V3.pdf
+  - /documents/EXPEDITIONS/UP2019/PLAQUETTE/CT-UP2019-PLAQUETTE-6P-MEDIUM-ES-V3.pdf
+  - /documents/EXPEDITIONS/UP2019/PLAQUETTE/CT-UP2019-PLAQUETTE-6P-MEDIUM-EN-V2.pdf
+  - /documents/EXPEDITIONS/UP2019/PROJET-SCIENTIFIQUE/Comete-3D-FR-OK.pdf
+  - /documents/EXPEDITIONS/UP2019/PROJET-SCIENTIFIQUE/Encoches-littorales-FR-OK.pdf
+  - /documents/EXPEDITIONS/UP2019/PROJET-SCIENTIFIQUE/Fauna-Silvestre-ES-OK.pdf
+  - /documents/EXPEDITIONS/UP2019/PROJET-SCIENTIFIQUE/Flora-briofitica-calcarea-ES-OK.pdf
+  - /documents/EXPEDITIONS/UP2019/PROJET-SCIENTIFIQUE/Geomicrobiologie-ES-OK.pdf
+  - /documents/EXPEDITIONS/UP2019/PROJET-SCIENTIFIQUE/Glacier-dynamics-ice-water2-EN-OK.pdf
+  - /documents/EXPEDITIONS/UP2019/PROJET-SCIENTIFIQUE/Murcielagos-bat-ES-OK.pdf
+  - /documents/EXPEDITIONS/UP2019/PROJET-SCIENTIFIQUE/Speleothem-paleoclimats-FR-OK.pdf
+  - /documents/EXPEDITIONS/UP2019/PROJET-SCIENTIFIQUE/Speleothem-paleoclimats-FR-V2.pdf
+  - /documents/EXPEDITIONS/UP2019/APPEL-DONS/CT-UP2019-APPEL-DONS-FR.pdf
+  - /documents/EXPEDITIONS/UP2019/APPEL-DONS/CT-UP2019-APPEL-DONS-ES.pdf
+  - /documents/EXPEDITIONS/UP2017/PLAQUETTE/CT-UP2017-PLAQUETTE-6P-LIGHT-ES.pdf
+  - /documents/EXPEDITIONS/UP2017/PLAQUETTE/CT-UP2017-PLAQUETTE-6P-LIGHT-FR.pdf
+  - /documents/EXPEDITIONS/UP2017/PLAQUETTE/CT-UP2017-PLAQUETTE-6P-LIGHT-EN.pdf
+  - /documents/EXPEDITIONS/UP2017/PROJET-SCIENTIFIQUE/CT-UP2017-PROJET-SCIENTIFIQUE-ES.pdf
+  - /documents/EXPEDITIONS/UP2017/PROJET-SCIENTIFIQUE/CT-UP2017-PROJET-SCIENTIFIQUE-FR.pdf
+  - /documents/EXPEDITIONS/UP2017/BASE-SCIENTIFIQUE/CT-UP2017-BASE-SCIENTIFIQUE-ES.pdf
+  - /documents/PRESSBOOK/2016/CT-PRESSBOOK-2016-08-24-LA-DEPECHE-FR.pdf
+  - /documents/PRESSBOOK/2016/CT-PRESSBOOK-2016-08-14-EL-MAGALLANES-ES.pdf
+  - /documents/PRESSBOOK/2016/CT-PRESSBOOK-2016-08-13-DEL-FUEGO-NOTICIAS-ES.pdf
+  - /documents/PRESSBOOK/2016/CT-PRESSBOOK-2016-07-27-MINISTERIO-DE-BIENES-NACIONALES-ES.pdf
+  - /documents/PRESSBOOK/2016/CT-PRESSBOOK-2016-07-27-CODEXVERDE-ES.pdf
+  - /documents/PRESSBOOK/2016/CT-PRESSBOOK-2016-07-27-PUBLIMETRO-ES.pdf
+  - /documents/PRESSBOOK/2016/CT-PRESSBOOK-2016-03-17-LA-VOIX-DU-JURA-FR.pdf
+
+LIENS NON RÉSOLUS (conservés tels quels) (42) :
+  - www.moretton.fr
+  - www.moretton.fr
+  - www.moretton.fr
+  - www.moretton.fr
+  - www.orioncs.fr
+  - www.orioncs.fr
+  - www.tignol-beton.fr
+  - www.orioncs.fr
+  - www.orioncs.fr
+  - www.tignol-beton.fr
+  - www.indura.cl
+  - www.indura.cl
+  - www.baminage.fr
+  - www.baminage.fr
+  - www.mg-ecoconstruction.com
+  - www.mg-ecoconstruction.com
+  - www.chenutravauxspeciaux.fr
+  - www.chenutravauxspeciaux.fr
+  - www.petzl.com
+  - www.petzl.com
+  - www.predubonheur.com
+  - www.predubonheur.com
+  - www.indura.cl
+  - www.indura.cl
+  - www.baminage.fr
+  - www.baminage.fr
+  - www.mg-ecoconstruction.com
+  - www.mg-ecoconstruction.com
+  - www.chenutravauxspeciaux.fr
+  - www.chenutravauxspeciaux.fr
+  - www.petzl.com
+  - www.petzl.com
+  - www.predubonheur.com
+  - www.predubonheur.com
+  - www.indura.cl
+  - www.indura.cl
+  - www.pinodelion.cl
+  - www.pinodelion.cl
+  - www.indura.cl
+  - www.indura.cl
+  - www.pinodelion.cl
+  - www.pinodelion.cl
+
+LIENS MORTS NEUTRALISÉS (0) :
+
+LIENS EXTERNES SANS SCHÉMA (déjà cassés en production, conservés tels quels) (42) :
+  - www.orioncs.fr
+  - www.tignol-beton.fr
+  - www.indura.cl
+  - www.baminage.fr
+  - www.mg-ecoconstruction.com
+  - www.chenutravauxspeciaux.fr
+  - www.petzl.com
+  - www.predubonheur.com
+  - www.pinodelion.cl
+  - www.moretton.fr
+
+NOTES :
+  - Pages exclues (cassées) : news-h1, news-h2
+  - Warnings PHP : la production a display_errors=On, mais tous ces warnings tombent dans
+    des attributs class="..." du menu (invisibles pour le visiteur). Le HTML statique est
+    généré propre (display_errors=Off dans le conteneur de crawl, cf. run.sh) : rendu identique.
+  - Découverte : la distribution CloudFront actuelle de la prod ignore les query strings dans
+    sa clé de cache — les URLs ?lang=xx servent la langue remplie en dernier dans le cache
+    (langues non déterministes en ligne ; l'origine, elle, sert la bonne langue). Le site
+    statique (/es/, /en/ + fonction CF) corrige ce problème.
+  - L'accueil n'a pas de variante espagnole : le blog mayang2026 n'existe qu'en fr/en
+    (comportement fidèle à la production où ?lang=es sur /index.php est coercé en anglais).
+  - Les pages *-print restent exclues du sitemap (robots.txt : Disallow /*print*).
+  - documents/ (PDFs), forum/ (service à part), backoffice/ (admin) ne sont pas dans le dépôt git :
+    documents/ et forum/ doivent être synchronisés depuis le serveur actuel.
+  - ATTENTION : plusieurs PDFs sous documents/ renvoient 404 sur la production actuelle
+    (ex. CT-UP2017-PLAQUETTE-6P-LIGHT-FR.pdf) : liens déjà cassés avant migration, à vérifier
+    côté serveur (arborescence documents/ éventuellement différente) avant synchronisation.
+  - Le player projekktor et common/stream.php sont du code mort : non migrés.
