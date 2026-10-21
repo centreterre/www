@@ -70,6 +70,46 @@ parasite à la racine du dépôt ne peut pas écraser une page crawlée.
    `/es` → `/es/index.html` (corrige le bug historique : `/es` affichait
    l'accueil *anglais*), `/boutique` → Etsy.
 
+### Représentation compacte et limite AWS (10 Ko)
+
+La limite AWS d'une CloudFront Function est **10 Ko de code**. La version
+initiale, à base de cinq maps explicites, en faisait 15 345 : la mise à
+jour était rejetée avec `FunctionSizeLimitExceeded` — erreur que la
+console masque en « An error occurred while saving changes: UnknownError ».
+La fonction générée (~6 Ko) remplace donc les maps par des
+représentations dérivées :
+
+- `PAGES` : noms valides en chaîne délimitée (`'|' + nom + '|'`) ; la
+  cible d'une page est toujours `nom + ".html"` (pas de map) ;
+- `ALIAS` : les 6 pages blog (`index` → `mayang2026-blog`, les 5 blogs
+  vers eux-mêmes) ;
+- `RANGES` : plage `[min, max]` des billets par blog (IDs contigus à
+  3 chiffres) ; `?page=PID` → billet PID, `?pageIndex=n` → billet
+  `max − n` (ordre chronologique inverse) ;
+- langues : `index` et `mayang*` → fr/en, les autres → fr/es.
+
+Ces invariants sont **vérifiés au build** (`migrate.php`, section 8) :
+le pipeline échoue si une page ou un billet ne les respecte plus (ne pas
+relâcher le contrôle sans remettre des maps explicites dans la fonction).
+
+État : fonction `www-centre-terre-fr` publiée (stage **LIVE**,
+cloudfront-js-2.0), **non associée** — l'association en viewer request
+sur la distribution reste l'étape à impact production. Déploiement :
+
+```sh
+export AWS_CONFIG_FILE=<config du compte Centre Terre>
+export AWS_SHARED_CREDENTIALS_FILE=<credentials du compte Centre Terre>
+aws cloudfront describe-function --name www-centre-terre-fr --query 'ETag' --output text
+aws cloudfront update-function --name www-centre-terre-fr --if-match <ETag> \
+  --function-code fileb://tools/static-migrate/cloudfront-function.js \
+  --function-config '{"Comment":"Continuite URLs legacy","Runtime":"cloudfront-js-2.0"}' \
+  --query 'ETag' --output text
+# test : event viewer-request JSON, --event-object fileb:// (base64 auto)
+aws cloudfront test-function --name www-centre-terre-fr --if-match <ETag> \
+  --event-object fileb://event.json
+aws cloudfront publish-function --name www-centre-terre-fr --if-match <ETag>
+```
+
 ## À synchroniser manuellement depuis le serveur actuel
 
 Ces répertoires sont **gitignorés** (absents du dépôt) mais référencés par le site :

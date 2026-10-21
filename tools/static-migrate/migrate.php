@@ -486,36 +486,91 @@ echo '  sitemap.xml : ' . count($groups) . " groupes\n";
 /* 8. Fonction CloudFront (redirections URLs legacy)                   */
 /* ------------------------------------------------------------------ */
 
-$fnPages   = array(); // page => cible fr (fichier)
-$fnLangs   = array(); // page => langues
+/* Représentation compacte : la limite AWS est de 10 Ko de code de fonction
+   (au-delà, update-function échoue avec FunctionSizeLimitExceeded — erreur
+   que la console masque en « UnknownError »). Les cinq maps explicites
+   (~15 Ko) sont donc remplacées par des représentations dérivées, dont les
+   invariants sont vérifiés ici : le build échoue si l'un d'eux ne tient plus.
+   - cible d'une page = nom + '.html' (dérivé au runtime, y compris index)
+   - langues : index et mayang* -> fr/en ; les autres -> fr/es
+   - billets d'un blog : IDs contigus à 3 chiffres -> plage [min, max]
+   - ?pageIndex=n -> billet (max - n) (ordre chronologique inverse) */
+
+function cfFail($msg) {
+    fwrite(STDERR, "cloudfront-function : $msg\n");
+    exit(1);
+}
+
 foreach ($pageLangs as $name => $langs) {
-    $fnPages[$name] = ($name === 'index') ? 'index.html' : $name . '.html';
-    $fnLangs[$name] = $langs;
+    $expect = ($name === 'index' || strpos($name, 'mayang') === 0)
+        ? array('fr', 'en') : array('fr', 'es');
+    if ($langs !== $expect) {
+        cfFail("invariant langues rompu pour '$name' : "
+            . json_encode($langs) . " (attendu " . json_encode($expect) . ")");
+    }
 }
-$fnPosts  = array();  // blog => id => cible fr
-$fnByIndex = array(); // blog => pageIndex => cible fr
+
+$fnRanges = array();
 foreach ($BLOGS as $entry => $conf) {
-    $fnPosts[$entry] = array();
+    $vals = array();
     foreach ($postsAsc[$entry] as $id) {
-        $fnPosts[$entry][$id] = $entry . '-' . $id . '.html';
+        if (!preg_match('/^\d{3}$/', $id)) {
+            cfFail("ID de billet non conforme '$id' ($entry)");
+        }
+        $vals[] = intval($id);
     }
-    $desc = array_reverse($postsAsc[$entry]);
-    foreach ($desc as $idx => $id) {
-        $fnByIndex[$entry][(string)$idx] = $entry . '-' . $id . '.html';
+    if (!$vals) {
+        cfFail("blog '$entry' sans billet");
+    }
+    sort($vals);
+    $min = $vals[0];
+    $max = $vals[count($vals) - 1];
+    if ($vals !== range($min, $max)) {
+        cfFail("billets non contigus pour '$entry' (min $min, max $max, "
+            . count($vals) . " billets)");
+    }
+    $fnRanges[$entry] = array($min, $max);
+}
+
+foreach ($PAGE_BLOG as $p => $b) {
+    if (!isset($pageLangs[$p]) || !isset($fnRanges[$b])) {
+        cfFail("alias '$p' -> '$b' inconnu");
     }
 }
-$fnAlias = $PAGE_BLOG;
 
-$je = defined('JSON_UNESCAPED_SLASHES') ? (JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) : 0;
+$fnPagesStr = '|' . implode('|', array_keys($pageLangs)) . '|';
+
+/* JSON pur ASCII (sans JSON_UNESCAPED_UNICODE) : les accents sont échappés
+   en \uXXXX — strictement équivalents en JS ES 5.1. (Nota : les
+   « UnknownError » de la console étaient dus au dépassement de la limite de
+   10 Ko, pas à l'Unicode ; le 100 % ASCII reste de l'hygiène, vérifiée plus
+   bas.) */
+$je = defined('JSON_UNESCAPED_SLASHES') ? JSON_UNESCAPED_SLASHES : 0;
 $js = <<<EOT
-// Généré par tools/static-migrate/migrate.php — ne pas éditer à la main.
-// Fonction CloudFront (viewer request) assurant la continuité des URLs legacy.
+// Genere par tools/static-migrate/migrate.php - ne pas editer a la main.
+// Fonction CloudFront (viewer request) : continuite des URLs legacy.
+// Code ES 5.1, 100% ASCII : compatible cloudfront-js-1.0 et cloudfront-js-2.0.
+//
+// REPRESENTATION COMPACTE (limite AWS : 10 Ko de code, "FunctionSizeLimitExceeded"
+// au-dela - les "UnknownError" de la console venaient de la) :
+//   PAGES  : noms valides separes par '|'. Cible d'une page = nom + '.html'.
+//   ALIAS  : page -> blog, pour les pages acceptant ?page= / ?pageIndex=
+//   RANGES : plage [min, max] des billets par blog (IDs a 3 chiffres contigus)
+//   Langues : index et mayang* -> fr/en ; les autres -> fr/es.
+//   ?page=PID    -> billet PID si la forme a 3 chiffres est exacte
+//   ?pageIndex=n -> billet (max - n), ordre chronologique inverse
+// Invariants verifies au build (section 8 de migrate.php) : le pipeline
+// echoue si une page ou un billet ne respecte plus ces regles.
 
-var PAGE_TARGETS   = __PAGES__;
-var PAGE_LANGS     = __LANGS__;
-var BLOG_ALIAS     = __ALIAS__;
-var BLOG_POSTS     = __POSTS__;
-var POSTS_BY_INDEX = __BYINDEX__;
+var PAGES  = __PAGES__;
+var ALIAS  = __ALIAS__;
+var RANGES = __RANGES__;
+
+function pad3(n) {
+    var s = String(n);
+    while (s.length < 3) { s = '0' + s; }
+    return s;
+}
 
 function handler(event) {
     var request = event.request;
@@ -547,32 +602,37 @@ function handler(event) {
     if (!name) { return request; }
     try { name = decodeURIComponent(name); } catch (e) {}
 
-    if (!PAGE_TARGETS[name]) { return request; }
+    if (PAGES.indexOf('|' + name + '|') === -1) { return request; }
 
     var hasLegacyQuery = !!(params.page || params.pageIndex !== undefined || params.lang);
 
-    // URL extensionless sans paramètre : servir directement le .html (200, URL inchangée)
+    // URL extensionless sans parametre : servir le .html (200, URL inchangee)
     if (!isPhp && !hasLegacyQuery) {
-        request.uri = encodeURI('/' + PAGE_TARGETS[name]);
+        request.uri = encodeURI('/' + name + '.html');
         return request;
     }
 
-    // URL legacy (.php ou avec paramètres) : 301 vers la cible canonique
-    var target = PAGE_TARGETS[name];
-    var blog = BLOG_ALIAS[name];
+    // URL legacy (.php ou avec parametres) : 301 vers la cible canonique
+    var target = name + '.html';
+    var blog = ALIAS[name];
     if (blog && (params.page || params.pageIndex !== undefined)) {
+        var r = RANGES[blog];
         var post = null;
         if (params.page) {
-            post = BLOG_POSTS[blog][params.page];
+            var pi = parseInt(params.page, 10);
+            if (params.page === pad3(pi) && pi >= r[0] && pi <= r[1]) { post = pi; }
         } else {
-            post = POSTS_BY_INDEX[blog][String(parseInt(params.pageIndex, 10))];
+            var xi = parseInt(params.pageIndex, 10);
+            if (xi >= 0 && xi <= r[1] - r[0]) { post = r[1] - xi; }
         }
-        if (post) { target = post; }
+        if (post !== null) { target = blog + '-' + pad3(post) + '.html'; }
     }
 
     var lang = params.lang || 'fr';
-    var langs = PAGE_LANGS[name];
-    var eff = (langs.indexOf(lang) !== -1) ? lang : (lang === 'es' ? 'en' : 'fr');
+    var hasEn = (name === 'index' || name.indexOf('mayang') === 0);
+    var eff = (lang === 'fr' || (lang === 'en' && hasEn) || (lang === 'es' && !hasEn))
+        ? lang
+        : (hasEn && lang === 'es' ? 'en' : 'fr');
 
     var path = (eff === 'fr' ? '' : '/' + eff) + '/' + target;
     if (path === '/index.html') { path = '/'; }
@@ -588,18 +648,23 @@ function redirect301(location) {
 }
 EOT;
 $js = str_replace(
-    array('__PAGES__', '__LANGS__', '__ALIAS__', '__POSTS__', '__BYINDEX__'),
+    array('__PAGES__', '__ALIAS__', '__RANGES__'),
     array(
-        json_encode($fnPages, $je),
-        json_encode($fnLangs, $je),
-        json_encode($fnAlias, $je),
-        json_encode($fnPosts, $je),
-        json_encode($fnByIndex, $je),
+        json_encode($fnPagesStr, $je),
+        json_encode($PAGE_BLOG, $je),
+        json_encode($fnRanges, $je),
     ),
     $js
 );
+if (!preg_match('/^[\x00-\x7F]+$/', $js)) {
+    cfFail('caractères non ASCII dans le code généré');
+}
+$fnSize = strlen($js);
+if ($fnSize > 10240) {
+    cfFail("$fnSize octets dépassent la limite AWS (10 Ko)");
+}
 file_put_contents($TOOL . '/cloudfront-function.js', $js);
-echo "  cloudfront-function.js généré\n";
+echo "  cloudfront-function.js généré ($fnSize octets)\n";
 
 /* ------------------------------------------------------------------ */
 /* 9. Vérification des liens                                           */
